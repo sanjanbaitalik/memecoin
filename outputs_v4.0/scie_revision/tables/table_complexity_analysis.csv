@@ -1,0 +1,9 @@
+component,asymptotic_complexity,notes
+Feature preparation,O(NTF),Construct lagged and sentiment-aware features for each token over time.
+Graph construction,O(N^2 T),Pairwise token similarity across the candidate universe.
+Pairwise similarity calculation,O(N^2 T),Correlation and trajectory comparisons across all token pairs.
+Greedy MIS selection,O(N log N + E),Sort nodes by degree and suppress adjacent tokens.
+LSTM training,O(SNTLH),"Sequence model training across seeds, tokens, lookback length, horizon, and hidden size."
+MAML inner loop,O(SNTLKH),Token-level adaptation across K inner steps.
+MAML outer loop,O(SNTLBH),Meta-update over batches and tokens.
+Full PRISM training/inference,O(S(N^2T + NTLH + E)),"End-to-end graph, adaptation, and forecasting workflow."

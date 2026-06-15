@@ -1,0 +1,30 @@
+{
+  "generated_tables": [
+    "table5_revised_main_comparison.csv",
+    "table_ablation_sequential_legacy.csv",
+    "table_ablation_significance.csv",
+    "table_ablation_strict.csv",
+    "table_complexity_analysis.csv",
+    "table_dataset_transparency.csv",
+    "table_diversification_metrics.csv",
+    "table_graph_statistics.csv",
+    "table_hyperparameter_best_by_model.csv",
+    "table_risk_adjusted_metrics.csv",
+    "table_robustness_grid.csv",
+    "table_significance_vs_prism.csv",
+    "table_token_selection_bias.csv"
+  ],
+  "generated_figures": [
+    "fig_ablation_strict.png",
+    "fig_diversification_effect.png",
+    "fig_forecasting_comparison.png",
+    "fig_risk_adjusted_comparison.png",
+    "fig_token_history_distribution.png"
+  ],
+  "leakage_audit_passed": true,
+  "prism_best_mae": false,
+  "prism_best_rmse": false,
+  "recommended_claim": "PRISM outperforms several classical, tree-based, and recurrent neural baselines; however, Prophet and/or Persistence remain highly competitive under short-horizon MAE/RMSE, indicating strong local continuity in memecoin prices.",
+  "workbook": "C:\\Users\\91943\\Desktop\\Sanjan\\Research\\Memecoin\\data\\raw\\Output_database.xlsx",
+  "outputs": "C:\\Users\\91943\\Desktop\\Sanjan\\Research\\Memecoin\\outputs\\scie_revision"
+}

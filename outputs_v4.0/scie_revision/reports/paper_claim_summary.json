@@ -1,0 +1,13 @@
+{
+  "prism_best_mae": false,
+  "prism_best_rmse": false,
+  "baselines_better_than_prism_mae": [
+    "prophet",
+    "persistence"
+  ],
+  "baselines_better_than_prism_rmse": [
+    "prophet",
+    "persistence"
+  ],
+  "recommended_claim": "PRISM outperforms several classical, tree-based, and recurrent neural baselines; however, Prophet and/or Persistence remain highly competitive under short-horizon MAE/RMSE, indicating strong local continuity in memecoin prices."
+}

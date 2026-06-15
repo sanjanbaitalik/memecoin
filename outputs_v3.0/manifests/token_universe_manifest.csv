@@ -1,0 +1,1274 @@
+sheet_name,token,ticker,platform_or_chain,row_count,first_date,last_date,valid_date_count,price_coverage,twitter_sentiment_coverage,telegram_sentiment_coverage,reddit_sentiment_coverage,inclusion_status,exclusion_reason
+agenda47,AGENDA 47,a47,solana,4,2025-02-01,2025-02-04,4,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+aintivirus2,AIntivirus,ainti,solana,7,2025-01-29,2025-02-04,7,1.0,0.0,0.4285714285714285,0.0,excluded,too_few_rows<30
+andy4,ANDY,andy,binance-smart-chain,28,2025-01-08,2025-02-04,28,1.0,0.6071428571428571,0.0357142857142857,0.0,excluded,too_few_rows<30
+army,ARMY,army,solana,27,2025-01-09,2025-02-04,27,1.0,0.7407407407407407,0.0,1.0,excluded,too_few_rows<30
+assai,ASSAI,assai,solana,28,2025-01-08,2025-02-04,28,1.0,0.9642857142857144,0.0,0.0,excluded,too_few_rows<30
+aavegotchi,Aavegotchi,ghst,ethereum,23,2025-01-13,2025-02-04,23,1.0,0.782608695652174,1.0,0.0,excluded,too_few_rows<30
+allwillretire,All Will Retire,awr,solana,13,2025-01-23,2025-02-04,13,1.0,1.0,0.0,0.3076923076923077,excluded,too_few_rows<30
+beenz,BEENZ,beenz,solana,9,2025-01-27,2025-02-04,9,1.0,0.0,0.0,0.0,excluded,too_few_rows<30
+buttcoin3,BUTTCOIN,buttcoin,solana,21,2025-01-15,2025-02-04,21,1.0,0.6190476190476191,0.0,0.0,excluded,too_few_rows<30
+babyfwog,Baby Fwog,babyfwog,solana,26,2025-01-10,2025-02-04,26,1.0,0.9615384615384616,0.0769230769230769,0.0,excluded,too_few_rows<30
+babysharkmeme,Baby Shark Meme,babyshark,solana,22,2025-01-14,2025-02-04,22,1.0,0.9090909090909092,0.0,0.0,excluded,too_few_rows<30
+blackrack,BlackRack,racks,solana,27,2025-01-09,2025-02-04,27,1.0,1.0,0.7037037037037037,0.2592592592592592,excluded,too_few_rows<30
+boysclub,Boys Club,boys,ethereum,18,2025-01-18,2025-02-04,18,1.0,0.7777777777777778,0.9444444444444444,0.0,excluded,too_few_rows<30
+bulldogito,BullDogito,bdogito,binance-smart-chain,19,2025-01-17,2025-02-04,19,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+buttholes,Buttholes,bhole,solana,29,2025-01-07,2025-02-04,29,1.0,0.896551724137931,0.0,0.0,excluded,too_few_rows<30
+chaisavings,CHAISavings,chai,solana,25,2025-01-11,2025-02-04,25,1.0,0.56,0.0,0.0,excluded,too_few_rows<30
+chelon,CHELON,chelon,solana,15,2025-01-21,2025-02-04,15,1.0,0.9333333333333332,0.8666666666666667,0.0,excluded,too_few_rows<30
+coqai,COQ AI,coqai,avalanche,27,2025-01-09,2025-02-04,27,1.0,1.0,0.8888888888888888,0.0,excluded,too_few_rows<30
+calvininthecabal,Calvin in the Cabal,calvin,solana,21,2025-01-15,2025-02-04,21,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+cameldad,Camel Dad,camel,solana,18,2025-01-18,2025-02-04,18,1.0,0.9444444444444444,0.0,0.0,excluded,too_few_rows<30
+catwifhat,Cat Wif Hat,cwh,solana,17,2025-01-19,2025-02-04,17,1.0,0.3529411764705882,0.1764705882352941,0.0,excluded,too_few_rows<30
+chatoshi,ChAtoshI,chatoshi,solana,20,2025-01-16,2025-02-04,20,1.0,0.95,0.5,0.0,excluded,too_few_rows<30
+chompcoin,ChompCoin,chomp,solana,86,2024-12-20,2025-02-04,47,0.5465116279069767,0.9883720930232558,0.0,0.0,excluded,low_price_coverage<0.7
+cryptobro,Crypto Bro,larry,solana,1,2025-02-04,2025-02-04,1,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+cyphomancer,Cyphomancer,42,solana,29,2025-01-07,2025-02-04,29,1.0,0.9310344827586208,0.0,0.0,excluded,too_few_rows<30
+dogelink,DOGELINK,doger,solana,19,2025-01-17,2025-02-04,19,1.0,0.9473684210526316,0.9473684210526316,0.0,excluded,too_few_rows<30
+dogeai2,DOGEai,$dogeai,solana,11,2025-01-25,2025-02-04,11,1.0,0.7272727272727273,0.0,0.0,excluded,too_few_rows<30
+degeneratorproject,Degenerator Project,gnrt,solana,25,2025-01-11,2025-02-04,25,1.0,0.8,0.0,0.0,excluded,too_few_rows<30
+departmentofgovernmentefficiency,Department Of Government Efficiency,doge,ethereum,7,2025-01-29,2025-02-04,7,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+dogshitgoingnowhere,Dog shit going nowhere,dogshit2,solana,2,2025-02-03,2025-02-04,2,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+dogcoin2,Dogcoin,dcoin,ethereum,7,2025-01-29,2025-02-04,7,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+elontrumpfart,Elon Trump Fart,etf500,solana,28,2025-01-08,2025-02-04,28,1.0,0.9642857142857144,0.0,0.0,excluded,too_few_rows<30
+elon4afd,Elon4AfD,elon4afd,solana,9,2025-01-27,2025-02-04,9,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+fafo,FAFO,fafo,solana,2,2025-02-03,2025-02-04,2,1.0,0.5,0.0,0.0,excluded,too_few_rows<30
+fatcat2,FATCAT,$fatcat,solana,28,2025-01-08,2025-02-04,28,1.0,0.0,0.2142857142857142,0.0357142857142857,excluded,too_few_rows<30
+fight,FIGHT,fight,solana,17,2025-01-19,2025-02-04,17,1.0,0.0,0.0,0.2941176470588235,excluded,too_few_rows<30
+fartboy,Fartboy,$fartboy,solana,10,2025-01-26,2025-02-04,10,1.0,1.0,0.6,0.0,excluded,too_few_rows<30
+flockerz,Flockerz,flock,ethereum,4,2025-02-01,2025-02-04,4,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+gingergang,GINGER GANG,ginger,solana,19,2025-01-17,2025-02-04,19,1.0,1.0,0.5789473684210527,0.0,excluded,too_few_rows<30
+halloflegends,Hall of Legends,hol,arbitrum-one,2,2025-02-03,2025-02-04,2,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+ifscience,IF Science,ifsci,solana,13,2025-01-23,2025-02-04,13,1.0,0.7692307692307693,0.0,0.0,excluded,too_few_rows<30
+inthememetime,In The MEME Time,itmt,solana,10,2025-01-26,2025-02-04,10,1.0,0.8,0.0,0.0,excluded,too_few_rows<30
+justkira,JUST KIRA,kirai,solana,20,2025-01-16,2025-02-04,20,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+justalotto,Just a LOTTO,$lotto,solana,15,2025-01-21,2025-02-04,15,1.0,0.9333333333333332,0.0,0.0,excluded,too_few_rows<30
+chillguy,Just a chill guy,chillguy,solana,1,2025-02-04,2025-02-04,1,1.0,1.0,1.0,0.0,excluded,too_few_rows<30
+justiceforzachxbt,Justice for Zachxbt,zachxbt,solana,13,2025-01-23,2025-02-04,13,1.0,0.0,0.0,0.0,excluded,too_few_rows<30
+kapsel,KAPSEL,kapsel,solana,11,2025-01-25,2025-02-04,11,1.0,0.9090909090909092,0.0,0.0,excluded,too_few_rows<30
+kek3,Kek,kek,solana,21,2025-01-15,2025-02-04,21,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+kekiusmaximus4,Kekius Maximus,km,solana,28,2025-01-08,2025-02-04,28,1.0,0.9642857142857144,0.0,0.0,excluded,too_few_rows<30
+legit,LEGIT,legit,solana,17,2025-01-19,2025-02-04,17,1.0,0.8823529411764706,0.3529411764705882,0.0,excluded,too_few_rows<30
+lfgo,LFGO,lfgo,solana,86,2024-11-11,2024-11-17,8,0.0930232558139534,0.9883720930232558,0.7209302325581395,0.0,excluded,low_price_coverage<0.7
+limitless,LIMITLESS,limitless,solana,21,2025-01-15,2025-02-04,21,1.0,0.3809523809523809,0.0,0.0,excluded,too_few_rows<30
+largelanguagemodel,Large Language Model,llm,solana,24,2025-01-12,2025-02-04,24,1.0,0.9583333333333334,0.0,0.6666666666666666,excluded,too_few_rows<30
+lilloai,Lillo AI,$lillo,solana,1,2025-02-04,2025-02-04,1,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+maga,MAGA,trump,ethereum,14,2025-01-22,2025-02-04,14,1.0,0.9285714285714286,0.0,1.0,excluded,too_few_rows<30
+memdex100,MEMDEX100,memdex,solana,20,2025-01-16,2025-02-04,20,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+miaocoin,MIAOCoin,miao,binance-smart-chain,7,2025-01-29,2025-02-04,7,1.0,1.0,0.2857142857142857,0.0,excluded,too_few_rows<30
+madeinamerica,Made In America,mia,solana,7,2025-01-29,2025-02-04,7,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+miladymemecoin,Milady Meme Coin,ladys,ethereum,20,2025-01-16,2025-02-04,20,1.0,1.0,0.0,0.05,excluded,too_few_rows<30
+mobcat,Mobcat,mob,solana,11,2025-01-25,2025-02-04,11,1.0,0.6363636363636364,0.0,0.0,excluded,too_few_rows<30
+nibbles,Nibbles,nibbles,solana,7,2025-01-29,2025-02-04,7,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+nitro2,Nitro,nitro,ethereum,7,2025-01-29,2025-02-04,7,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+onyxarches,Onyx Arches,oxa,solana,7,2025-01-28,2025-02-04,7,1.0,0.8571428571428571,1.0,0.0,excluded,too_few_rows<30
+pepo,PEPO,pepo,solana,21,2025-01-15,2025-02-04,21,1.0,1.0,0.3333333333333333,0.0,excluded,too_few_rows<30
+pucca,PUCCA,$pucca,solana,29,2025-01-07,2025-02-04,29,1.0,0.6551724137931034,0.2413793103448276,0.4827586206896552,excluded,too_few_rows<30
+pythia,PYTHIA,pythia,solana,28,2025-01-08,2025-02-04,28,1.0,0.9285714285714286,0.4642857142857143,0.1428571428571428,excluded,too_few_rows<30
+peezyeth,Peezy ETH,peezy,ethereum,29,2025-01-07,2025-02-04,29,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+poppy2,Poppy,poppy,ethereum,24,2025-01-12,2025-02-04,24,1.0,0.0,0.0416666666666666,0.0,excluded,too_few_rows<30
+pumpkin4,Pumpkin,pkin,solana,1,2025-02-04,2025-02-04,1,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+runepups,Pups (Bitcoin),pups,solana,17,2025-01-19,2025-02-04,17,1.0,0.9411764705882352,1.0,0.0,excluded,too_few_rows<30
+regent,REGENT,regent,solana,11,2025-01-25,2025-02-04,11,1.0,0.8181818181818182,0.0,0.2727272727272727,excluded,too_few_rows<30
+realniggertate,RNT,rnt,solana,10,2024-11-11,2024-11-20,10,1.0,0.0,0.0,0.0,excluded,too_few_rows<30
+raincoin,Rain Coin,rain,polygon-pos,14,2025-01-22,2025-02-04,14,1.0,0.8571428571428571,0.0,0.0,excluded,too_few_rows<30
+s,S,s,arbitrum-one,16,2025-01-20,2025-02-04,16,1.0,0.0,0.625,0.0,excluded,too_few_rows<30
+seamania,SEAMANIA,seamania,solana,14,2025-01-22,2025-02-04,14,1.0,0.6428571428571429,0.0,0.0,excluded,too_few_rows<30
+sentai2,SENTAI,sentai,solana,22,2025-01-14,2025-02-04,22,1.0,1.0,0.8636363636363636,0.0909090909090909,excluded,too_few_rows<30
+suidesciagents,SUI Desci Agents,desci,ethereum,14,2025-01-22,2025-02-04,14,1.0,1.0,1.0,0.0,excluded,too_few_rows<30
+sanchan,San Chan,san,solana,3,2025-02-02,2025-02-04,3,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+sentioprotocol,Sentio Protocol,sen,ethereum,29,2025-01-07,2025-02-04,29,1.0,0.9310344827586208,0.0,0.0,excluded,too_few_rows<30
+shibainutreat,Shiba Inu Treat,treat,ethereum,20,2025-01-16,2025-02-04,20,1.0,0.9,0.15,0.0,excluded,too_few_rows<30
+shironeko2,Shiro Neko,shiro,ethereum,17,2025-01-19,2025-02-04,17,1.0,0.7647058823529411,0.0,0.0,excluded,too_few_rows<30
+shytoshikusama,Shytoshi Kusama,shy,solana,2,2025-02-03,2025-02-04,2,1.0,0.0,0.0,0.0,excluded,too_few_rows<30
+stinkcoin,Stink Coin,stinkcoin,solana,28,2025-01-08,2025-02-04,28,1.0,0.1428571428571428,0.0,0.0,excluded,too_few_rows<30
+tay,TAY,tay,solana,19,2025-01-17,2025-02-04,19,1.0,0.0,0.0,0.0,excluded,too_few_rows<30
+usacoin,USAcoin,usacoin,ethereum,16,2025-01-20,2025-02-04,16,1.0,0.0,0.0,0.0,excluded,too_few_rows<30
+wagmigame2,WAGMI Games,wagmigames,ethereum,12,2025-01-24,2025-02-04,12,1.0,0.8333333333333334,0.8333333333333334,0.0,excluded,too_few_rows<30
+warriorcoin,Warrior Coin,war,solana,1,2025-02-04,2025-02-04,1,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+welovet,We Love Tits,tits,solana,27,2025-01-09,2025-02-04,27,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+whale2,Whale,whale,binance-smart-chain,16,2025-01-20,2025-02-04,16,1.0,0.9375,0.8125,0.75,excluded,too_few_rows<30
+xmoney,XMONEY,xmoney,solana,7,2025-01-29,2025-02-04,7,1.0,0.8571428571428571,0.7142857142857143,0.0,excluded,too_few_rows<30
+zaichxbt,ZaichXBT,zai,solana,7,2025-01-29,2025-02-04,7,1.0,1.0,0.7142857142857143,0.0,excluded,too_few_rows<30
+zenai,Zen AI,zai,solana,12,2025-01-24,2025-02-04,12,1.0,0.0833333333333333,0.3333333333333333,0.0,excluded,too_few_rows<30
+zooworld,Zoo World,zoo,solana,4,2025-02-01,2025-02-04,4,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+a16gems,a16gems,a16g,solana,9,2025-01-27,2025-02-04,9,1.0,1.0,0.1111111111111111,0.0,excluded,too_few_rows<30
+aaacat,aaacat,,,86,,,0,0.0,0.7441860465116279,0.5348837209302325,0.0,excluded,invalid_date;low_price_coverage<0.7
+actual,actual,,,2,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+aerobud,aerobud,,,83,,,0,0.0,0.0,0.0,0.7469879518072289,excluded,invalid_date;low_price_coverage<0.7
+aethernet,aethernet,,,16,,,0,0.0,0.0,0.0,0.0625,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+agents,agents,,,40,,,0,0.0,1.0,0.0,0.85,excluded,invalid_date;low_price_coverage<0.7
+agentzero,agentzero,,,77,,,0,0.0,1.0,0.0,0.0519480519480519,excluded,invalid_date;low_price_coverage<0.7
+ahatoken,ahatoken,,,81,,,0,0.0,0.5555555555555556,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+aicrostrategy,aicrostrategy,,,38,,,0,0.0,0.7368421052631579,0.1052631578947368,0.0,excluded,invalid_date;low_price_coverage<0.7
+aida,aida,,,25,,,0,0.0,1.0,0.64,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+airene,airene,,,84,,,0,0.0,0.9404761904761904,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+aiws,aiws,,,21,,,0,0.0,0.8571428571428571,0.0,0.1904761904761904,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+akumainu,akumainu,,,67,,,0,0.0,0.0,0.2238805970149253,0.0,excluded,invalid_date;low_price_coverage<0.7
+allyourbase2,allyourbase2,,,86,,,0,0.0,0.9534883720930232,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+amocucinare,amocucinare,,,65,,,0,0.0,0.7538461538461538,0.2307692307692307,0.0,excluded,invalid_date;low_price_coverage<0.7
+andyerc,andyerc,,,86,,,0,0.0,0.8604651162790697,1.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+andyonbase,andyonbase,,,86,,,0,0.0,0.9418604651162792,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+army3,army3,,,32,,,0,0.0,1.0,0.0,0.9375,excluded,invalid_date;low_price_coverage<0.7
+atabyvirtuals,atabyvirtuals,,,28,,,0,0.0,0.8928571428571429,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+atehun,atehun,,,50,,,0,0.0,1.0,0.88,0.0,excluded,invalid_date;low_price_coverage<0.7
+autist,autist,,,53,,,0,0.0,0.9056603773584906,0.0188679245283018,0.0,excluded,invalid_date;low_price_coverage<0.7
+axol,axol,,,86,,,0,0.0,0.9883720930232558,0.0,0.0581395348837209,excluded,invalid_date;low_price_coverage<0.7
+babypengu,babypengu,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+babytiger,babytiger,,,71,,,0,0.0,0.7323943661971831,0.056338028169014,0.0,excluded,invalid_date;low_price_coverage<0.7
+bambooonbase,bambooonbase,,,86,,,0,0.0,0.8372093023255814,0.0,0.0813953488372093,excluded,invalid_date;low_price_coverage<0.7
+banano,banano,,,86,,,0,0.0,0.7325581395348837,0.7674418604651163,0.7906976744186046,excluded,invalid_date;low_price_coverage<0.7
+bangkit,bangkit,,,5,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+basedbario,basedbario,,,53,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+basedbutthole,basedbutthole,,,17,,,0,0.0,1.0,0.4705882352941176,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+basedchad,basedchad,,,74,,,0,0.0,0.3378378378378378,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+basedfartcoin,basedfartcoin,,,36,,,0,0.0,0.9722222222222222,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+basedfwog,basedfwog,,,50,,,0,0.0,0.78,0.22,0.0,excluded,invalid_date;low_price_coverage<0.7
+basedhoppy,basedhoppy,,,18,,,0,0.0,0.8333333333333334,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+basedinternetpandarunes,basedinternetpandarunes,,,86,,,0,0.0,0.9651162790697676,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+basedpepe,basedpepe,,,86,,,0,0.0,0.9534883720930232,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+basedturbo,basedturbo,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+basegod,basegod,,,86,,,0,0.0,0.9651162790697676,0.0,0.5,excluded,invalid_date;low_price_coverage<0.7
+basenji,basenji,,,86,,,0,0.0,0.5813953488372093,0.0,0.7790697674418605,excluded,invalid_date;low_price_coverage<0.7
+beamcat,beamcat,,,86,,,0,0.0,0.9534883720930232,0.9883720930232558,0.0,excluded,invalid_date;low_price_coverage<0.7
+beatsonbase,beatsonbase,,,51,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+beebase,beebase,,,86,,,0,0.0,0.0,0.6627906976744186,0.0,excluded,invalid_date;low_price_coverage<0.7
+beegbluewhale,beegbluewhale,,,74,,,0,0.0,0.9594594594594594,0.7297297297297297,0.0,excluded,invalid_date;low_price_coverage<0.7
+bellscoin,bellscoin,,,28,,,0,0.0,0.0,0.0,0.0357142857142857,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+beni,beni,,,81,,,0,0.0,0.9629629629629628,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+bigtony,bigtony,,,2,,,0,0.0,0.0,0.0,0.5,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+birdsping,birdsping,,,86,,,0,0.0,0.8255813953488372,0.9767441860465116,0.0,excluded,invalid_date;low_price_coverage<0.7
+bitcoinbrobearrunes,bitcoinbrobearrunes,,,83,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+bitcoinonbase,bitcoinonbase,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+blackdragon,blackdragon,,,86,,,0,0.0,0.9186046511627908,0.0,0.6046511627906976,excluded,invalid_date;low_price_coverage<0.7
+blepsupermeme,blepsupermeme,,,42,,,0,0.0,0.9047619047619048,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+blub,blub,,,86,,,0,0.0,0.9651162790697676,0.1046511627906976,0.0,excluded,invalid_date;low_price_coverage<0.7
+bmoneyakabrett,bmoneyakabrett,,,57,,,0,0.0,0.8596491228070176,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+bob3,bob3,,,86,,,0,0.0,0.5930232558139535,0.3953488372093023,0.3488372093023256,excluded,invalid_date;low_price_coverage<0.7
+bonkey,bonkey,,,77,,,0,0.0,0.987012987012987,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+boomer,boomer,,,86,,,0,0.0,0.8372093023255814,0.0,0.1162790697674418,excluded,invalid_date;low_price_coverage<0.7
+booshi,booshi,,,86,,,0,0.0,0.5348837209302325,0.9883720930232558,0.0,excluded,invalid_date;low_price_coverage<0.7
+bored2,bored2,,,86,,,0,0.0,0.9767441860465116,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+breakoutbrobyvirtuals,breakoutbrobyvirtuals,,,38,,,0,0.0,0.8947368421052632,0.9473684210526316,0.0,excluded,invalid_date;low_price_coverage<0.7
+brian,brian,,,46,,,0,0.0,0.2391304347826087,0.0,0.0434782608695652,excluded,invalid_date;low_price_coverage<0.7
+britto2,britto2,,,22,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+bsop,bsop,,,1,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+bubbles2,bubbles2,,,85,,,0,0.0,0.0,0.4470588235294118,0.0,excluded,invalid_date;low_price_coverage<0.7
+bulla2,bulla2,,,28,,,0,0.0,0.8928571428571429,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+burt,burt,,,86,,,0,0.0,0.9651162790697676,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+carlo,carlo,,,53,,,0,0.0,0.9622641509433962,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+catbal,catbal,,,86,,,0,0.0,0.8953488372093024,0.0465116279069767,0.0,excluded,invalid_date;low_price_coverage<0.7
+catcoin,catcoin,,,86,,,0,0.0,0.8372093023255814,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+charlesthechad,charlesthechad,,,63,,,0,0.0,0.7936507936507936,0.0,0.0158730158730158,excluded,invalid_date;low_price_coverage<0.7
+chihuahuatoken,chihuahuatoken,,,86,,,0,0.0,0.9302325581395348,0.8488372093023255,0.0,excluded,invalid_date;low_price_coverage<0.7
+chinesedogewow,chinesedogewow,,,63,,,0,0.0,0.9047619047619048,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+clankfun,clankfun,,,53,,,0,0.0,0.9433962264150944,0.0188679245283018,0.0188679245283018,excluded,invalid_date;low_price_coverage<0.7
+clayton,clayton,,,19,,,0,0.0,1.0,0.3157894736842105,0.8421052631578947,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+coffee2,coffee2,,,76,,,0,0.0,0.9078947368421052,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+coin6900,coin6900,,,85,,,0,0.0,0.9058823529411764,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+coinyewest,coinyewest,,,7,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+condo,condo,,,86,,,0,0.0,0.8488372093023255,1.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+crashonbase,crashonbase,,,86,,,0,0.0,0.9534883720930232,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+curtis,curtis,,,86,,,0,0.0,0.8372093023255814,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+cuteasiangirl,cuteasiangirl,,,11,,,0,0.0,0.9090909090909092,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+cyberdog,cyberdog,,,45,,,0,0.0,1.0,0.9555555555555556,0.0,excluded,invalid_date;low_price_coverage<0.7
+cyphergenesisrunes,cyphergenesisrunes,,,62,,,0,0.0,0.8870967741935484,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+degencapitalbyvirtuals,degencapitalbyvirtuals,,,54,,,0,0.0,0.8148148148148148,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+degenerativesitcom,degenerative SITCOM,$sitcom,solana,29,2025-01-07,2025-02-04,29,1.0,0.8275862068965517,0.0,0.0,excluded,too_few_rows<30
+dickbutt,dickbutt,,,29,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+dino2,dino2,,,22,,,0,0.0,1.0,0.9090909090909092,0.5,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+dogeeatdoge,dogeeatdoge,,,86,,,0,0.0,0.686046511627907,0.9651162790697676,0.0813953488372093,excluded,invalid_date;low_price_coverage<0.7
+dogeinu,dogeinu,,,84,,,0,0.0,0.9523809523809524,0.1666666666666666,0.0,excluded,invalid_date;low_price_coverage<0.7
+dogi,dogi,,,86,,,0,0.0,0.8953488372093024,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+doginme,doginme,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+dogk,dogk,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+dream2,dream2,,,70,,,0,0.0,0.9,0.0,0.2857142857142857,excluded,invalid_date;low_price_coverage<0.7
+drop2,drop2,,,33,,,0,0.0,1.0,0.0,0.1212121212121212,excluded,invalid_date;low_price_coverage<0.7
+farm2,farm2,,,48,,,0,0.0,0.8125,0.0208333333333333,0.3125,excluded,invalid_date;low_price_coverage<0.7
+flatearth,flatearth,,,86,,,0,0.0,0.7790697674418605,0.0,0.9767441860465116,excluded,invalid_date;low_price_coverage<0.7
+fofar2,fofar2,,,85,,,0,0.0,0.7529411764705882,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+forgivemefather,forgivemefather,,,78,,,0,0.0,0.935897435897436,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+foxy,foxy,,,86,,,0,0.0,0.2209302325581395,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+fpibank,fpibank,,,1,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+freysaai,freysaai,,,62,,,0,0.0,0.7903225806451613,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+fudthepug,fudthepug,,,86,,,0,0.0,0.9883720930232558,1.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+fwogtakes,fwogtakes,,,36,,,0,0.0,0.0,0.0,0.0833333333333333,excluded,invalid_date;low_price_coverage<0.7
+gekobase,gekobase,,,50,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+gertrudedatapig,gertrudedatapig,,,33,,,0,0.0,0.8484848484848485,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+ghffb47yii2rteeyy10op,ghffb47yii2rteeyy10op,,,69,,,0,0.0,0.7536231884057971,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+ghoad,ghoad,,,86,,,0,0.0,0.9418604651162792,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+gizmoimaginarykittenrunes,gizmoimaginarykittenrunes,,,86,,,0,0.0,0.6395348837209303,0.9767441860465116,0.0,excluded,invalid_date;low_price_coverage<0.7
+goatbased,goatbased,,,8,,,0,0.0,0.375,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+goats2,goats2,,,54,,,0,0.0,0.9629629629629628,0.9629629629629628,0.0,excluded,invalid_date;low_price_coverage<0.7
+gobisgobisgob,gobisgobisgob,,,18,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+goggles,goggles,,,86,,,0,0.0,0.1395348837209302,0.6627906976744186,0.0,excluded,invalid_date;low_price_coverage<0.7
+googles,googles,,,1,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+grass3,grass3,,,49,,,0,0.0,1.0,0.0,0.2653061224489796,excluded,invalid_date;low_price_coverage<0.7
+guanciale,guanciale,,,74,,,0,0.0,0.9054054054054054,0.8378378378378378,0.0,excluded,invalid_date;low_price_coverage<0.7
+guiinu,guiinu,,,86,,,0,0.0,0.8255813953488372,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+hathor,hathor,,,86,,,0,0.0,0.9069767441860463,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+hatom,hatom,,,84,,,0,0.0,0.7023809523809523,0.988095238095238,0.0238095238095238,excluded,invalid_date;low_price_coverage<0.7
+hedgewaterdao,hedgewaterdao,,,1,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+hedgythehedgehog,hedgythehedgehog,,,70,,,0,0.0,0.9857142857142858,0.0,0.3571428571428571,excluded,invalid_date;low_price_coverage<0.7
+henlo2,henlo2,,,60,,,0,0.0,0.4166666666666667,0.0666666666666666,0.0833333333333333,excluded,invalid_date;low_price_coverage<0.7
+higher,higher,,,86,,,0,0.0,0.3953488372093023,0.0,0.1046511627906976,excluded,invalid_date;low_price_coverage<0.7
+hopcat,hop cat,hop,solana,24,2025-01-12,2025-02-04,24,1.0,0.9583333333333334,0.0,0.0,excluded,too_few_rows<30
+hovercat,hovercat,,,12,,,0,0.0,0.5833333333333334,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+hug,hug,,,71,,,0,0.0,0.0,0.5774647887323944,0.1971830985915492,excluded,invalid_date;low_price_coverage<0.7
+hyena,hyena,,,36,,,0,0.0,0.9444444444444444,0.9166666666666666,0.1111111111111111,excluded,invalid_date;low_price_coverage<0.7
+indi,indi,,,38,,,0,0.0,0.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+internetdoge,internetdoge,,,63,,,0,0.0,0.5079365079365079,0.2857142857142857,0.1587301587301587,excluded,invalid_date;low_price_coverage<0.7
+investzone,investzone,,,86,,,0,0.0,0.9302325581395348,0.1627906976744186,0.0,excluded,invalid_date;low_price_coverage<0.7
+ionabyvirtuals,ionabyvirtuals,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+ivy2,ivy2,,,7,,,0,0.0,1.0,0.0,1.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+jaihoz,jaihoz,,,21,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+jeff3,jeff3,,,86,,,0,0.0,0.6046511627906976,0.0,0.4069767441860465,excluded,invalid_date;low_price_coverage<0.7
+kango,kango,,,86,,,0,0.0,0.686046511627907,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+kasper,kasper,,,86,,,0,0.0,0.9883720930232558,0.9186046511627908,0.1395348837209302,excluded,invalid_date;low_price_coverage<0.7
+kaspy,kaspy,,,71,,,0,0.0,0.0,0.0140845070422535,0.0,excluded,invalid_date;low_price_coverage<0.7
+keke,keke,,,78,,,0,0.0,0.6923076923076923,0.0128205128205128,0.0,excluded,invalid_date;low_price_coverage<0.7
+kenduinu2,kenduinu2,,,86,,,0,0.0,0.9883720930232558,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+keyboardcatbase,keyboardcatbase,,,52,,,0,0.0,0.9807692307692308,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+kiratheinjectivecat,kiratheinjectivecat,,,86,,,0,0.0,0.9534883720930232,1.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+kokutheshikoku,kokutheshikoku,,,7,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+konanofkaspa,konanofkaspa,,,83,,,0,0.0,0.9879518072289156,0.108433734939759,0.0,excluded,invalid_date;low_price_coverage<0.7
+landwolfbase,landwolfbase,,,80,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+leopold,leopold,,,69,,,0,0.0,0.0,0.0,0.0289855072463768,excluded,invalid_date;low_price_coverage<0.7
+lifechangingpill,life changing pill,pill,solana,2,2025-02-03,2025-02-04,2,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+lilbrett,lilbrett,,,68,,,0,0.0,0.9264705882352942,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+liquina,liquina,,,62,,,0,0.0,0.7903225806451613,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+liquor,liquor,,,86,,,0,0.0,0.5930232558139535,0.0,0.5116279069767442,excluded,invalid_date;low_price_coverage<0.7
+lockinonbase,lockinonbase,,,33,,,0,0.0,0.8484848484848485,0.0303030303030303,0.0,excluded,invalid_date;low_price_coverage<0.7
+lofi2,lofi2,,,70,,,0,0.0,1.0,0.0,0.0857142857142857,excluded,invalid_date;low_price_coverage<0.7
+loopysui,loopysui,,,86,,,0,0.0,0.8604651162790697,0.9302325581395348,0.0,excluded,invalid_date;low_price_coverage<0.7
+lou,lou,lou,solana,17,2025-01-19,2025-02-04,17,1.0,0.8823529411764706,0.1176470588235294,0.0,excluded,too_few_rows<30
+luckycoin,luckycoin,,,86,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+luminous,luminous,,,77,,,0,0.0,0.1948051948051948,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+lumoscoin,lumoscoin,,,86,,,0,0.0,0.9302325581395348,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+machi,machi,,,86,,,0,0.0,0.0348837209302325,0.6744186046511628,0.4418604651162791,excluded,invalid_date;low_price_coverage<0.7
+marsotech,marsotech,,,36,,,0,0.0,1.0,1.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+memeerkat,memeerkat,,,53,,,0,0.0,0.981132075471698,0.0943396226415094,0.0,excluded,invalid_date;low_price_coverage<0.7
+memefi2,memefi2,,,73,,,0,0.0,0.7808219178082192,0.1506849315068493,0.0,excluded,invalid_date;low_price_coverage<0.7
+mementomori,mementomori,,,80,,,0,0.0,0.0,0.0,0.2,excluded,invalid_date;low_price_coverage<0.7
+meow3,meow3,,,86,,,0,0.0,0.4883720930232558,0.7906976744186046,0.0,excluded,invalid_date;low_price_coverage<0.7
+mfercoin,mfercoin,,,86,,,0,0.0,0.4651162790697674,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+millicoin,millicoin,,,86,,,0,0.0,0.8488372093023255,0.6511627906976745,0.0,excluded,invalid_date;low_price_coverage<0.7
+mistermiggles,mistermiggles,,,86,,,0,0.0,0.9883720930232558,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+mistery,mistery,,,86,,,0,0.0,1.0,0.8604651162790697,0.0697674418604651,excluded,invalid_date;low_price_coverage<0.7
+mochithecatcoin,mochithecatcoin,,,86,,,0,0.0,0.872093023255814,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+monko,monko,,,1,,,0,0.0,1.0,1.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+moomoo,moomoo,,,62,,,0,0.0,0.935483870967742,0.0,0.032258064516129,excluded,invalid_date;low_price_coverage<0.7
+moondogai,moondogai,,,19,,,0,0.0,0.4736842105263157,0.0526315789473684,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+moonrabbits,moonrabbits,,,59,,,0,0.0,0.9491525423728814,0.1016949152542373,0.0,excluded,invalid_date;low_price_coverage<0.7
+msqcycleburn,msqcycleburn,,,85,,,0,0.0,0.9294117647058824,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+muncat,muncat,,,86,,,0,0.0,0.3953488372093023,0.9883720930232558,0.0,excluded,invalid_date;low_price_coverage<0.7
+nachothekat,nachothekat,,,86,,,0,0.0,0.9767441860465116,0.7558139534883721,0.0465116279069767,excluded,invalid_date;low_price_coverage<0.7
+nikitabyvirtuals,nikitabyvirtuals,,,41,,,0,0.0,0.2926829268292683,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+nikolai,nikolai,,,70,,,0,0.0,1.0,0.9571428571428572,0.0142857142857142,excluded,invalid_date;low_price_coverage<0.7
+nonja,nonja,,,78,,,0,0.0,0.0,0.0256410256410256,0.0,excluded,invalid_date;low_price_coverage<0.7
+normie2,normie2,,,86,,,0,0.0,0.9651162790697676,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+normilio,normilio,,,61,,,0,0.0,0.8524590163934426,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+nothing3,nothing3,,,86,,,0,0.0,0.5813953488372093,0.0,0.0116279069767441,excluded,invalid_date;low_price_coverage<0.7
+okayeg,okayeg,,,70,,,0,0.0,0.9142857142857144,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+omega3,omega3,,,86,,,0,0.0,0.8023255813953488,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+otto,otto,,,53,,,0,0.0,1.0,0.3584905660377358,0.0,excluded,invalid_date;low_price_coverage<0.7
+paponinja,paponinja,,,86,,,0,0.0,0.2325581395348837,0.9534883720930232,0.0,excluded,invalid_date;low_price_coverage<0.7
+paradox3,paradox3,,,78,,,0,0.0,0.8974358974358975,0.8333333333333334,0.1282051282051282,excluded,invalid_date;low_price_coverage<0.7
+party4,party4,,,48,,,0,0.0,0.9166666666666666,0.9583333333333334,0.125,excluded,invalid_date;low_price_coverage<0.7
+patriotonbase,patriotonbase,,,44,,,0,0.0,0.1136363636363636,0.0,0.25,excluded,invalid_date;low_price_coverage<0.7
+pepe0x69onbase,pepe0x69onbase,,,83,,,0,0.0,0.9518072289156626,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+pepebrc,pepebrc,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+pepecoinnetwork,pepecoinnetwork,,,86,,,0,0.0,0.872093023255814,0.0,0.7209302325581395,excluded,invalid_date;low_price_coverage<0.7
+pepekrc20,pepekrc20,,,86,,,0,0.0,0.3372093023255814,0.9069767441860463,0.0,excluded,invalid_date;low_price_coverage<0.7
+phnix,phnix,,,38,,,0,0.0,1.0,0.0,0.1842105263157894,excluded,invalid_date;low_price_coverage<0.7
+piggy2,piggy2,,,45,,,0,0.0,0.7555555555555555,0.0,0.8444444444444444,excluded,invalid_date;low_price_coverage<0.7
+pigu,pigu,,,86,,,0,0.0,0.9302325581395348,0.9534883720930232,0.0,excluded,invalid_date;low_price_coverage<0.7
+pikatopiko,pikatopiko,,,86,,,0,0.0,0.7558139534883721,0.0348837209302325,0.0,excluded,invalid_date;low_price_coverage<0.7
+pineapplecat2,pineapplecat2,,,55,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+pip3,pip3,,,86,,,0,0.0,0.9069767441860463,0.0,0.0813953488372093,excluded,invalid_date;low_price_coverage<0.7
+pizabrc,pizabrc,,,71,,,0,0.0,0.9577464788732394,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+podflowaibyvirtuals,podflowaibyvirtuals,,,40,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+points2,points2,,,56,,,0,0.0,0.0,0.0,0.0535714285714285,excluded,invalid_date;low_price_coverage<0.7
+poncho,poncho,,,86,,,0,0.0,0.9883720930232558,0.0,0.2558139534883721,excluded,invalid_date;low_price_coverage<0.7
+pongo2,pongo2,,,22,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+poveldurev,poveldurev,,,86,,,0,0.0,0.9302325581395348,0.5348837209302325,0.0,excluded,invalid_date;low_price_coverage<0.7
+pozocoin,pozocoin,,,55,,,0,0.0,0.9090909090909092,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+pumpcorn,pumpcorn,,,54,,,0,0.0,0.8703703703703703,1.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+puss,puss,,,86,,,0,0.0,1.0,0.6976744186046512,0.0,excluded,invalid_date;low_price_coverage<0.7
+queenpooie,queenpooie,,,21,,,0,0.0,1.0,1.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+ratomilton,ratomilton,milton,solana,2,2025-02-03,2025-02-04,2,1.0,1.0,0.0,0.0,excluded,too_few_rows<30
+realgoat,realgoat,,,86,,,0,0.0,1.0,0.9883720930232558,0.0,excluded,invalid_date;low_price_coverage<0.7
+redactedgdupi,redactedgdupi,,,53,,,0,0.0,0.981132075471698,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+resistancedog,resistancedog,,,86,,,0,0.0,0.7209302325581395,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+rondaonsui,rondaonsui,,,84,,,0,0.0,0.8928571428571429,0.5119047619047619,0.0,excluded,invalid_date;low_price_coverage<0.7
+runesxbitcoin,runesxbitcoin,,,46,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+russell,russell,,,86,,,0,0.0,0.9534883720930232,0.0116279069767441,0.0,excluded,invalid_date;low_price_coverage<0.7
+sacabam,sacabam,,,86,,,0,0.0,0.9418604651162792,0.9418604651162792,0.0,excluded,invalid_date;low_price_coverage<0.7
+salute,salute,,,7,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+satoshai,satoshai,,,25,,,0,0.0,0.92,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+satoshiaiagentbyvirtuals,satoshiaiagentbyvirtuals,,,62,,,0,0.0,0.9516129032258064,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+sealdog,sealdog,,,76,,,0,0.0,0.25,0.2631578947368421,0.0,excluded,invalid_date;low_price_coverage<0.7
+seiyan,seiyan,,,86,,,0,0.0,0.9302325581395348,0.9534883720930232,0.0,excluded,invalid_date;low_price_coverage<0.7
+shishacoin,shishacoin,,,53,,,0,0.0,1.0,0.2641509433962264,0.0,excluded,invalid_date;low_price_coverage<0.7
+shitcats,shitcats,,,59,,,0,0.0,0.9830508474576272,0.8305084745762712,0.0,excluded,invalid_date;low_price_coverage<0.7
+shork,shork,,,83,,,0,0.0,0.9036144578313252,0.0,0.3373493975903614,excluded,invalid_date;low_price_coverage<0.7
+sigma3,sigma3,,,1,,,0,0.0,1.0,1.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+skimaskcat,skimaskcat,,,62,,,0,0.0,0.8709677419354839,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+skimaskdog,skimaskdog,,,74,,,0,0.0,0.0,0.0,0.0405405405405405,excluded,invalid_date;low_price_coverage<0.7
+skimaskpepe,skimaskpepe,,,51,,,0,0.0,0.3725490196078431,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+skullofpepetoken,skullofpepetoken,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+snailbrook,snailbrook,,,86,,,0,0.0,1.0,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+sonicsnipebot,sonicsnipebot,,,60,,,0,0.0,0.8833333333333333,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+spacebucks,spacebucks,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+spice2,spice2,,,67,,,0,0.0,0.0,0.8955223880597015,0.0,excluded,invalid_date;low_price_coverage<0.7
+sroomaidao,sroomaidao,,,22,,,0,0.0,0.0909090909090909,0.9090909090909092,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+starknetbrother,starknetbrother,,,82,,,0,0.0,0.9146341463414634,0.7195121951219512,0.0,excluded,invalid_date;low_price_coverage<0.7
+sugarboy,sugarboy,,,69,,,0,0.0,0.927536231884058,0.6666666666666666,0.0,excluded,invalid_date;low_price_coverage<0.7
+sugarbush,sugarbush,,,41,,,0,0.0,0.951219512195122,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+suibainu,suibainu,,,86,,,0,0.0,0.9651162790697676,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+suicuneonsui,suicuneonsui,,,86,,,0,0.0,0.6046511627906976,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+suicytheseal,suicytheseal,,,60,,,0,0.0,0.9833333333333332,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+suijak,suijak,,,58,,,0,0.0,0.896551724137931,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+suiman,suiman,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+suinami,suinami,,,86,,,0,0.0,0.8023255813953488,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+sumi,sumi,,,82,,,0,0.0,0.9146341463414634,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+suncat,suncat,,,86,,,0,0.0,0.9767441860465116,0.4418604651162791,0.0,excluded,invalid_date;low_price_coverage<0.7
+sundog,sundog,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+sunwukong,sunwukong,,,74,,,0,0.0,0.0,0.0,0.0675675675675675,excluded,invalid_date;low_price_coverage<0.7
+superanon,superanon,,,68,,,0,0.0,0.6617647058823529,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+supersuiyan,supersuiyan,,,77,,,0,0.0,0.8311688311688312,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+sympsonai,sympsonai,,,19,,,0,0.0,0.9473684210526316,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+synthesizerdog,synthesizerdog,,,78,,,0,0.0,0.9487179487179488,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tadpole,tadpole,,,77,,,0,0.0,0.8181818181818182,0.8181818181818182,0.4025974025974026,excluded,invalid_date;low_price_coverage<0.7
+tardi,tardi,,,49,,,0,0.0,0.979591836734694,0.0,0.7346938775510204,excluded,invalid_date;low_price_coverage<0.7
+teddybear,teddybear,,,70,,,0,0.0,0.2428571428571428,0.9285714285714286,0.8285714285714286,excluded,invalid_date;low_price_coverage<0.7
+thedogeson,thedogeson,,,7,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+theresistancecat,theresistancecat,,,74,,,0,0.0,0.2702702702702703,0.1351351351351351,0.0,excluded,invalid_date;low_price_coverage<0.7
+thisismyiguana,thisismyiguana,,,81,,,0,0.0,1.0,0.0,0.4444444444444444,excluded,invalid_date;low_price_coverage<0.7
+tinyfren,tinyfren,,,44,,,0,0.0,0.9545454545454546,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tism,tism,,,78,,,0,0.0,0.2051282051282051,0.0,0.1025641025641025,excluded,invalid_date;low_price_coverage<0.7
+tn100x,tn100x,,,72,,,0,0.0,0.8194444444444444,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tobytoadgod,tobytoadgod,,,70,,,0,0.0,0.9,0.9428571428571428,0.0,excluded,invalid_date;low_price_coverage<0.7
+tokenbot2,tokenbot2,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+tokenmetricsai,tokenmetricsai,,,57,,,0,0.0,0.5263157894736842,0.9649122807017544,0.0,excluded,invalid_date;low_price_coverage<0.7
+toncat,toncat,,,86,,,0,0.0,0.9883720930232558,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tonfishmemecoin,tonfishmemecoin,,,86,,,0,0.0,0.813953488372093,0.313953488372093,0.0,excluded,invalid_date;low_price_coverage<0.7
+toshi,toshi,,,38,,,0,0.0,0.0,0.0,0.1842105263157894,excluded,invalid_date;low_price_coverage<0.7
+tronbull,tronbull,,,73,,,0,0.0,0.273972602739726,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tronbullcoin,tronbullcoin,,,86,,,0,0.0,0.7674418604651163,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tronkey,tronkey,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+trustmebrosbyvirtuals,trustmebrosbyvirtuals,,,29,,,0,0.0,0.9655172413793104,0.8275862068965517,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+twiskers,twiskers,,,85,,,0,0.0,0.8823529411764706,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+tyler,tyler,,,1,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+uni,uni,,,86,,,0,0.0,0.9069767441860463,0.0,0.0348837209302325,excluded,invalid_date;low_price_coverage<0.7
+upsidedownmeme,upsidedownmeme,,,86,,,0,0.0,0.9767441860465116,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+vaderaibyvirtuals,vaderaibyvirtuals,,,62,,,0,0.0,0.9838709677419356,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+velvetunicornbyvirtuals,velvetunicornbyvirtuals,,,62,,,0,0.0,0.9838709677419356,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+vikita,vikita,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+waicombinatorbyvirtuals,waicombinatorbyvirtuals,,,40,,,0,0.0,0.975,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+watcoin,watcoin,,,86,,,0,0.0,1.0,0.8837209302325582,0.0,excluded,invalid_date;low_price_coverage<0.7
+weirdo2,weirdo2,,,86,,,0,0.0,0.9883720930232558,0.0,0.0232558139534883,excluded,invalid_date;low_price_coverage<0.7
+welshcorgicoin,welshcorgicoin,,,0,,,0,0.0,0.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+wen5,wen5,,,69,,,0,0.0,0.9130434782608696,0.2318840579710145,0.0,excluded,invalid_date;low_price_coverage<0.7
+wownero,wownero,,,86,,,0,0.0,0.6511627906976745,0.9883720930232558,0.1511627906976744,excluded,invalid_date;low_price_coverage<0.7
+wryon,wryon,,,77,,,0,0.0,0.987012987012987,0.8441558441558441,0.0,excluded,invalid_date;low_price_coverage<0.7
+yeeti,yeeti,,,86,,,0,0.0,0.9534883720930232,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+yieldmachine,yieldmachine,,,10,,,0,0.0,1.0,0.0,0.0,excluded,too_few_rows<30;invalid_date;low_price_coverage<0.7
+youngpeezyakapepe,youngpeezyakapepe,,,86,,,0,0.0,0.9767441860465116,0.0,0.0,excluded,invalid_date;low_price_coverage<0.7
+yuko,yuko,,,66,,,0,0.0,1.0,0.0151515151515151,0.0,excluded,invalid_date;low_price_coverage<0.7
+zapo,zapo,,,81,,,0,0.0,0.925925925925926,0.8518518518518519,0.0,excluded,invalid_date;low_price_coverage<0.7
+zeekcoin,zeekcoin,,,86,,,0,0.0,0.8837209302325582,0.7906976744186046,0.0,excluded,invalid_date;low_price_coverage<0.7
+6,"""　""","""　""",solana,55,2024-12-12,2025-02-04,55,1.0,0.2909090909090909,0.0,0.0,included,
+1squirrel,#1 Squirrel,peanut,solana,70,2024-11-27,2025-02-04,70,1.0,0.1571428571428571,0.0,0.1,included,
+horny,$horny,$horny,solana,55,2024-12-12,2025-02-04,55,1.0,0.9272727272727272,0.0,0.0,included,
+ilence,$ilence,$ilence,solana,70,2024-11-27,2025-02-04,70,1.0,0.6571428571428571,0.0,0.0,included,
+1guy,1GUY,1guy,binance-smart-chain,86,2024-11-11,2025-02-02,86,1.0,0.3255813953488372,0.0116279069767441,0.0,included,
+360noscope420blazeit,360noscope420blazeit,mlg,solana,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0116279069767441,0.0,included,
+888token,888,888,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.4302325581395348,0.0,included,
+5,??,??,solana,76,2024-11-21,2025-02-04,76,1.0,0.9210526315789472,0.0,0.3157894736842105,included,
+doge,@DOGE,@doge,solana,80,2024-11-16,2025-02-04,80,1.0,0.975,0.5125,0.0,included,
+aicrystalnode,AI Crystal Node,aicrynode,solana,86,2024-11-11,2025-02-04,86,1.0,0.7906976744186046,0.0116279069767441,0.0,included,
+aiinu,AI INU,aiinu,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+aishellnova,AI Shell NOVA,nova,solana,36,2024-12-31,2025-02-04,36,1.0,1.0,0.0,0.0,included,
+aitraderagent,AI Trader Agent,ait,solana,33,2025-01-03,2025-02-04,33,1.0,1.0,0.3636363636363636,0.0,included,
+aimerica,AIMERICA,uai,solana,45,2024-12-22,2025-02-04,45,1.0,0.9777777777777776,0.0,0.0,included,
+aiwarpertoken,AIWarper Token,warper,solana,70,2024-11-26,2025-02-04,70,1.0,0.9142857142857144,0.9571428571428572,0.0,included,
+akitabsc,AKITA-BSC,akita,binance-smart-chain,43,2024-12-24,2025-02-04,43,1.0,0.9069767441860463,0.0,0.0,included,
+alp,ALP,alp,solana,83,2024-11-15,2025-02-04,83,1.0,0.8795180722891566,0.0,0.0,included,
+amaterasuomikami,AMATERASU OMIKAMI,omikami,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.7441860465116279,0.0,included,
+andy70b,ANDY70B,andy70b,solana,45,2024-12-22,2025-02-04,45,1.0,0.7333333333333333,0.0,0.0,included,
+avachiangmainightsafariava,AVA Chiang Mai Night Safari (AVA),ava,solana,70,2024-11-27,2025-02-04,70,1.0,0.9285714285714286,0.0,0.0,included,
+avaxhasnochill,AVAX HAS NO CHILL,nochill,avalanche,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0,included,
+axi,AXI,axi,solana,46,2024-12-21,2025-02-04,46,1.0,0.0,0.0,0.3478260869565217,included,
+abi,Abi,abi,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.4302325581395348,0.2209302325581395,included,
+acidtoad,Acid Toad,toad,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0116279069767441,0.0,included,
+adillo,Adillo,adillo,solana,43,2024-12-24,2025-02-04,43,1.0,0.8604651162790697,0.0,0.0,included,
+agentaigo,AgentAIgo,agent,solana,62,2024-12-21,2025-02-04,46,0.7419354838709677,1.0,0.3387096774193548,0.0,included,
+agenttank,AgentTank,tank,solana,53,2024-12-14,2025-02-04,53,1.0,0.6792452830188679,0.1132075471698113,0.0,included,
+aimonicabrands,Aimonica Brands,aimonica,solana,56,2024-12-11,2025-02-04,56,1.0,0.9107142857142856,0.0,0.0,included,
+aiwithdaddyissues,Aiwithdaddyissues,shegen,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+akiprotocol,Aki Network,aki,polygon-pos,86,2024-11-11,2025-02-04,86,1.0,0.6162790697674418,0.9767441860465116,0.0,included,
+alaska,Alaska,alaska,solana,83,2024-11-15,2025-02-04,83,1.0,0.3493975903614458,0.1204819277108433,0.963855421686747,included,
+alchemistai,Alchemist AI,alch,solana,62,2024-12-05,2025-02-04,62,1.0,1.0,0.0,0.0,included,
+alpaca2,Alpaca,alpaca,solana,78,2024-11-19,2025-02-04,78,1.0,0.1025641025641025,0.0,0.5,included,
+alpha3,Alpha,alpha,solana,86,2024-11-11,2025-02-04,86,1.0,0.1976744186046511,0.0232558139534883,0.0,included,
+americapac,America Pac,pac,ethereum,84,2024-11-13,2025-02-04,84,1.0,0.0,0.0,0.0,included,
+americancoin,American Coin,usa,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+andyman,Andyman,andyman,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0348837209302325,0.0232558139534883,included,
+anitamaxwynn,Anita Max Wynn,wynn,solana,83,2024-11-15,2025-02-04,83,1.0,0.8313253012048193,0.0,0.0481927710843373,included,
+antitoken,Antitoken,anti,solana,33,2025-01-03,2025-02-04,33,1.0,0.7575757575757576,0.0,0.0,included,
+anyinu,Any Inu,ai,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+aped,Aped,aped,ethereum,71,2024-11-26,2025-02-04,71,1.0,0.8309859154929577,0.0,0.5633802816901409,included,
+aquarius2,Aquarius,aquarius,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,0.4605263157894737,included,
+aquathecoin,Aquathecoin,aqua,solana,85,2024-11-12,2025-02-04,85,1.0,0.9294117647058824,0.0,0.0,included,
+arbdogeai,ArbDoge AI,aidoge,arbitrum-one,54,2024-12-13,2025-02-04,54,1.0,0.8703703703703703,0.0,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+arbidoge,ArbiDoge,adoge,arbitrum-one,83,2024-11-15,2025-02-04,83,1.0,0.0,0.0120481927710843,0.0,included,
+ariethesealion,Arie The Sealion,arie,solana,77,2024-11-20,2025-02-04,77,1.0,0.1428571428571428,0.0,0.0,included,
+aries,Aries,aries,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,0.0,included,
+astheria,Astheria,heria,solana,45,2024-12-22,2025-02-04,45,1.0,0.2222222222222222,0.3111111111111111,0.0,included,
+astropepex,AstroPepeX,apx,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.5813953488372093,0.0,included,
+auroraterminal,Aurora,aurora,solana,77,2024-11-20,2025-02-04,77,1.0,0.6883116883116883,0.0,0.0,included,
+autonomousvirtualbeings,Autonomous Virtual Beings,avb,solana,86,2024-11-11,2025-02-04,86,1.0,0.8023255813953488,0.0116279069767441,0.0,included,
+avaai,Ava AI,ava,solana,69,2024-11-28,2025-02-04,69,1.0,1.0,0.0,0.0,included,
+avocato,Avocato,ato,solana,78,2024-11-19,2025-02-04,78,1.0,0.9743589743589745,0.0,0.0897435897435897,included,
+badcatsol,BADCATsol,$badcat,solana,78,2024-11-19,2025-02-04,78,1.0,0.9615384615384616,0.0128205128205128,0.0,included,
+based,BASED,based,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+biaoonsol,BIAO on SOL,biao,solana,62,2024-12-05,2025-02-04,62,1.0,0.7903225806451613,0.0,0.0,included,
+big,BIG,big,avalanche,57,2024-12-10,2025-02-04,57,1.0,0.8947368421052632,0.8421052631578947,0.7017543859649122,included,
+bigjim,BIG JIM,bigjim,solana,39,2024-12-28,2025-02-04,39,1.0,1.0,0.0,0.0512820512820512,included,
+billiondollarcatrunes,BILLION•DOLLAR•CAT (Runes),bdc,solana,46,2024-12-21,2025-02-04,46,1.0,0.0,0.0,0.0,included,
+bitcoinact,BITCOIN Act,btcact,ethereum,78,2024-11-19,2025-02-04,78,1.0,0.8846153846153846,0.0,0.0,included,
+blk2100,BLK2100,$blk,ethereum,86,2024-11-11,2025-02-02,86,1.0,0.2093023255813953,0.0232558139534883,0.0,included,
+bobtoken,BOB Token,bob,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0,0.0,included,
+bobocoin,BOBO Coin,bobo,ethereum,38,2024-12-29,2025-02-04,38,1.0,0.8947368421052632,0.0,0.0,included,
+bogus,BOGUS,bogus,solana,85,2024-11-12,2025-02-04,85,1.0,0.788235294117647,0.0,0.0,included,
+bongocat,BONGO CAT,bongo,solana,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.0,0.0,included,
+booji,BOOJI,booji,solana,40,2024-12-27,2025-02-04,40,1.0,0.3,0.45,0.025,included,
+boop3,BOOP,boop,solana,81,2024-11-15,2025-02-04,81,1.0,0.1728395061728395,0.0,0.0,included,
+brot,BROT,brot,solana,58,2024-12-09,2025-02-04,58,1.0,0.7241379310344828,0.0,0.8620689655172413,included,
+buu,BUU,buu,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.813953488372093,included,
+babybnb,Baby BNB,babybnb,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.6744186046511628,0.0,0.0,included,
+babybitcoin2,Baby BitCoin,babybtc,solana,83,2024-11-15,2025-02-04,83,1.0,0.6024096385542169,0.0,0.0,included,
+babydragonx,Baby DragonX,bdx,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.9651162790697676,0.0,included,
+babygrok,Baby Grok,babygrok,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.2441860465116279,0.0116279069767441,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+babyneiro2,Baby Neiro,babyneiro,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+babyneirotoken,Baby Neiro Token,babyneiro,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+babypepe3,Baby Pepe,babypepe,ethereum,45,2024-12-22,2025-02-04,45,1.0,1.0,0.5555555555555556,0.0,included,
+babypnut2,Baby Pnut,babypnut,binance-smart-chain,71,2024-11-26,2025-02-04,71,1.0,0.1408450704225352,0.0,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+babyshironeko,Baby Shiro Neko,babyshiro,solana,64,2024-12-03,2025-02-04,64,1.0,0.03125,0.0,0.0,included,
+babywen,Baby Wen,bwen,solana,86,2024-11-11,2025-02-04,86,1.0,0.8372093023255814,0.9883720930232558,0.0,included,
+babybonk,BabyBonk,babybonk,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.0,0.1162790697674418,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+badideaai,Bad Idea AI,bad,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+ballsoffate,Balls of Fate,bof,solana,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0697674418604651,included,
+bananaforscale2,Banana For Scale,banana,binance-smart-chain,61,2024-12-06,2025-02-04,61,1.0,0.9016393442622952,0.6557377049180327,0.0,included,
+bananatapewall,Banana Tape Wall,btw,solana,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.0,included,
+bananaforscale,Banana for Scale,banana,solana,70,2024-11-27,2025-02-04,70,1.0,0.2142857142857142,0.9428571428571428,0.0,included,
+bananacat,BananaCat,bcat,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8023255813953488,0.0,0.0,included,
+barbiecrashbandicootrfk88,BarbieCrashBandicootRFK88,solana,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.6046511627906976,0.0,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+basktfun,Baskt.Fun,baskt,solana,73,2024-11-24,2025-02-04,73,1.0,0.726027397260274,0.0,0.0,included,
+beercoin2,Beercoin,beer,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+believeinsomething,Believe In Something,bis,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+benthedog,Ben the Dog,bendog,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.1162790697674418,included,
+bertramthepomeranian,Bertram The Pomeranian,bert,solana,84,2024-11-13,2025-02-04,84,1.0,0.9642857142857144,0.0,0.0,included,
+betmore,Bet more,bet,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.6976744186046512,included,
+beth,Beth,$beth,solana,40,2024-12-27,2025-02-04,40,1.0,1.0,0.0,0.0,included,
+biaoqing,Biaoqing,biao,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+bigcheungus,Big Cheungus,$cheungus,solana,75,2024-11-22,2025-02-04,75,1.0,0.6266666666666667,0.7333333333333333,0.0,included,
+bigdogfink,Big Dog Fink,bink,solana,78,2024-11-19,2025-02-04,78,1.0,0.7692307692307693,0.0,0.0,included,
+bigpharmai,Big Pharmai,drugs,solana,49,2024-12-18,2025-02-04,49,1.0,0.9387755102040816,0.0,0.0,included,
+billy,Billy,billy,solana,86,2024-11-11,2025-02-04,86,1.0,0.1744186046511628,0.0,1.0,included,
+bingusthecat,Bingus The Cat,bingus,solana,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0,included,
+birddog,Bird Dog,birddog,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.2325581395348837,0.0232558139534883,included,
+bitbonk,BitBonk,bbonk,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0465116279069767,0.0,included,
+bitcat2,BitCat,btcat,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+bitcat3,Bitcat,bitcat,solana,78,2024-11-19,2025-02-04,78,1.0,0.8846153846153846,0.0128205128205128,0.0,included,
+blackagnus,Black Agnus,ftw,ethereum,64,2024-12-02,2025-02-04,64,1.0,0.0,0.0,0.0,included,
+blackunicorncorp,Black Unicorn Corp.,moon,ethereum,33,2025-01-03,2025-02-04,33,1.0,1.0,0.9090909090909092,0.0,included,
+blinksgg,Blinks.gg,bgg1,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+belikeblob,Blob,blob,solana,75,2024-11-22,2025-02-04,75,1.0,0.8933333333333333,0.0,0.0,included,
+blobanapet,Blobana pet,blob,solana,76,2024-11-21,2025-02-04,76,1.0,0.4605263157894737,0.0,0.0,included,
+bloomspergterminal,Bloomsperg Terminal,sperg,solana,75,2024-11-22,2025-02-04,75,1.0,0.72,0.0,0.0,included,
+bobthesnek,Bob the Snek,bob,solana,84,2024-11-13,2025-02-04,84,1.0,1.0,0.0,0.0,included,
+bobaoppa,Boba Oppa,bobaoppa,solana,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.0,0.0,included,
+bobacat,BobaCat,psps,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+boblles,Boblles,bobls,solana,66,2024-12-01,2025-02-04,66,1.0,0.9090909090909092,0.0,0.0,included,
+bog,Bog,bog,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0232558139534883,included,
+bonsaitoken,Bonsai Token,bonsai,polygon-pos,73,2024-11-24,2025-02-04,73,1.0,0.684931506849315,0.0,0.0,included,
+boop2,Boop,boop,arbitrum-one,86,2024-11-11,2025-02-04,86,1.0,0.7325581395348837,0.0,0.0,included,
+bopcat,Bop Cat,bop,solana,85,2024-11-12,2025-02-04,85,1.0,1.0,0.0,0.0,included,
+bozohybrid,Bozo Benk,bozo,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+brainlet2,Brainlet,brainlet,solana,86,2024-11-11,2025-02-04,86,1.0,0.7209302325581395,0.0,0.0,included,
+brettmemecoin,Brett (ETH),brett,ethereum,62,2024-12-05,2025-02-04,62,1.0,0.3387096774193548,0.6290322580645161,0.064516129032258,included,
+brothecat,Bro the cat,bro,solana,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.2209302325581395,included,
+bueno,Bueno,bueno,solana,78,2024-11-19,2025-02-04,78,1.0,0.0,0.0,0.1794871794871795,included,
+buildonbnb,Build On BNB,bob,binance-smart-chain,74,2024-11-23,2025-02-04,74,1.0,0.9594594594594594,0.0,0.0,included,
+burnedfi,BurnedFi,burn,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.1976744186046511,0.9651162790697676,0.0,included,
+buttholecoin,Butthole Coin,butthole,solana,35,2025-01-01,2025-02-04,35,1.0,0.9428571428571428,0.0,0.0,included,
+byte,Byte,byte,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7674418604651163,0.0,0.0116279069767441,included,
+catex,CATEX,catex,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.5465116279069767,0.0,included,
+cctv,CCTV,cctv,solana,86,2024-11-11,2025-02-04,86,1.0,0.7674418604651163,0.0,0.7209302325581395,included,
+chadcat,CHAD CAT,chadcat,solana,71,2024-11-26,2025-02-04,71,1.0,0.5070422535211268,0.0,0.0,included,
+chonky,CHONKY,chonky,solana,86,2024-11-11,2025-02-04,86,1.0,0.8604651162790697,0.0,0.0,included,
+clapcat,CLAPCAT,$clap,solana,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.0,included,
+coal2,COAL,coal,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.872093023255814,included,
+cococoin,COCO COIN,coco,binance-smart-chain,83,2024-11-15,2025-02-04,83,1.0,0.8674698795180723,0.9397590361445785,0.0240963855421686,included,
+crab,CRAB,crab,solana,55,2024-12-12,2025-02-04,55,1.0,0.9818181818181818,0.0,0.5636363636363636,included,
+csi888,CSI888,csi,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+cupsey,CUPSEY,cupsey,solana,85,2024-11-12,2025-02-04,85,1.0,0.8705882352941177,0.0,0.0,included,
+cancer,Cancer,cancer,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,1.0,included,
+capricorn2,Capricorn,capricorn,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,0.4210526315789473,included,
+carloacutis,Carlo Acutis,saint,solana,70,2024-11-27,2025-02-04,70,1.0,0.7714285714285715,0.0,0.1571428571428571,included,
+cas9,Cas9,crispr,solana,33,2025-01-03,2025-02-04,33,1.0,1.0,0.0,0.0,included,
+catdog,Cat-Dog,catdog,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0116279069767441,included,
+catslap,CatSlap,slap,ethereum,58,2024-12-09,2025-02-04,58,1.0,0.9310344827586208,0.0,0.0,included,
+catalorian,Catalorian,catalorian,ethereum,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0348837209302325,included,
+catana,Catana,catana,solana,86,2024-11-11,2025-02-04,86,1.0,0.4534883720930232,0.0,0.0,included,
+catcoincash,Catcoin,cat,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.8372093023255814,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+catecoin,CateCoin,cate,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.7906976744186046,0.9883720930232558,0.0,included,
+centience,Centience,cents,solana,77,2024-11-20,2025-02-04,77,1.0,0.0,0.0,0.0,included,
+chadcoin,Chad Coin,chad,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0,0.0116279069767441,included,
+chartreuxcat,Chartreux Cat,chart,solana,86,2024-11-11,2025-02-04,86,1.0,0.3255813953488372,0.0,0.0465116279069767,included,
+chatgptsmascot,ChatGPT's Mascot,chatty,solana,78,2024-11-19,2025-02-04,78,1.0,0.9615384615384616,0.0,0.0,included,
+cheems,Cheems,cheems,solana,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.0232558139534883,included,
+cheese2,Cheese,cheese,solana,86,2024-11-11,2025-02-04,86,1.0,0.2325581395348837,0.9883720930232558,0.1395348837209302,included,
+cheese3,Cheese,cheese,solana,77,2024-11-20,2025-02-04,77,1.0,0.4285714285714285,0.0,0.2597402597402597,included,
+cheeseball,Cheeseball,cb,solana,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,0.0,0.0,included,
+cheshiregrin,Cheshire Grin,grin,solana,67,2024-11-30,2025-02-04,67,1.0,0.8507462686567164,0.0149253731343283,0.0,included,
+cheyenne,Cheyenne,cheyenne,solana,77,2024-11-20,2025-02-04,77,1.0,0.987012987012987,0.0,0.5454545454545454,included,
+chibawan,Chiba Wan,chib,ethereum,85,2024-11-12,2025-02-04,85,1.0,0.6705882352941176,0.0,0.0,included,
+chillgirl,Chill Girl,chillgirl,solana,71,2024-11-26,2025-02-04,71,1.0,0.028169014084507,0.0,0.7183098591549296,included,
+choccymilkcat,Choccy Milk Cat,choccy,solana,79,2024-11-17,2025-02-04,79,1.0,1.0,0.8481012658227848,0.0,included,
+chudjak,Chudjak,chud,solana,86,2024-11-11,2025-02-04,86,1.0,0.2093023255813953,0.0,0.0,included,
+claude,Claude,claude,solana,35,2025-01-01,2025-02-04,35,1.0,0.7714285714285715,0.0,0.0,included,
+codetoken,Code Token,code,ethereum,75,2024-11-22,2025-02-04,75,1.0,0.88,0.0,0.0,included,
+codergf,Coder GF,codergf,solana,39,2024-12-28,2025-02-04,39,1.0,0.9487179487179488,0.0,0.0,included,
+comedian,Comedian,ban,solana,48,2024-12-19,2025-02-04,48,1.0,0.0,1.0,0.0625,included,
+convo,Convo,convo,solana,51,2024-12-16,2025-02-04,51,1.0,0.8235294117647058,0.0,0.0,included,
+corgiinu2,Corgi Inu,corgi,binance-smart-chain,36,2024-12-31,2025-02-04,36,1.0,0.75,0.0,0.0,included,
+corn2,Corn,corn,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.5581395348837209,0.0,included,
+costcohotdog,Cost Hot Dog,cost,solana,86,2024-11-11,2025-02-04,86,1.0,0.1046511627906976,0.0,0.0,included,
+crashout,Crashout,crashout,solana,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0,included,
+craze,Craze,craze,ethereum,43,2024-12-24,2025-02-04,43,1.0,0.9069767441860463,0.0,0.0,included,
+cryptoczar,Crypto Czar,czar,ethereum,69,2024-11-28,2025-02-04,69,1.0,0.1594202898550724,0.0,0.0,included,
+cryptoboomcoinofficial,CryptoBoomCoin Official,cbc,solana,86,2024-11-11,2025-02-04,86,1.0,0.0930232558139534,0.9883720930232558,0.0,included,
+cultofpepe,Cult of Pepe,cope,solana,84,2024-11-13,2025-02-04,84,1.0,0.9166666666666666,0.7023809523809523,0.0119047619047619,included,
+cumrocket,CumRocket,cummies,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.313953488372093,0.0465116279069767,included,
+cyberdoge3,Cyberdoge,cdoge,solana,85,2024-11-12,2025-02-04,85,1.0,1.0,0.3294117647058823,0.0,included,
+dna,DNA,dna,solana,67,2024-11-30,2025-02-04,67,1.0,0.373134328358209,0.0,0.5970149253731343,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+dogaiwtf,DOGAI,dogai,solana,85,2024-11-12,2025-02-04,85,1.0,0.4941176470588235,0.0,0.0,included,
+dogc,DOGC,dogc,ethereum,63,2024-12-04,2025-02-04,63,1.0,0.8571428571428571,1.0,0.0,included,
+dogeonsolana,DOGE on Solana,sdoge,solana,86,2024-11-11,2025-02-04,86,1.0,0.5697674418604651,0.0,0.1395348837209302,included,
+doom,DOOM,doom,solana,35,2025-01-01,2025-02-04,35,1.0,1.0,0.9714285714285714,0.9714285714285714,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+drip,DRIP,$drip,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.5813953488372093,0.0,0.0,included,
+duko,DUKO,duko,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+daddychill,Daddy Chill,daddychill,solana,66,2024-12-01,2025-02-04,66,1.0,0.8333333333333334,0.0,0.0,included,
+daddytate,Daddy Tate,daddy,solana,78,2024-11-19,2025-02-04,78,1.0,0.0,0.0256410256410256,0.0,included,
+darkmaga,Dark MAGA,dmaga,solana,86,2024-11-11,2025-02-04,86,1.0,0.7441860465116279,0.0,0.0,included,
+dasha,Dasha,vvaifu,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.6046511627906976,0.0,included,
+defrogs,DeFrogs,defrogs,ethereum,68,2024-11-29,2025-02-04,68,1.0,0.0,0.0,0.0,included,
+deepworm,Deep Worm,worm,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+degenspartanai,Degen Spartan AI,degenai,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+dejitarutsuka,Dejitaru Tsuka,tsuka,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.1511627906976744,0.0,0.0116279069767441,included,
+departmentofgovernmentefficiency3,Department Of Government Efficiency,d.o.g.e,ethereum,84,2024-11-13,2025-02-04,84,1.0,0.0119047619047619,0.0,0.0,included,
+departmentofgovefficiency,Department of Gov Efficiency,doge,solana,83,2024-11-15,2025-02-04,83,1.0,0.0,0.1204819277108433,0.0,included,
+derdaku,Der Daku,daku,solana,36,2024-12-31,2025-02-04,36,1.0,0.8611111111111112,0.0277777777777777,0.0,included,
+devinonsolana,Devin,devin,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+dingocoin,Dingocoin,dingo,solana,64,2024-12-03,2025-02-04,64,1.0,0.875,1.0,0.453125,included,
+dinolfg,DinoLFG,dino,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.3837209302325581,0.9767441860465116,0.0,included,
+divinelyprotected,Divinely Protected,dp,solana,73,2024-11-24,2025-02-04,73,1.0,0.6301369863013698,0.0,0.0,included,
+dogemojionsolana,Dog Emoji On Solana,?,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+dogfoodtoken,Dog Food Token,oishii,ethereum,86,2024-11-11,2025-01-30,86,1.0,0.2325581395348837,0.0,0.0,included,
+dogwifnuchucks,Dog Wif Nunchucks,ninja,solana,77,2024-11-24,2025-02-04,73,0.948051948051948,0.935064935064935,0.987012987012987,0.0,included,
+doglibre,DogLibre,dogl,ethereum,49,2024-12-18,2025-02-04,49,1.0,0.979591836734694,0.9387755102040816,0.0,included,
+dogami,Dogami,doga,solana,70,2024-11-27,2025-02-04,70,1.0,0.7,0.4285714285714285,0.0,included,
+dogejonesindustrialaverage,Doge Jones Industrial Average,dji,solana,85,2024-11-12,2025-02-04,85,1.0,0.9058823529411764,0.2,0.0,included,
+leash,Doge Killer,leash,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7441860465116279,0.0,0.0,included,
+dogemascotshibu,Doge Mascot Shibu,shibu,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+dogebonk,DogeBonk,dobo,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.4186046511627907,0.0,0.1162790697674418,included,
+dogefather3,DogeFather,the dogefather,ethereum,34,2025-01-02,2025-02-04,34,1.0,0.0,0.0,0.0,included,
+dogegf,DogeGF,dogegf,ethereum,86,2024-11-11,2025-02-04,86,1.0,1.0,0.872093023255814,0.0,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+dogecast,Dogecast,dogecast,ethereum,76,2024-11-21,2025-02-04,76,1.0,0.9078947368421052,0.0,0.0,included,
+dogefather2,Dogefather,dogefather,solana,73,2024-11-24,2025-02-04,73,1.0,0.0684931506849315,0.0,0.0136986301369863,included,
+doggo3,Doggo,doggo,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+doggoinu,Doggo Inu,doggo,ethereum,86,2024-11-11,2025-02-03,86,1.0,0.9534883720930232,0.0232558139534883,0.0,included,
+doginhood,DoginHood,dogin,solana,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.9069767441860463,0.0,included,
+dolanduck,Dolan Duck,dolan,solana,85,2024-11-12,2025-02-04,85,1.0,0.6588235294117647,0.0,0.0,included,
+donaldtremp,Doland Tremp,tremp,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0,included,
+dollarmoon2,DollarMoon,dmoon,solana,86,2024-11-11,2025-02-04,86,1.0,0.6744186046511628,0.0,0.0,included,
+dolosthebully,Dolos The Bully,bully,solana,78,2024-11-19,2025-02-04,78,1.0,1.0,0.0,0.0,included,
+dontbuyinu,Don't Buy Inu,dbi,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7906976744186046,0.0,0.0,included,
+dontdie,Don't Die,dontdie,solana,70,2024-11-27,2025-02-04,70,1.0,0.9714285714285714,0.0,1.0,included,
+dorklord2,Dork Lord,dorky,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.9651162790697676,0.0,included,
+dotcom,Dotcom,y2k,solana,70,2024-11-27,2025-02-04,70,1.0,0.5714285714285714,0.0142857142857142,0.3571428571428571,included,
+duckthedoug,Doug the Duck,doug,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.2674418604651162,included,
+drpepeai,DrPepe.ai,bryan,solana,39,2024-12-28,2025-02-04,39,1.0,0.9230769230769232,0.1282051282051282,0.0,included,
+draggycto,Draggy CTO,draggy,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0232558139534883,included,
+duckai,Duck AI,duckai,solana,66,2024-12-01,2025-02-04,66,1.0,1.0,0.2272727272727272,0.0,included,
+ducky,Ducky,ducky,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.6511627906976745,included,
+ethbull,ETH BULL,bull,ethereum,40,2024-12-27,2025-02-04,40,1.0,0.475,0.0,0.0,included,
+ethereumisgood,ETHEREUM IS GOOD,ebull,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0348837209302325,included,
+expert_money,EXPERT_MONEY,expert,solana,71,2024-11-26,2025-02-04,71,1.0,0.971830985915493,0.0845070422535211,0.0140845070422535,included,
+eagleoftruth,Eagle of Truth,egl,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.7906976744186046,0.0,included,
+effectiveaccelerationism,Effective accelerationism,e/acc,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+eggdog,Eggdog,egg,solana,86,2024-11-11,2025-02-04,86,1.0,0.4302325581395348,0.0,0.0116279069767441,included,
+elsapopepe,El Sapo Pepe,pepe,ethereum,45,2024-12-22,2025-02-04,45,1.0,0.1111111111111111,0.0,0.0,included,
+eliza,Eliza,eliza,solana,74,2024-11-23,2025-02-04,74,1.0,0.9864864864864864,0.0,0.0,included,
+elon,Elon,$elon,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.1976744186046511,0.0,0.1976744186046511,included,
+elonrwa,ElonRWA,elonrwa,solana,86,2024-11-15,2025-02-04,83,0.9651162790697676,0.8837209302325582,0.6511627906976745,0.0,included,
+eloniatrump,Elonia Trump,elonia,solana,74,2024-11-23,2025-02-04,74,1.0,0.6081081081081081,0.8783783783783784,0.0,included,
+elonspetsnail,Elons Pet Snail,gary,ethereum,77,2024-11-20,2025-02-04,77,1.0,0.0649350649350649,0.0,0.0,included,
+enkrypto,EnKrypto,krypt,solana,86,2024-11-11,2025-02-04,86,1.0,0.6395348837209303,0.813953488372093,0.0,included,
+endfederalreserve,End Federal Reserve,efr,solana,74,2024-11-23,2025-02-04,74,1.0,0.8243243243243243,0.8648648648648649,0.0,included,
+estee,Estee,estee,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.2093023255813953,0.0465116279069767,included,
+evan2,Evan,evan,solana,70,2024-11-27,2025-02-04,70,1.0,0.9857142857142858,0.0142857142857142,0.0,included,
+faml,FAML,faml,binance-smart-chain,74,2024-11-23,2025-02-04,74,1.0,0.2432432432432432,0.7162162162162162,0.0,included,
+fatgf,FATGF,fatgf,solana,86,2024-11-11,2025-02-04,86,1.0,0.5232558139534884,0.0,0.0,included,
+feces,FECES,feces,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0116279069767441,0.0,included,
+fegtoken2,FEED EVERY GORILLA,feg,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0930232558139534,0.0,included,
+fijiexe,FIJI.EXE,fiji,solana,81,2024-11-15,2025-02-04,81,1.0,0.925925925925926,0.6790123456790124,0.0,included,
+fine2,FINE,fine,avalanche,84,2024-11-13,2025-02-04,84,1.0,0.7619047619047619,0.0,0.0,included,
+fleabone,FLEABONE,bone,ethereum,78,2024-11-19,2025-02-04,78,1.0,0.9487179487179488,0.7692307692307693,0.0,included,
+florkcto,FLORK CTO,flork,solana,37,2024-12-30,2025-02-04,37,1.0,1.0,0.918918918918919,0.0,included,
+fomo3d,FOMO 3D,fomo3d.fun,solana,54,2024-12-13,2025-02-04,54,1.0,0.9444444444444444,0.0,0.0,included,
+fomoradioai,FOMO RADIO AI,radio,solana,33,2025-01-03,2025-02-04,33,1.0,1.0,0.0,0.0,included,
+forest,FOREST,forest,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.3953488372093023,included,
+freeshaynecoplan,FREE Shayne Coplan,eagle,solana,77,2024-11-20,2025-02-04,77,1.0,0.0,0.8571428571428571,0.0,included,
+fric,FRIC,fric,solana,54,2024-12-13,2025-02-04,54,1.0,0.7037037037037037,0.0,0.0,included,
+fu,FU,fu,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.3372093023255814,included,
+fug,FUG,fug,ethereum,86,2024-11-11,2025-02-02,86,1.0,0.6744186046511628,0.0,0.0,included,
+fxn,FXN,fxn,solana,62,2024-12-05,2025-02-04,62,1.0,0.6612903225806451,0.2258064516129032,0.0,included,
+fairfun,Fairfun,fair,solana,86,2024-11-11,2025-01-25,86,1.0,0.9534883720930232,0.9651162790697676,0.0,included,
+fefeoneth,Fefe,fefe,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+feistydogenft,Feisty Doge NFT,nfd,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+fighttomaga,Fight to MAGA,fight,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+firstconvictedraccon,First Convicted RACCON,fred,solana,54,2024-12-13,2025-02-04,54,1.0,0.0,0.0,0.0,included,
+fishkoin,Fishkoin,koin,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.7325581395348837,1.0,0.0,included,
+fisttrumppump,Fisttrumppump,ftp,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8604651162790697,0.6046511627906976,0.0,included,
+flatearthcoin,Flat Earth Coin,flat,solana,78,2024-11-19,2025-02-04,78,1.0,0.9615384615384616,0.8846153846153846,0.0,included,
+flaviaisonline,Flavia Is Online,flavia,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+floofnoodles,Floofnoodles,floof,solana,74,2024-11-23,2025-02-04,74,1.0,0.3648648648648648,0.0,0.0,included,
+floos,Floos,fls,solana,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0,0.4418604651162791,included,
+floppacat,Floppa Cat,floppa,solana,86,2024-11-14,2025-02-04,83,0.9651162790697676,0.9767441860465116,0.0,0.0,included,
+flowerai,FlowerAI,flower,solana,70,2024-11-27,2025-02-04,70,1.0,0.9285714285714286,0.0,0.0,included,
+fofar,Fofar,fofar,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0,0.0,included,
+forky2,Forky,forky,binance-smart-chain,33,2025-01-03,2025-02-04,33,1.0,0.8787878787878788,0.0,0.0,included,
+freespeech2,Free Speech,x,ethereum,36,2024-12-31,2025-02-04,36,1.0,0.9722222222222222,0.0,0.0,included,
+frensofelon,Frens of Elon,frens,solana,58,2024-12-09,2025-02-04,58,1.0,0.9655172413793104,0.0,0.0,included,
+frodothevirtualsamurai,Frodo the Virtual Samurai,frog,binance-smart-chain,50,2024-12-17,2025-02-04,50,1.0,0.84,0.76,0.0,included,
+frog3,Frog,frog,solana,84,2024-11-13,2025-02-04,84,1.0,0.0,0.0,0.5833333333333334,included,
+frogevip,Froge,froge,ethereum,54,2024-12-13,2025-02-04,54,1.0,0.9444444444444444,0.0,0.0,included,
+frox,Frox,frox,solana,74,2024-11-23,2025-02-04,74,1.0,0.8918918918918919,0.5135135135135135,0.1081081081081081,included,
+fuku2,Fuku,fuku,solana,74,2024-11-23,2025-02-04,74,1.0,0.8108108108108109,0.7162162162162162,0.1351351351351351,included,
+furnancialadvisor,Fur-nancial advisor,fur,solana,78,2024-11-19,2025-02-04,78,1.0,0.0,0.0,0.0,included,
+gdog,GDOG,gdog,solana,86,2024-11-11,2025-02-04,86,1.0,0.6395348837209303,0.1162790697674418,0.0,included,
+glp1,GLP1,glp1,solana,70,2024-11-27,2025-02-04,70,1.0,0.7857142857142857,0.0,0.0,included,
+gme,GME,gme,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.9883720930232558,included,
+gamestop,GME (Ethereum),gme,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0116279069767441,0.9767441860465116,included,
+gmika,GMika,gmika,solana,86,2024-11-11,2025-02-04,86,1.0,0.7906976744186046,1.0,0.0,included,
+gobi,GOBI,gobi,solana,70,2024-11-27,2025-02-04,70,1.0,0.0857142857142857,0.0,0.1285714285714285,included,
+goofy2,GOOFY,goofy,solana,31,2025-01-05,2025-02-04,31,1.0,1.0,0.032258064516129,0.064516129032258,included,
+gout,GOUT,gout,binance-smart-chain,74,2024-11-23,2025-02-04,74,1.0,0.5135135135135135,0.0,0.9864864864864864,included,
+gpuairich,GPU ai Rich,rich,solana,49,2024-12-18,2025-02-04,49,1.0,0.8367346938775511,0.0,0.0,included,
+gua,GUA,gua,ethereum,71,2024-11-26,2025-02-04,71,1.0,0.9577464788732394,0.1126760563380281,0.1971830985915492,included,
+gummy,GUMMY,gummy,solana,86,2024-11-11,2025-02-04,86,1.0,0.4534883720930232,0.0,0.0,included,
+gameswift,GameSwift,gswift,arbitrum-one,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.8604651162790697,0.0,included,
+gegagedigedagedago,Gegagedigedagedago,nugget,solana,74,2024-11-23,2025-02-04,74,1.0,0.4054054054054054,0.0,0.0,included,
+gemini2,Gemini,gemini,solana,83,2024-11-15,2025-02-04,83,1.0,0.963855421686747,1.0,0.0,included,
+genzquant,Gen Z Quant,quant,solana,76,2024-11-21,2025-02-04,76,1.0,0.0,0.0,0.0,included,
+generationalwealth3,Generational Wealth,wealth,solana,84,2024-11-13,2025-02-04,84,1.0,1.0,0.0238095238095238,0.0,included,
+gikocat,Giko Cat,giko,solana,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0,included,
+ginnan,Ginnan,ginnan,ethereum,67,2024-11-30,2025-02-03,67,1.0,0.9402985074626866,0.0298507462686567,0.0,included,
+ginnanthecat,Ginnan The Cat,ginnan,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+glorp,Glorp,glorp,solana,78,2024-11-19,2025-02-04,78,1.0,0.6025641025641025,0.358974358974359,0.0,included,
+gluteusmaximusbyvirtuals,Gluteus Maximus by Virtuals,gluteu,solana,39,2024-12-28,2025-02-04,39,1.0,1.0,0.0,0.0,included,
+goatseusactii,Goatseus Act II,goatseus,ethereum,83,2024-11-15,2025-01-23,83,1.0,1.0,1.0,0.0,included,
+gondola,Gondola,gondola,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.0116279069767441,included,
+gooby,Gooby,gooby,solana,86,2024-11-11,2025-02-04,86,1.0,0.4534883720930232,0.0,0.0,included,
+goodmorning3,Good Morning!,gm,solana,82,2024-11-15,2025-02-04,82,1.0,0.951219512195122,0.0,0.0,included,
+goodboy,GoodBoy,goodboy,solana,42,2024-12-25,2025-02-04,42,1.0,0.9285714285714286,0.0,0.0,included,
+gottitoken,Gotti Token,gotti,solana,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,1.0,0.0,included,
+gou,Gou,gou,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0116279069767441,0.2558139534883721,included,
+griffainnewhedgefund,Griffain New Hedge Fund,citadail,solana,41,2024-12-26,2025-02-04,41,1.0,0.7317073170731707,0.024390243902439,0.0,included,
+groggobymattfurie,Groggo By Matt Furie,groggo,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0232558139534883,0.0,included,
+grok2,Grok,$grok,ethereum,85,2024-11-12,2025-02-04,85,1.0,0.3294117647058823,0.0,0.3764705882352941,included,
+groyper,Groyper,groyper,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7441860465116279,0.0,0.0,included,
+grumpycatcoin,Grumpy Cat Coin,grumpy,solana,74,2024-11-23,2025-02-04,74,1.0,0.8108108108108109,0.9054054054054054,0.0,included,
+guacamole,Guacamole,guac,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.8604651162790697,0.0,included,
+hami,HAMI,$hami,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+huahua,HUA HUA,huahua,solana,68,2024-11-29,2025-02-04,68,1.0,0.0294117647058823,0.0,0.25,included,
+habibisol,Habibi (Sol),habibi,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.686046511627907,0.0,included,
+hahayes,HahaYes,rizo,solana,85,2024-11-12,2025-02-04,85,1.0,0.8588235294117647,0.0,0.0,included,
+halforangedrinkinglemonade,Half Orange Drinking Lemonade,hodl,solana,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0,0.0,included,
+hana,Hana,hana,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0,included,
+hanbao,Hanbao,hanbao,solana,83,2024-11-15,2025-02-04,83,1.0,0.8795180722891566,0.0,0.0,included,
+happycat2,Happy Cat,happy,solana,70,2024-11-27,2025-02-04,70,1.0,1.0,1.0,0.0,included,
+harambe2,Harambe on Solana,harambe,solana,80,2024-11-16,2025-02-04,80,1.0,0.0875,0.0,0.0,included,
+harold,Harold,harold,solana,86,2024-11-11,2025-02-04,86,1.0,0.1162790697674418,0.8372093023255814,0.0,included,
+haroldonsol,Harold,harold,solana,74,2024-11-23,2025-02-04,74,1.0,0.4189189189189189,0.0,0.0,included,
+harrypottertrumphomersimpson777inu,HarryPotterTrumpHomerSimpson777Inu,ethereum,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.0,included,
+hasbullascat,Hasbulla's Cat,barsik,solana,82,2024-11-15,2025-02-04,82,1.0,0.8536585365853658,0.0,0.0,included,
+hawk2,Hawk,hawk,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.6046511627906976,included,
+heeeheee,HeeeHeee,heehee,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.0,included,
+hege,Hege,$hege,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.9883720930232558,included,
+hemule,Hemule,hemule,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+henlo,Henlo,henlo,ethereum,77,2024-11-20,2024-12-03,77,1.0,0.4415584415584415,0.1038961038961039,0.0,included,
+hermythestallion,Hermy The Stallion,hermy,solana,57,2024-12-10,2025-02-04,57,1.0,1.0,0.0175438596491228,0.0,included,
+highaf,High AF,ath,solana,67,2024-11-30,2025-02-04,67,1.0,0.9701492537313432,0.417910447761194,0.0,included,
+hisnamegort,His name gort,gort,solana,78,2024-11-19,2025-02-04,78,1.0,0.8974358974358975,0.0,0.0,included,
+historyofpepe,History of Pepe,hope,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.2558139534883721,0.0,0.0,included,
+hogefinance,Hoge Finance,hoge,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.9651162790697676,0.0,included,
+honk,Honk,honk,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+hoppymeme,Hoppy,hoppy,ethereum,63,2024-12-04,2025-02-04,63,1.0,0.4444444444444444,0.0,0.0,included,
+hotdoge2,Hot Doge,hotdoge,solana,50,2024-12-17,2025-02-04,50,1.0,0.52,0.02,0.0,included,
+hund,Hund,hund,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.9069767441860463,0.0465116279069767,included,
+huskyavax,Husky Avax,husky,avalanche,86,2024-11-11,2025-02-04,86,1.0,0.7325581395348837,0.9767441860465116,0.0,included,
+ilovepuppies,I love puppies,puppies,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.2441860465116279,0.9534883720930232,0.0,included,
+inferno2,INFERNO,inf,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,1.0,0.1511627906976744,included,
+inusol,INU,inu,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+iq50,IQ50,iq50,solana,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0,0.0,included,
+iq6900,IQ6900,iq,solana,51,2024-12-16,2025-02-04,51,1.0,0.8431372549019608,0.0,0.0,included,
+ito,ITO,$ito,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.0,0.8255813953488372,included,
+illuminaticoin,IlluminatiCoin,nati,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+intern,Intern,intern,solana,74,2024-11-23,2025-02-04,74,1.0,0.972972972972973,0.0,0.2162162162162162,included,
+internationalmemefund,International Meme Fund,imf,ethereum,54,2024-12-13,2025-02-04,54,1.0,0.7222222222222222,0.0,0.0,included,
+internosaur,Internosaur,$intern,solana,57,2024-12-10,2025-02-04,57,1.0,0.7894736842105263,0.0,0.0,included,
+jak,JAK,jak,solana,66,2024-12-01,2025-02-04,66,1.0,0.9393939393939394,0.0,0.0,included,
+jenhsunhuang,JHH,jhh,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0,included,
+jinx,JINX,jinx,solana,85,2024-11-12,2025-02-04,85,1.0,0.8117647058823529,0.0,0.0,included,
+justiceforpeanut,JUSTICE FOR PEANUT,jfp,solana,53,2024-12-14,2025-02-04,53,1.0,0.6981132075471698,0.0377358490566037,0.0,included,
+jailbreakme,JailbreakMe,jail,solana,53,2024-12-14,2025-02-04,53,1.0,0.981132075471698,0.6037735849056604,0.0377358490566037,included,
+janrotherat,Janro The Rat,janro,solana,63,2024-12-04,2025-02-04,63,1.0,0.873015873015873,0.0,0.0,included,
+jeoboden,Jeo Boden,boden,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0116279069767441,included,
+jesuscoin,Jesus Coin,jesus,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7209302325581395,0.9883720930232558,0.0,included,
+jewelsdagoat,Jewels Da Goat,jewels,solana,77,2024-11-20,2025-02-04,77,1.0,0.935064935064935,0.0,0.0,included,
+jiffpom,Jiffpom,jiff,solana,70,2024-11-27,2025-02-04,70,1.0,0.6571428571428571,0.0142857142857142,0.0,included,
+joecoin,Joe Coin,joe,ethereum,83,2024-11-15,2025-02-04,83,1.0,0.4337349397590361,0.0,0.072289156626506,included,
+johnmcaifee,John McAIfee,mcaifee,solana,78,2024-11-19,2025-02-04,78,1.0,0.4230769230769231,0.0,0.0,included,
+johnthecoin,John the Coin,john,solana,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.0,0.0,included,
+joi,Joi,joi,solana,77,2024-11-20,2025-02-04,77,1.0,1.0,0.0129870129870129,0.0,included,
+jorkin,Jorkin,jorkin,solana,78,2024-11-19,2025-02-04,78,1.0,0.0128205128205128,0.1923076923076923,0.0,included,
+justachillguy,Just a chill guy (ETH),chillguy,ethereum,64,2024-12-03,2025-02-04,64,1.0,0.234375,0.0,0.0,included,
+justiceforpnutandfred,Justice for Pnut and Fred,justice,solana,70,2024-11-27,2025-02-04,70,1.0,0.6857142857142857,0.0,0.0,included,
+k9killedinshootout,K-9 Killed in Shootout,titan,solana,77,2024-11-20,2025-02-04,77,1.0,0.7402597402597403,0.0,0.0,included,
+k9financedao,K9 Finance DAO,knine,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,1.0,0.0116279069767441,included,
+kandoai,KANDO AI,kando,solana,42,2024-12-25,2025-02-04,42,1.0,0.8333333333333334,0.2142857142857142,0.0,included,
+keketerminal,KEKE Terminal,keke,solana,68,2024-11-29,2025-02-04,68,1.0,1.0,0.0,0.0,included,
+kiki2,KIKI,kiki,solana,44,2024-12-23,2025-02-04,44,1.0,0.9318181818181818,0.0909090909090909,0.0,included,
+kira3,KIRA,kira,solana,70,2024-11-27,2025-02-04,70,1.0,0.9714285714285714,0.0,0.0,included,
+klaus,KLAUS,klaus,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.2790697674418604,0.0,0.0,included,
+koalaai,KOALA AI,koko,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+kpopkpopfun,KPOP (kpop.fun),kpop,solana,54,2024-12-13,2025-02-04,54,1.0,0.2962962962962963,0.0,0.0925925925925925,included,
+kween,KWEEN,kween,solana,50,2024-12-17,2025-02-04,50,1.0,1.0,0.38,0.0,included,
+kyra,KYRA,kyra,ethereum,85,2024-11-12,2025-02-04,85,1.0,0.9882352941176472,0.0117647058823529,0.8588235294117647,included,
+kaiken,Kai Ken,kai,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.9767441860465116,0.0,included,
+kappy,Kappy,kappy,solana,61,2024-12-06,2025-02-04,61,1.0,0.8032786885245902,0.0,0.0491803278688524,included,
+katanainu,Katana Inu,kata,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.9883720930232558,0.0,included,
+keanu,Keanu,knu,solana,74,2024-11-23,2025-02-04,74,1.0,0.5675675675675675,0.3108108108108108,0.0405405405405405,included,
+keepgambling,Keep Gambling,gamble,solana,58,2024-12-09,2025-02-04,58,1.0,0.6724137931034483,0.0172413793103448,0.0344827586206896,included,
+kekistan,Kekistan,kek,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.0,included,
+kekiusmaximus,Kekius Maximus,kekius,ethereum,47,2024-12-20,2025-02-04,47,1.0,0.0638297872340425,0.0,0.0,included,
+kenduinu,Kendu Inu,kendu,ethereum,85,2024-11-12,2025-02-04,85,1.0,0.8,0.0,0.9529411764705882,included,
+keyboardcat,Keyboard Cat,keycat,solana,83,2024-11-15,2025-02-04,83,1.0,0.8433734939759037,0.0,0.0,included,
+kibainu,Kiba Inu,kiba,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+kiboshib,KiboShib,kibshi,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+kimbo,Kimbo,kimbo,avalanche,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.8488372093023255,0.0,included,
+kirakuru,KiraKuru,kra,solana,51,2024-12-16,2025-02-04,51,1.0,1.0,0.0196078431372549,0.0,included,
+kishuinu,Kishu Inu,kishu,ethereum,84,2024-11-13,2025-02-04,84,1.0,0.7619047619047619,0.0,0.0238095238095238,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+kittekoin,Kittekoin,koin,ethereum,86,2024-11-11,2025-02-03,86,1.0,0.0232558139534883,0.0,0.0,included,
+kittenhaimer,Kitten Haimer,khai,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+kizuna,Kizuna,kizuna,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0,0.0,included,
+knotdiffiehellman,Knot Diffie-Hellman,knot,solana,56,2024-12-11,2025-02-04,56,1.0,0.9285714285714286,0.0,0.0,included,
+knutfromzoo,Knut From Zoo,knut,solana,42,2024-12-25,2025-02-04,42,1.0,0.7857142857142857,0.0,0.0,included,
+kolin2,Kolin,kolin,solana,67,2024-11-30,2025-02-04,67,1.0,1.0,0.0,0.0,included,
+komainu,Koma Inu,koma,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.2441860465116279,0.0116279069767441,0.0,included,
+kotaro,Kotaro,kotaro,solana,76,2024-11-21,2025-02-04,76,1.0,0.3552631578947368,0.0,0.0,included,
+koto2,Koto,koto,solana,70,2024-11-27,2025-02-04,70,1.0,0.8714285714285714,0.0,0.0,included,
+leaai,LEA AI,lea,solana,71,2024-11-26,2025-02-04,71,1.0,1.0,0.2112676056338028,0.0,included,
+ledogdog,LEDOG (DOG),dog,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7093023255813954,0.0,0.0,included,
+legend,LEGEND,legend,solana,60,2024-12-07,2025-02-04,60,1.0,0.8833333333333333,0.0,0.0,included,
+leper,LEPER,leper,solana,82,2024-11-15,2025-02-04,82,1.0,0.7804878048780488,0.0121951219512195,0.7682926829268293,included,
+limbo,LIMBO,limbo,solana,62,2024-12-05,2025-02-04,62,1.0,1.0,0.0,0.0967741935483871,included,
+loafcat,LOAFCAT,loafcat,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.1162790697674418,0.0116279069767441,included,
+lockin,LOCK IN,lockin,solana,77,2024-11-20,2025-02-04,77,1.0,0.0,0.0,0.0,included,
+logosai,LOGOSAI,logos,solana,57,2024-12-10,2025-02-04,57,1.0,0.8596491228070176,0.0,0.0,included,
+lol3,LOL,lol,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0697674418604651,0.0,included,
+long4,LONG,long,solana,61,2024-12-06,2025-02-04,61,1.0,0.9344262295081968,0.0,1.0,included,
+loulou,LOULOU,loulou,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.7790697674418605,0.0,included,
+luci,LUCI,luci,solana,86,2024-11-11,2025-02-04,86,1.0,0.5697674418604651,0.0,0.0,included,
+lumi3,LUMI,lumi,solana,58,2024-12-09,2025-02-04,58,1.0,0.9827586206896552,0.0172413793103448,0.0172413793103448,included,
+lambosforvirgins,LambosForVirgins,virgin,solana,61,2024-12-06,2025-02-04,61,1.0,0.8032786885245902,0.0,0.0,included,
+thereallandwolf,LandWolf,wolf,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+landwolf2,Landwolf,wolf,ethereum,70,2024-11-27,2025-02-04,70,1.0,0.9857142857142858,0.0,0.0,included,
+larpdetectiveagency,Larp Detective Agency,$agency,solana,43,2024-12-24,2025-02-04,43,1.0,0.9767441860465116,0.0,0.0,included,
+leo2,Leo,leo,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,0.0,0.4736842105263157,included,
+lethimcook,Let Him Cook,$cook,solana,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0,included,
+letthatsinkin,Let that sink in,sink,solana,82,2024-11-15,2025-02-04,82,1.0,0.5975609756097561,0.024390243902439,0.0,included,
+letsfarty,Let's Farty,farty,solana,33,2025-01-03,2025-02-04,33,1.0,1.0,0.0303030303030303,0.0,included,
+letsgetthisbread,Lets Get This Bread,lgtb,solana,50,2024-12-17,2025-02-04,50,1.0,0.82,0.0,0.0,included,
+libra4,Libra,libra,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,0.5131578947368421,included,
+lilyscoin,Lily's Coin,lily,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.0,0.0,included,
+lingyan,Lingyan,lingyan,solana,83,2024-11-15,2025-02-04,83,1.0,0.5421686746987951,0.0,0.0,included,
+linkonsol,Link on Sol,link,solana,77,2024-11-20,2025-02-04,77,1.0,0.5324675324675324,0.0,0.0259740259740259,included,
+lioncat,Lion Cat,lcat,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,1.0,0.0,included,
+litecoinmascot,Litecoin Mascot,lester,solana,77,2024-11-20,2025-02-04,77,1.0,0.0909090909090909,0.987012987012987,0.0,included,
+literallyme,Literally Me,me,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.5,included,
+lola3,Lola,lola,solana,62,2024-12-05,2025-02-04,62,1.0,0.7741935483870968,0.0806451612903225,0.0,included,
+lolcat2,Lolcat,lolcat,solana,86,2024-11-11,2025-02-04,86,1.0,0.4418604651162791,0.9883720930232558,0.0,included,
+loobybystephenbliss,Looby by Stephen Bliss,looby,solana,74,2024-11-23,2025-02-04,74,1.0,0.8918918918918919,0.0,0.0,included,
+lookbro,Look bro,look,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0116279069767441,0.9651162790697676,included,
+lovelyinufinance,Lovely Inu Finance,lovely,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,0.1627906976744186,0.0,included,
+lowqualitycat,Low Quality Cat,lqc,solana,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.0,included,
+offcialmascotoftheholyyear,Luce,luce,solana,47,2024-12-20,2025-02-04,47,1.0,0.0,0.0,0.0,included,
+lucedog,Luce Dog,santino,solana,83,2024-11-15,2025-02-04,83,1.0,0.0963855421686747,0.0,0.0,included,
+luckydog,Lucky Dog,lucky,solana,86,2024-11-20,2025-02-04,77,0.8953488372093024,0.9651162790697676,0.0116279069767441,0.0,included,
+luffyinu,Luffy,luffy,ethereum,54,2024-12-13,2025-02-04,54,1.0,0.9814814814814816,0.4629629629629629,0.0,included,
+lunabyvirtuals,Luna by Virtuals,luna,solana,59,2024-12-08,2025-02-04,59,1.0,1.0,0.0,0.0,included,
+m3m3,M3M3,m3m3,solana,47,2024-12-20,2025-02-04,47,1.0,0.8297872340425532,0.2340425531914893,0.0,included,
+mad2,MAD,mad,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.9883720930232558,0.0,included,
+magaagain,MAGA Again,magaa,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.4767441860465116,0.0,included,
+magahat,MAGA Hat,maga,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+magafightfortrump,MAGA: Fight for Trump,trumpcoin,ethereum,85,2024-11-12,2025-02-04,85,1.0,0.6823529411764706,0.9176470588235294,0.0,included,
+make,MAKE,make,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.4534883720930232,0.0,0.2441860465116279,included,
+maneki,MANEKI,maneki,solana,54,2024-12-13,2025-02-04,54,1.0,0.0,0.0,0.0,included,
+max2,MAX,max,solana,61,2024-12-06,2025-02-04,61,1.0,0.9836065573770492,0.7704918032786885,0.7049180327868853,included,
+medusa2,MEDUSA,medusa,solana,85,2024-11-12,2025-02-04,85,1.0,0.6588235294117647,0.0,0.0,included,
+men,MEN,men,solana,86,2024-11-11,2025-02-04,86,1.0,0.6976744186046512,0.1395348837209302,0.0465116279069767,included,
+meow,MEOW,meow,solana,83,2024-11-15,2025-02-04,83,1.0,0.3373493975903614,0.0,0.0240963855421686,included,
+zerotech,MEOW,meow,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.9767441860465116,0.0232558139534883,included,
+milkbag,MILKBAG,milkbag,solana,86,2024-11-11,2025-02-04,86,1.0,0.7558139534883721,0.0,0.0,included,
+mimany,MIMANY,mimany,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+mist2,MIST,霞,solana,78,2024-11-19,2025-02-04,78,1.0,0.6794871794871795,0.0,0.0384615384615384,included,
+moai,MOAI,moai,solana,85,2024-11-12,2025-02-04,85,1.0,1.0,0.0,0.0,included,
+moe4,MOE,moe,solana,62,2024-12-05,2025-02-04,62,1.0,0.9193548387096774,0.0,0.0,included,
+moew,MOEW,moew,solana,74,2024-11-23,2025-02-04,74,1.0,0.9864864864864864,0.4864864864864865,0.0,included,
+moodeng2,MOO DENG,moodeng,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+morris,MORRIS,morris,solana,82,2024-11-15,2025-02-04,82,1.0,0.7317073170731707,0.0,0.0,included,
+moss,MOSS,moss,solana,40,2024-12-27,2025-02-04,40,1.0,0.975,0.975,0.8,included,
+mstr2100,MSTR2100,mstr,ethereum,85,2024-11-12,2025-02-04,85,1.0,1.0,0.0,0.0,included,
+mumuthebull3,MUMU THE BULL,mumu,solana,44,2024-12-23,2025-02-04,44,1.0,0.8636363636363636,0.0,0.0,included,
+mut,MUT,mut,polygon-pos,74,2024-11-23,2025-02-04,74,1.0,0.0,0.0,0.972972972972973,included,
+madonnadelgatto,Madonna del gatto,gatto,binance-smart-chain,47,2024-12-20,2025-02-01,47,1.0,0.2553191489361702,0.0,0.0,included,
+magaverse,Magaverse,mvrs,solana,49,2024-12-18,2025-02-04,49,1.0,0.2244897959183673,0.0204081632653061,0.0,included,
+magnet2,Magnet,magnet,solana,85,2024-11-12,2025-02-04,85,1.0,0.0,0.0,0.1294117647058823,included,
+maincharacter,Main Character,main,solana,77,2024-11-20,2025-02-04,77,1.0,0.2857142857142857,0.0129870129870129,0.1168831168831168,included,
+maincharacterenergy,Main Character Energy,mcen,solana,76,2024-11-21,2025-02-04,76,1.0,0.9342105263157896,0.0,0.0,included,
+majorfrog,Major Frog,major,solana,86,2024-11-11,2025-02-04,86,1.0,0.8023255813953488,0.0,0.0,included,
+makeamericahealthyagain,Make America Healthy Again,maha,ethereum,84,2024-11-13,2025-02-04,84,1.0,0.8571428571428571,0.0,0.0476190476190476,included,
+malakai,Malakai,malakai,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.1162790697674418,included,
+manifestonsol,Manifest,manifest,solana,86,2024-11-11,2025-02-04,86,1.0,0.0116279069767441,0.0,0.0,included,
+mao3,Mao,mao,ethereum,86,2024-11-11,2025-02-03,86,1.0,0.313953488372093,0.0,0.0116279069767441,included,
+marketdominance,Market Dominance,md,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0116279069767441,0.1395348837209302,included,
+mars2,Mars,mars,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.0,0.0348837209302325,included,
+marvininu2,Marvin Inu,marvin,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0232558139534883,0.0,included,
+matt0x79,Matt Furie,matt,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.5581395348837209,0.0348837209302325,0.0,included,
+maxoneth,Max on ETH,maxeth,ethereum,57,2024-12-10,2025-02-04,57,1.0,0.0175438596491228,0.0,0.0,included,
+maya,Maya,maya,solana,83,2024-11-15,2025-02-04,83,1.0,0.2048192771084337,0.0,0.9759036144578314,included,
+mcdull,McDull (Meme),mcdull,solana,58,2024-12-09,2025-02-04,58,1.0,1.0,0.0,0.0,included,
+mellowman,Mellow Man,mellow,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0930232558139534,0.0,included,
+melo,Melo,melo,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+melondog,Melon Dog,melon,solana,86,2024-11-11,2025-02-04,86,1.0,0.6162790697674418,0.0,0.0,included,
+memeanarchicnumismaticasset,Meme Anarchic Numismatic Asset,mana,solana,53,2024-12-14,2025-02-04,53,1.0,0.981132075471698,0.0,0.0,included,
+memecoinmillionaire,Meme Coin Millionaire,$rich,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0232558139534883,included,
+memecoingirl,MemeCoinGirl,miko,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.4302325581395348,0.0,0.0,included,
+memesai,Memes AI,memesai,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0116279069767441,included,
+metamonopoly,Meta Monopoly,monopoly,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.9534883720930232,0.0,included,
+metformin,Metformin,met,solana,71,2024-11-26,2025-02-04,71,1.0,0.9154929577464788,0.0,0.0,included,
+miladywifhat,Milady Wif Hat,ladyf,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,1.0,0.0,included,
+mindzero,Mind Zero,mind,solana,62,2024-12-05,2025-02-04,62,1.0,0.6935483870967742,0.0,0.0,included,
+minetardai,MineTard AI,mtard,solana,67,2024-11-30,2025-02-04,67,1.0,1.0,0.0,0.0,included,
+minidoge3,Minidoge,minidoge,solana,49,2024-12-18,2025-02-04,49,1.0,0.6530612244897959,0.0408163265306122,0.0,included,
+mizuki,Mizuki,mizuki,solana,49,2024-12-18,2025-02-04,49,1.0,0.8775510204081632,0.0,0.0612244897959183,included,
+monaarcane,Mona Arcane,mona,solana,55,2024-12-12,2025-02-04,55,1.0,0.2,0.0,0.0,included,
+mongcoin,MongCoin,mong,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+monkeypox,Monkey Pox,pox,solana,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0,included,
+moonbag,MoonBag,mbag,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.2790697674418604,0.0232558139534883,included,
+moonscape2,MoonScape,moon,solana,86,2024-11-11,2025-02-04,86,1.0,0.5465116279069767,0.0,0.0,included,
+morud,Morud,morud,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+moth2,Moth,moth,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.2674418604651162,included,
+motheriggy,Mother Iggy,mother,solana,76,2024-11-21,2025-02-04,76,1.0,0.9736842105263158,0.0,0.0,included,
+mrmayonnaisethecat,Mr Mayonnaise the Cat,mayo,solana,82,2024-11-15,2025-02-04,82,1.0,0.8658536585365854,0.0,0.0,included,
+muskit,Musk It,muskit,solana,54,2024-12-13,2025-02-04,54,1.0,0.9814814814814816,0.8148148148148148,0.8703703703703703,included,
+musmecoin,MusmeCoin,msm,ethereum,57,2024-12-10,2025-02-04,57,1.0,0.9649122807017544,0.0350877192982456,0.0,included,
+myro,Myro,$myro,solana,33,2025-01-03,2025-02-04,33,1.0,0.5151515151515151,0.0,0.1212121212121212,included,
+mystery2,Mystery,mystery,ethereum,53,2024-12-14,2025-02-04,53,1.0,0.9433962264150944,0.0,0.1886792452830188,included,
+navalai,NAVAL AI,naval ai,solana,78,2024-11-19,2025-02-04,78,1.0,0.9743589743589745,0.3461538461538461,0.0,included,
+ndx6900,NDX6900,ndx,solana,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.0,included,
+npconsolana,NPC On Solana,npcs,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+nullmatrix,NULL MATRIX,,solana,86,2024-11-11,2025-02-04,86,1.0,0.2325581395348837,0.0,0.0,included,
+number,NUMBER,$number,ethereum,35,2025-01-01,2025-02-04,35,1.0,1.0,0.0,0.0,included,
+nailong,Nailong,nailong,solana,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0116279069767441,0.0,included,
+naitzsche,Naitzsche,nai,solana,49,2024-12-18,2025-02-04,49,1.0,0.7959183673469388,0.0816326530612244,0.0,included,
+nakedjim,Naked Jim,$jim,solana,31,2025-01-05,2025-02-04,31,1.0,1.0,0.0,0.0,included,
+nasdaq420,Nasdaq420,nasdaq420,ethereum,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0930232558139534,included,
+neirei,Neirei,neirei,ethereum,86,2024-11-11,2025-02-03,86,1.0,0.8837209302325582,0.0,0.0465116279069767,included,
+neiro,Neiro,neiro,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0348837209302325,included,
+neiro2,Neiro,neiro,solana,86,2024-11-11,2025-02-04,86,1.0,0.8604651162790697,0.0,0.0,included,
+neirooneth,Neiro on ETH,neiro,ethereum,57,2024-12-10,2025-02-04,57,1.0,0.0,0.0,0.0,included,
+neroboss,Neroboss,neroboss,solana,54,2024-12-13,2025-02-04,54,1.0,1.0,0.0,0.0,included,
+newbabyelephanthoustonzoo,New Baby Elephant Houston Zoo,kirby,solana,76,2024-11-21,2025-02-04,76,1.0,0.868421052631579,0.0,0.0,included,
+newbornhaggispygmyhippo,New Born Haggis Pygmy Hippo,haggis,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+nightfury,Night Fury,fury,solana,45,2024-12-22,2025-02-04,45,1.0,0.9111111111111112,0.0,0.6666666666666666,included,
+ninjasquad,Ninja Squad Token,nst,ethereum,69,2024-11-28,2025-02-04,69,1.0,0.9565217391304348,0.144927536231884,0.0,included,
+nomansland,No Mans Land,nml,solana,78,2024-11-19,2025-02-03,78,1.0,0.1153846153846153,0.0,0.2051282051282051,included,
+no1tiktokcat,No1 tiktok cat,puff,solana,80,2024-11-16,2025-02-04,80,1.0,0.1375,0.0,0.0,included,
+noods,Noods,noods,solana,83,2024-11-15,2025-02-04,83,1.0,0.8795180722891566,0.0,0.1204819277108433,included,
+noooomeme,Noooomeme,noooo,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.7325581395348837,0.0,included,
+nothing4,Nothing,void,solana,61,2024-12-06,2025-02-04,61,1.0,0.0163934426229508,0.0,0.4098360655737705,included,
+novaonmars,Nova on Mars,nova,solana,61,2024-12-06,2025-02-04,61,1.0,1.0,0.0,0.0,included,
+numogram,Numogram,gnon,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.8372093023255814,0.0,included,
+nutcoinmeme,NutCoin,nut,ethereum,62,2024-12-05,2025-02-04,62,1.0,1.0,0.4032258064516129,0.0,included,
+nya,Nya,nya,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.8372093023255814,included,
+nyanmemecoin,Nyan Meme Coin,nyan,ethereum,79,2024-11-18,2025-02-04,79,1.0,0.8227848101265823,0.9873417721518988,0.0,included,
+obot,OBOT,obot,solana,78,2024-11-19,2025-02-04,78,1.0,0.9230769230769232,0.1923076923076923,0.0,included,
+ogsminem,OG SMINEM,ogsm,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.0,0.0,included,
+okane,OKANE,okane,solana,78,2024-11-19,2025-02-04,78,1.0,0.935897435897436,0.0,0.0,included,
+opxlive,OPX LIVE,opxl,solana,46,2024-12-21,2025-02-04,46,1.0,0.8478260869565217,0.4130434782608695,0.0,included,
+orbit3,ORBIT,grift,solana,54,2024-12-13,2025-02-04,54,1.0,1.0,0.0555555555555555,0.5370370370370371,included,
+orc,ORC,orc,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.6046511627906976,0.0348837209302325,included,
+oscar,OSCAR,oscar,ethereum,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,1.0,included,
+obipnutkenobi,Obi PNut Kenobi,opk,solana,85,2024-11-12,2025-02-04,85,1.0,1.0,0.0,0.0,included,
+omega2,Omega,omega,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0116279069767441,included,
+omnicat,OmniCat,omni,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+optimusai,Optimus AI,opti,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0,0.0,included,
+opus2,Opus,opus,solana,70,2024-11-27,2025-02-04,70,1.0,0.8,0.0,0.0428571428571428,included,
+thedogenft,Own The Doge,dog,ethereum,58,2024-12-09,2025-02-04,58,1.0,0.913793103448276,0.5172413793103449,0.0,included,
+pino,PINO,pino,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0116279069767441,0.0,included,
+ponk2,PONK,ponk,solana,84,2024-11-13,2025-02-04,84,1.0,0.7857142857142857,0.0,0.0,included,
+popdog,POPDOG,popdog,solana,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.9418604651162792,0.0930232558139534,included,
+poupe,POUPE,poupe,solana,86,2024-11-11,2025-01-24,86,1.0,0.6976744186046512,0.2325581395348837,0.0,included,
+powsche,POWSCHE,powsche,solana,67,2024-11-30,2025-02-04,67,1.0,0.7611940298507462,0.0,0.8507462686567164,included,
+pump2,PUMP,pump,solana,78,2024-11-19,2025-02-04,78,1.0,0.8974358974358975,0.0,0.0769230769230769,included,
+pupsordinals,PUPS (Ordinals) [OLD],pups,solana,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.0,0.0,included,
+purplepepe,PURPLE PEPE,purpe,solana,60,2024-12-07,2025-02-04,60,1.0,0.0,0.1166666666666666,0.0,included,
+pajamascat,Pajamas Cat,pajamas,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+patriot,Patriot,patriot,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0116279069767441,0.2209302325581395,included,
+peanut2,Peanut,peanut,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.4186046511627907,0.0,0.0,included,
+peanut3,Peanut,pnut,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.0116279069767441,0.0116279069767441,included,
+peepoeth,Peepo,pepo,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.9883720930232558,0.0,included,
+peipeicoinvip,PeiPei,peipei,ethereum,82,2024-11-15,2025-02-04,82,1.0,0.0,0.0,0.0,included,
+peng,Peng,peng,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+pepe20,Pepe 2.0,pepe2.0,ethereum,70,2024-11-27,2025-02-04,70,1.0,0.9714285714285714,0.0,0.0,included,
+pepetrump,Pepe Trump,ptrump,solana,81,2024-11-15,2025-02-04,81,1.0,0.8024691358024691,0.9876543209876544,0.0,included,
+pepesol,Pepe on SOL,pepe,solana,86,2024-11-11,2025-02-04,86,1.0,0.0232558139534883,0.0,0.0,included,
+pepethekingprawn,Pepe the King Prawn,prawn,solana,57,2024-12-10,2025-02-04,57,1.0,0.7017543859649122,0.0,0.0526315789473684,included,
+pepefork,PepeFork,pork,ethereum,85,2024-11-12,2025-02-04,85,1.0,0.0,0.0,0.0,included,
+pepoclown,Pepoclown,honk,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+pestothebabykingpenguin,Pesto the Baby King Penguin,pesto,solana,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,0.0,0.0,included,
+petunia,Petunia,petunia,solana,86,2024-11-11,2025-02-04,86,1.0,0.1860465116279069,0.7093023255813954,0.1511627906976744,included,
+phil,Phil,phil,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+pigeontech,Pigeon Tech,govai,solana,86,2024-11-11,2025-02-04,86,1.0,0.0348837209302325,0.0,0.0,included,
+pikaboss,Pikaboss,pika,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.5232558139534884,0.0,0.0,included,
+pillzumi,Pillzumi,pillzumi,solana,51,2024-12-16,2025-02-04,51,1.0,0.9215686274509804,0.0,0.0,included,
+pingdog,Ping Dog,ping,solana,86,2024-11-11,2025-02-04,86,1.0,0.1627906976744186,0.0,0.0,included,
+pisces,Pisces,pisces,solana,82,2024-11-15,2025-02-04,82,1.0,0.9634146341463414,1.0,1.0,included,
+planktoninpain,Plankton in Pain,aaahhm,solana,50,2024-12-17,2025-02-04,50,1.0,0.84,0.0,0.0,included,
+pledge2,Pledge,pledge,ethereum,56,2024-12-11,2025-02-04,56,1.0,0.875,0.0,0.0,included,
+pnutssister,Pnut's Sister,chloe,solana,83,2024-11-15,2025-02-04,83,1.0,1.0,0.0,0.0,included,
+pnutsforsquirrel,Pnuts for squirrel,pnuts,binance-smart-chain,76,2024-11-21,2024-12-31,76,1.0,0.5131578947368421,0.986842105263158,0.0,included,
+pochita,Pochita,pochita,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+polydoge,PolyDoge,polydoge,polygon-pos,86,2024-11-11,2025-02-04,86,1.0,0.8372093023255814,1.0,0.0116279069767441,included,
+poochi,Poo Chi,$sir,binance-smart-chain,86,2024-11-11,2025-01-30,86,1.0,0.2325581395348837,0.0,0.0116279069767441,included,
+popo2,Popo,popo,solana,86,2024-11-11,2025-02-04,86,1.0,0.627906976744186,0.0,0.0116279069767441,included,
+popothefrog,Popo The Frog,frop,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.2790697674418604,0.6395348837209303,0.0,included,
+poppy,Poppy,poppy,solana,31,2025-01-05,2025-02-04,31,1.0,0.2580645161290322,0.032258064516129,0.935483870967742,included,
+praist,Praist,praist,solana,69,2024-11-28,2025-02-04,69,1.0,0.391304347826087,0.0,0.0,included,
+presidentexe,President.exe,aimaga,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+principalsnetwork,Principals Network,pnet,solana,49,2024-12-18,2025-02-04,49,1.0,0.7959183673469388,0.0,0.0,included,
+projectaeon,Project Aeon,aeon,solana,78,2024-11-19,2025-02-04,78,1.0,0.0,0.0,0.0,included,
+project89,Project89,project89,solana,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0,included,
+prophetofethereum,Prophet of Ethereum,prophet,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.4418604651162791,0.0,0.0,included,
+puffy,Puffy,puffy,solana,86,2024-11-11,2025-02-04,86,1.0,0.6162790697674418,0.0,0.0,included,
+pundu,Pundu,pundu,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,1.0,0.0,included,
+qstar,QSTAR,q*,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+quantifyai,QuantifyAI,qgg,solana,53,2024-12-14,2025-02-04,53,1.0,0.8113207547169812,0.0,0.0,included,
+quasar3,Quasar,quasar,solana,70,2024-11-27,2025-02-04,70,1.0,0.8714285714285714,0.0,0.0,included,
+ratescape,RAT Escape,rat,solana,69,2024-11-28,2025-02-04,69,1.0,0.9420289855072465,0.0,0.0,included,
+retardio,RETARDIO,retardio,solana,44,2024-12-23,2025-02-04,44,1.0,0.0,1.0,0.0227272727272727,included,
+ribbit2,RIBBIT,rbt,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.0,included,
+riko,RIKO,riko,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+rnttoken,RNT,rnt,solana,76,2024-11-21,2025-02-04,76,1.0,0.0,0.0,0.0,included,
+rock3,ROCK,rock,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.1395348837209302,0.0581395348837209,included,
+roflcopter,ROFLcopter,rofl,solana,68,2024-11-28,2025-02-04,68,1.0,0.9852941176470588,0.9117647058823528,0.0147058823529411,included,
+rawr,Rawr,xd,solana,86,2024-11-11,2025-02-04,86,1.0,0.2325581395348837,0.0,0.0,included,
+realsmurfcat,Real Smurf Cat,smurfcat,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9302325581395348,0.0,0.0,included,
+realworldai,Real World AI,rwa,solana,46,2024-12-21,2025-02-04,46,1.0,0.9130434782608696,0.0,0.0,included,
+realisworlds,Realis Worlds,realis,solana,54,2024-12-13,2025-02-04,54,1.0,0.8333333333333334,0.0,0.0,included,
+redgenesis,Red Genesis,$r3d,solana,35,2025-01-01,2025-02-04,35,1.0,0.7428571428571429,0.8571428571428571,0.0,included,
+redsiberianhusky,Red Siberian Husky,kovu,solana,36,2024-12-31,2025-02-04,36,1.0,0.9722222222222222,0.0,0.0,included,
+reflectionsofdissonanceai,Reflections of Dissonance AI,aika,solana,77,2024-11-20,2025-02-04,77,1.0,0.2077922077922078,0.1168831168831168,0.0,included,
+rekt4,Rekt,rekt,ethereum,71,2024-11-26,2025-02-04,71,1.0,0.7605633802816901,0.0,0.0,included,
+rex3,Rex,rex,solana,78,2024-11-19,2025-02-04,78,1.0,1.0,0.0897435897435897,0.0128205128205128,included,
+richquack,Rich Quack,quack,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,0.0465116279069767,0.2790697674418604,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+rifampicin,Rifampicin,$rif,solana,56,2024-12-11,2025-02-04,56,1.0,0.7857142857142857,0.7857142857142857,0.0714285714285714,included,
+rizo,Rizo,rizo,ethereum,79,2024-11-18,2025-02-04,79,1.0,0.1772151898734177,0.0,0.0,included,
+rizzmas,Rizzmas,rizzmas,solana,69,2024-11-28,2025-02-04,69,1.0,0.855072463768116,0.072463768115942,0.1594202898550724,included,
+ogroaringkitty,Roaring Kitty,$roar,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0232558139534883,included,
+roastmaster9000,Roastmaster9000,rm9000,solana,64,2024-12-03,2025-02-04,64,1.0,1.0,0.015625,0.0,included,
+rockytherock,Rocky,rocky,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0116279069767441,included,
+ronnie,Ronnie,ronnie,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+ropirito,Ropirito,ropirito,solana,75,2024-11-22,2025-02-04,75,1.0,0.6933333333333334,0.0,0.0,included,
+runneroneth,Runner on ETH,runner,ethereum,84,2024-11-13,2025-02-04,84,1.0,0.6309523809523809,0.0,0.0,included,
+ruritruthterminalscrush,Ruri - Truth Terminal's Crush,ruri,solana,76,2024-11-21,2025-02-04,76,1.0,0.3421052631578947,0.0,0.0,included,
+ryujin,RyuJin,ryu,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.2558139534883721,0.0,included,
+sadhamster,SAD HAMSTER,hammy,solana,86,2024-11-11,2025-02-04,86,1.0,0.0581395348837209,0.0,0.0,included,
+sadant,SADANT,sadant,solana,61,2024-12-06,2025-02-04,61,1.0,0.9508196721311476,0.918032786885246,0.0,included,
+santa2,SANTA,santa,solana,66,2024-12-01,2025-02-04,66,1.0,0.0606060606060606,0.0,0.1363636363636363,included,
+santahat,SANTA HAT,santahat,solana,66,2024-12-01,2025-02-04,66,1.0,0.0,0.0,0.0,included,
+sensus,SENSUS,sensus,solana,65,2024-12-02,2025-02-04,65,1.0,0.6461538461538462,0.9230769230769232,0.2615384615384615,included,
+shitcoin3,SHITCOIN,shitcoin,solana,46,2024-12-21,2025-02-04,46,1.0,0.1304347826086956,0.0217391304347826,0.0,included,
+size,SIZE,size,solana,62,2024-12-05,2025-02-04,62,1.0,0.9516129032258064,0.0,1.0,included,
+skainet,SKAINET,skai,solana,62,2024-12-05,2025-02-04,62,1.0,0.7419354838709677,0.0,0.0,included,
+snapkero,SNAP,$nap,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+solcat,SOLCAT,solcat,solana,70,2024-11-27,2025-02-04,70,1.0,0.7571428571428571,0.0,0.0,included,
+spx690020,SPX6900 2.0,spx2.0,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8604651162790697,0.0,0.0,included,
+stars2,STARS,stars,ethereum,39,2024-12-28,2025-02-04,39,1.0,1.0,0.0,1.0,included,
+strategicbitcoinreserve,STRATEGIC BITCOIN RESERVE,sbr,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.4651162790697674,included,
+swaggy,SWAGGY,swaggy,solana,85,2024-11-12,2025-02-04,85,1.0,0.8235294117647058,0.0,0.0,included,
+saadboi,Saad Boi,saad,solana,39,2024-12-28,2025-02-04,39,1.0,0.1538461538461538,0.0,0.0,included,
+safukekgigafundz888,Safu & Kek Gigafundz 888,skg888,solana,84,2024-11-13,2025-02-04,84,1.0,0.8333333333333334,0.0,0.0,included,
+sageuniverse,Sage Universe,sage,solana,86,2024-11-11,2025-02-04,86,1.0,0.2325581395348837,0.0,0.0,included,
+sagittarius,Sagittarius,sagit,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,0.9210526315789472,included,
+salvatormundi,Salvator Mundi,mundi,solana,63,2024-12-04,2025-02-04,63,1.0,0.9047619047619048,0.0,0.0,included,
+samoyedcoin,Samoyedcoin,samo,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.1046511627906976,included,
+schizoterminal,Schizo Terminal,schizo,solana,47,2024-12-20,2025-02-04,47,1.0,1.0,0.0,0.0,included,
+scorpio,Scorpio,scorpio,solana,80,2024-11-16,2025-02-04,80,1.0,0.9625,1.0,1.0,included,
+scratch3,Scratch,$scratch,ethereum,45,2024-12-22,2025-02-04,45,1.0,0.9555555555555556,1.0,0.5333333333333333,included,
+screaminghyrax,Screaming Hyrax,$mama,solana,68,2024-11-29,2025-02-04,68,1.0,0.6176470588235294,0.0,0.0,included,
+sealsreadytocrackpengusice,Seals-Ready to Crack Pengu's Ice,seals,solana,44,2024-12-23,2025-02-04,44,1.0,0.9545454545454546,0.0,0.0,included,
+selfiedogcoin,SelfieDogCoin,selfie,solana,85,2024-11-12,2025-02-04,85,1.0,0.9647058823529412,0.0,0.0,included,
+send2,Send,send,solana,79,2024-11-18,2025-02-04,79,1.0,0.620253164556962,0.0,0.0632911392405063,included,
+sendor,Sendor,sendor,solana,73,2024-11-24,2025-02-04,73,1.0,0.1780821917808219,0.0,0.0,included,
+sentientai,Sentient AI,setai,binance-smart-chain,32,2025-01-04,2025-02-04,32,1.0,1.0,0.625,0.0,included,
+sharbi,Sharbi,$sharbi,solana,86,2024-11-11,2025-02-04,86,1.0,0.8372093023255814,0.0,0.0,included,
+sharkcat,Shark Cat,sc,solana,86,2024-11-11,2025-02-04,86,1.0,0.8023255813953488,0.0,0.0,included,
+sharki,Sharki,sharki,solana,86,2024-11-11,2025-02-04,86,1.0,0.7674418604651163,0.0,0.0,included,
+sherises,She Rises,aka,solana,39,2024-12-28,2025-02-04,39,1.0,0.7692307692307693,0.4615384615384615,0.0,included,
+shibaclassic2,Shiba Classic,shibc,ethereum,78,2024-11-19,2025-02-04,78,1.0,0.2179487179487179,0.0128205128205128,0.0,included,
+shibapredator,Shiba Predator,qom,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.6046511627906976,0.0,0.0,included,
+shibawing,Shiba Wing,wing,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+shibadoge,ShibaDoge,shibdoge,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8023255813953488,0.0,0.0348837209302325,excluded,dropped_in_preprocess:no_valid_rows_after_filters
+shibashootout,Shibashootout,$shibashoot,ethereum,71,2024-11-26,2025-02-04,71,1.0,0.9859154929577464,0.971830985915493,0.0,included,
+shibwifhatcoin,Shibwifhatcoin,shib,solana,86,2024-11-11,2025-02-04,86,1.0,0.6627906976744186,0.0,0.0,included,
+shifu,Shifu,shifu,ethereum,42,2024-12-25,2025-02-04,42,1.0,0.0,0.0,0.2857142857142857,included,
+shinainu,Shina Inu,shi,ethereum,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0,included,
+shoggoth,Shoggoth,shoggoth,solana,86,2024-11-11,2025-02-04,86,1.0,0.627906976744186,0.4302325581395348,0.0930232558139534,included,
+shrub,Shrub,shrub,ethereum,70,2024-11-27,2025-02-04,70,1.0,0.4285714285714285,0.0,0.2285714285714285,included,
+shrub2,Shrub,$shrub,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+sigma,Sigma,sigma,solana,72,2024-11-25,2025-02-04,72,1.0,0.8194444444444444,0.0,0.3055555555555556,included,
+sillydragon,Silly Dragon,silly,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.1162790697674418,included,
+sillynubcat,Sillynubcat,nub,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+simmitoken,Simmi Token,simmi,solana,61,2024-12-13,2025-02-04,54,0.8852459016393442,1.0,0.0,0.0,included,
+simsai,SimsAI,simsai,solana,41,2024-12-26,2025-02-04,41,1.0,0.951219512195122,0.0,0.0,included,
+singularry,Singularry,singularry,solana,57,2024-12-10,2025-02-04,57,1.0,0.9649122807017544,0.2982456140350877,0.0,included,
+skibiditoilet2,Skibidi Toilet,skbdi,solana,80,2024-11-16,2025-02-04,80,1.0,0.7625,0.0,0.9125,included,
+slop,Slop,slop,solana,86,2024-11-11,2025-02-04,86,1.0,0.5813953488372093,0.0,0.0697674418604651,included,
+slopfather,Slopfather,fatha,solana,50,2024-12-17,2025-02-04,50,1.0,0.82,0.0,0.0,included,
+slothana,Slothana,sloth,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,1.0,included,
+eyeearn,Smilek,smilek,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.627906976744186,0.0,included,
+smilingdolphin,Smiling Dolphin,miharu,solana,85,2024-11-12,2025-02-04,85,1.0,0.9882352941176472,0.0117647058823529,0.0235294117647058,included,
+smokingchickenfish,Smoking Chicken Fish,scf,solana,79,2024-11-18,2025-02-04,79,1.0,0.7468354430379747,0.0,0.0126582278481012,included,
+snakewifhat,Snake wif Hat,sssss,solana,76,2024-11-21,2025-02-04,76,1.0,0.986842105263158,0.0131578947368421,0.868421052631579,included,
+sofacat,SofaCat,sofac,solana,82,2024-11-15,2025-02-04,82,1.0,0.926829268292683,0.8902439024390244,0.0,included,
+solama,Solama,solama,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.1511627906976744,included,
+solarisai,Solaris AI,solaris,solana,82,2024-11-15,2025-02-04,82,1.0,1.0,0.0,0.0121951219512195,included,
+solchat,Solchat,chat,solana,86,2024-11-11,2025-02-04,86,1.0,0.9418604651162792,0.0116279069767441,0.0465116279069767,included,
+solnic,Solnic,solnic,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+speedy2,Speedy,speedy,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0,0.2674418604651162,included,
+spikeoneth,Spike,spike,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+spinningcat,Spinning Cat,oiiaoiia,solana,76,2024-11-21,2025-02-04,76,1.0,0.9736842105263158,0.0,0.0,included,
+splashdog,Splash Dog,buster,solana,59,2024-12-08,2025-02-04,59,1.0,0.8305084745762712,0.0,0.0,included,
+spunkysdx,SpunkySDX,ssdx,arbitrum-one,57,2024-12-10,2025-02-04,57,1.0,0.2631578947368421,0.3859649122807017,0.0,included,
+squidgrow2,SquidGrow,sqgrow,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8372093023255814,0.9883720930232558,0.0,included,
+stardoge,StarDOGE,stardoge,binance-smart-chain,69,2024-11-28,2025-02-04,69,1.0,0.5942028985507246,0.0144927536231884,0.0,included,
+starecat,StareCat,helia,solana,83,2024-11-15,2025-02-04,83,1.0,0.9518072289156626,0.0,0.0,included,
+stashinu,Stash Inu,stash,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+stick,Stick,stick,avalanche,73,2024-11-24,2025-02-04,73,1.0,0.8356164383561644,0.0,0.0,included,
+stonks4,Stonks,stnk,solana,43,2024-12-24,2025-02-04,43,1.0,0.8372093023255814,0.0,0.2558139534883721,included,
+sbrsol,Strategic Bitcoin Reserve,sbr,solana,78,2024-11-19,2025-02-04,78,1.0,0.7692307692307693,0.0,0.0,included,
+strategichubforinnovationinblockchain,Strategic Hub for Innovation in Blockchain,shib,ethereum,84,2024-11-13,2025-02-04,84,1.0,0.0119047619047619,0.0,0.0,included,
+styrosteve,Styro Steve,ss,solana,45,2024-12-22,2025-02-04,45,1.0,1.0,0.2888888888888888,0.0,included,
+successkid,Success Kid,skid,solana,86,2024-11-11,2025-02-04,86,1.0,0.1046511627906976,0.0,0.0,included,
+supertrump,Super Trump,strump,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0,0.0,included,
+swarm2,Swarm,swarm,solana,78,2024-11-19,2025-02-04,78,1.0,0.8846153846153846,0.0,0.0256410256410256,included,
+swarmnodeai,SwarmNode.ai,snai,solana,44,2024-12-23,2025-02-04,44,1.0,0.9090909090909092,0.0,0.0,included,
+taoinu,TAO INU,taonu,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.0,included,
+tehepikduck,TEH EPIK DUCK,epik,solana,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+toco,TOCO,toco,solana,48,2024-12-19,2025-02-04,48,1.0,0.6875,0.0,0.2291666666666666,included,
+toga,TOGA,toga,solana,86,2024-11-11,2025-02-04,86,1.0,0.3255813953488372,0.0116279069767441,0.0,included,
+topprotocol,TOP PROTOCOL,top,binance-smart-chain,85,2024-11-12,2025-02-04,85,1.0,0.8705882352941177,0.5294117647058824,0.0,included,
+torsy,TORSY,torsy,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.2674418604651162,0.0116279069767441,included,
+tsuba,TSUBA,tsuba,solana,37,2024-12-30,2025-02-04,37,1.0,0.3513513513513513,0.945945945945946,0.4324324324324324,included,
+tabman,TabMan,tab,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.1860465116279069,0.0,included,
+tateterminal,Tate Terminal,tate,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.0,0.0,included,
+taurus2,Taurus,taurus,solana,76,2024-11-21,2025-02-04,76,1.0,0.9605263157894736,1.0,0.0131578947368421,included,
+tema,Tema,tema,solana,68,2024-11-29,2025-02-04,68,1.0,0.8529411764705882,0.4852941176470588,0.0,included,
+tensorium,Tensorium,tnsr,solana,70,2024-12-01,2025-02-04,66,0.9428571428571428,0.1857142857142857,0.0,0.0,included,
+terminus2,Terminus,terminus,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0116279069767441,0.0,included,
+terminus3,Terminus,terminus,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.8255813953488372,0.0,included,
+terryinthetrenches,Terry In The Trenches,terry,solana,70,2024-11-27,2025-02-04,70,1.0,0.7714285714285715,0.0,0.0,included,
+tetsuocoin,Tetsuo Coin,tetsuo,solana,46,2024-12-21,2025-02-04,46,1.0,0.9782608695652174,0.0,0.0,included,
+thalesai,Thales AI,thales,solana,53,2024-12-14,2025-02-04,53,1.0,1.0,0.9622641509433962,0.0,included,
+theanthropicorder,The Anthropic Order,tao,solana,62,2024-12-05,2025-02-04,62,1.0,0.2096774193548387,0.0,0.0,included,
+thebalkandwarf,The Balkan Dwarf,$kekec,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+theblinkingaicatcatfather,The Blinking AI Cat - Catfather,catf,solana,30,2025-01-06,2025-02-04,30,1.0,0.7666666666666667,0.0,0.0,included,
+thelastplay,The Last Play,retire,solana,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.0232558139534883,included,
+thelokiecabal,The Lokie Cabal,cabal,solana,62,2024-12-05,2025-02-03,62,1.0,0.8225806451612904,0.8064516129032258,0.0,included,
+thenuttingprofessor,The Nutting Professor,pronut,solana,48,2024-12-19,2025-02-04,48,1.0,1.0,0.75,0.0,included,
+therugcoon,The RugCoon,rugga,solana,86,2024-11-11,2025-02-04,86,1.0,0.7558139534883721,0.0,0.0,included,
+thesocietylibrary,The Society Library,sl,solana,75,2024-11-22,2025-02-04,75,1.0,0.68,0.0,0.0,included,
+thetickeriseth,The Ticker Is ETH,eth,solana,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,1.0,0.0,included,
+thecat,TheCat,thecat,solana,86,2024-11-11,2025-02-04,86,1.0,0.0930232558139534,0.0,0.0,included,
+toadsol,Toad (SOL),$toad,solana,86,2024-11-11,2025-02-04,86,1.0,1.0,0.2441860465116279,0.0,included,
+toadkiller,Toad Killer,$toad,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.9418604651162792,0.0,included,
+toki2,Toki,toki,ethereum,45,2024-12-22,2025-02-04,45,1.0,1.0,0.0,0.0,included,
+tomocat,Tomo Cat,tomo,ethereum,64,2024-12-03,2025-02-04,64,1.0,0.96875,0.625,0.0,included,
+tophat,Top Hat,hat,solana,84,2024-11-13,2025-02-04,84,1.0,1.0,0.3095238095238095,0.0,included,
+torithecat,Tori the Cat,tori,solana,86,2024-11-11,2025-02-03,86,1.0,0.0,0.9302325581395348,0.3953488372093023,included,
+trackedbio,TrackedBio,trackedbio,solana,70,2024-11-27,2025-02-04,70,1.0,0.8285714285714286,0.0,0.0,included,
+trenchai,TrenchAI,trenchai,solana,42,2024-12-25,2025-02-04,42,1.0,0.8333333333333334,0.0,0.0,included,
+trisigma,Tri Sigma,trisig,solana,65,2024-12-02,2025-02-04,65,1.0,1.0,0.0,0.0,included,
+trog,Trog,trog,ethereum,47,2024-12-20,2025-02-04,47,1.0,0.7446808510638298,0.0638297872340425,0.0,included,
+troll,Troll,troll,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+trumpderangementsyndrome,Trump Derangement Syndrome,tds,solana,85,2024-11-12,2025-02-04,85,1.0,0.5882352941176471,0.0,0.0,included,
+trumpshuffle,Trump Shuffle,shuffle,solana,76,2024-11-21,2025-02-04,76,1.0,0.7236842105263158,0.0,0.0,included,
+trumpiusmaximus,Trumpius Maximus,trumpius,ethereum,32,2025-01-04,2025-02-04,32,1.0,0.25,0.0,0.0,included,
+trusttheprocess,Trust The Process,trust,solana,50,2024-12-17,2025-02-04,50,1.0,0.0,0.0,0.0,included,
+tsotchke,Tsotchke,tsotchke,solana,46,2024-12-21,2025-02-04,46,1.0,0.8260869565217391,0.6086956521739131,0.0,included,
+unfk,UNFK,$unfk,solana,77,2024-11-20,2025-02-04,77,1.0,0.935064935064935,0.0129870129870129,0.0,included,
+uglydog,Ugly Dog,uglydog,solana,54,2024-12-13,2025-02-04,54,1.0,1.0,0.9629629629629628,0.0,included,
+unicornfartdust,Unicorn Fart Dust,ufd,solana,33,2025-01-03,2025-02-04,33,1.0,0.9696969696969696,0.0,0.0303030303030303,included,
+universalbasiccompute,Universal Basic Compute,ubc,solana,68,2024-11-29,2025-02-04,68,1.0,0.7647058823529411,0.0294117647058823,0.0,included,
+universaloperatingsystem,Universal Operating System,$uos,solana,34,2025-01-02,2025-02-04,34,1.0,0.8529411764705882,0.0,0.0,included,
+upgrates,Upgrates,upg,solana,78,2024-11-19,2025-02-04,78,1.0,1.0,0.0,0.0,included,
+uranus3,Uranus,urs,solana,86,2024-11-11,2025-02-04,86,1.0,0.1976744186046511,0.4418604651162791,0.0,included,
+urolithina,Urolithin A,$uro,solana,76,2024-11-21,2025-02-04,76,1.0,0.7236842105263158,0.7631578947368421,0.0263157894736842,included,
+venko,VENKO,$venko,solana,86,2024-11-11,2025-02-04,86,1.0,0.0930232558139534,0.8023255813953488,0.0,included,
+valhallaindex,Valhalla Index,odin,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+vaticanmascot,Vatican Mascot,luce,ethereum,83,2024-11-15,2025-02-03,83,1.0,0.7831325301204819,0.4578313253012048,0.0,included,
+vaultterminal,Vault Terminal,vault,solana,77,2024-11-20,2025-02-04,77,1.0,0.935064935064935,0.0,0.0,included,
+vibecat2,Vibe Cat,vibe,solana,77,2024-11-20,2025-02-04,77,1.0,0.987012987012987,0.0779220779220779,0.1038961038961039,included,
+vibingcat,Vibing Cat,vcat,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+virgo2,Virgo,virgo,solana,81,2024-11-15,2025-02-04,81,1.0,0.9629629629629628,1.0,0.0,included,
+vitai,VitAI,vitai,arbitrum-one,61,2024-12-06,2025-02-04,61,1.0,0.8852459016393442,0.0,0.0,included,
+vitainu,Vita Inu,vinu,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,1.0,0.0348837209302325,included,
+voiceartificial,Voice Artificial,var,solana,33,2025-01-03,2025-02-04,33,1.0,0.9696969696969696,0.0,0.0,included,
+voltinu2,Volt Inu,volt,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0,0.0,included,
+voyagerai,Voyager AI,voyage,solana,54,2024-12-13,2025-02-04,54,1.0,0.0185185185185185,0.0,0.037037037037037,included,
+wassie,WASSIE,wassie,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.686046511627907,0.0,0.0,included,
+watercoin,WATER Coin,water,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+wawacat,WAWA CAT,wawa,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.1627906976744186,0.0,included,
+whiskey,WHISKEY,whiskey,solana,86,2024-11-11,2025-02-04,86,1.0,0.4651162790697674,0.1162790697674418,1.0,included,
+why,WHY,why,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.3488372093023256,0.0,0.9651162790697676,included,
+wooftoken,WOOF,woof,solana,72,2024-11-25,2025-02-04,72,1.0,0.9027777777777778,0.0,0.0,included,
+work,WORK,work,solana,53,2024-12-14,2025-02-04,53,1.0,0.6792452830188679,0.0,0.981132075471698,included,
+wuffi,WUFFI,wuf,solana,49,2024-12-18,2025-02-04,49,1.0,1.0,0.0,0.0,included,
+waffles,Waffles,waffles,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.2325581395348837,included,
+wallstreetmemes,Wall Street Memes,wsm,binance-smart-chain,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,0.0,0.0,included,
+wally,Wally,wally,solana,84,2024-11-13,2025-02-04,84,1.0,0.988095238095238,0.4642857142857143,0.369047619047619,included,
+walterdogsolana,Walter,walter,solana,85,2024-11-12,2025-02-04,85,1.0,0.0,0.0,0.0,included,
+wat,Wat,wat,ethereum,42,2024-12-25,2025-02-04,42,1.0,0.8809523809523809,0.0,0.0,included,
+weirdmedievalmemes,Weird Medieval Memes,wmm,solana,70,2024-11-27,2025-02-04,70,1.0,0.9285714285714286,0.0,0.0,included,
+wen4,Wen,wen,solana,34,2025-01-02,2025-02-04,34,1.0,0.8823529411764706,0.0,0.0,included,
+whatsupdog,What’s Updog?,$updog,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0116279069767441,included,
+whinecoin,Whine Coin,whine,solana,70,2024-11-27,2025-02-04,70,1.0,0.0,0.0,0.0,included,
+whyyoutouzhele,Whyyoutouzhele,li,solana,33,2025-01-03,2025-02-04,33,1.0,0.8484848484848485,0.4545454545454545,0.0,included,
+wibwob,WibWob,wibwob,solana,78,2024-11-19,2025-02-04,78,1.0,0.8076923076923077,0.0,0.0,included,
+wicked,Wicked,wicked,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,1.0,included,
+wifejak,Wifejak,wife,solana,77,2024-11-20,2025-02-04,77,1.0,0.974025974025974,0.0,0.0,included,
+wildgoatcoin2,Wild Goat Coin,wgc,solana,78,2024-11-19,2025-02-04,78,1.0,0.8589743589743589,0.0,0.0,included,
+winniethepoodle,Winnie the Poodle,winnie,solana,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.0,included,
+winterarc,Winter Arc,winter,solana,76,2024-11-21,2025-02-04,76,1.0,0.8421052631578947,0.0,0.0526315789473684,included,
+wojak,Wojak,wojak,ethereum,41,2024-12-26,2025-02-04,41,1.0,1.0,0.0,0.048780487804878,included,
+wolfofwallstreet,Wolf of Wall Street,$wolf,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.2093023255813953,0.0465116279069767,0.0,included,
+womanyellingatcat,Woman Yelling At Cat,wyac,solana,86,2024-11-11,2025-02-04,86,1.0,0.813953488372093,0.0,0.0,included,
+wrappedayeayecoin,Wrapped AyeAyeCoin,waac,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+wrappeddog,Wrapped DOG,wdog,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0,included,
+xcommunity,X Community,x,solana,40,2024-12-27,2025-02-04,40,1.0,0.925,0.7,0.0,included,
+xenopuslaevis,Xenopus laevis,xeno,solana,49,2024-12-18,2025-02-04,49,1.0,1.0,0.0,0.0204081632653061,included,
+xingxing,Xing Xing,xing,solana,76,2024-11-21,2025-02-04,76,1.0,0.986842105263158,0.0,0.0,included,
+yowie,YOWIE,yowie,solana,82,2024-11-15,2025-02-03,82,1.0,0.6097560975609756,0.0,0.0,included,
+yawnsworld,Yawn's World,yawn,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0,included,
+yellowpepe,Yellow Pepe,yelpe,solana,65,2024-12-02,2025-02-04,65,1.0,1.0,0.0,0.0,included,
+yeschad,Yes Chad,yes,ethereum,78,2024-11-19,2025-02-04,78,1.0,0.9871794871794872,0.0,0.0,included,
+yousim,YouSim,yousim,solana,70,2024-11-27,2025-02-04,70,1.0,1.0,0.0,0.0,included,
+zaraai,ZARA AI,zara,solana,40,2024-12-27,2025-02-04,40,1.0,0.8,0.025,0.0,included,
+zeus3,ZEUS,zeus,solana,33,2025-01-03,2025-02-04,33,1.0,1.0,0.0,0.3333333333333333,included,
+zoaai,ZOA AI,zoa,solana,75,2024-11-22,2025-02-04,75,1.0,1.0,0.0,0.12,included,
+zods,ZODs,zods,solana,46,2024-12-21,2025-02-04,46,1.0,0.8260869565217391,0.0217391304347826,0.1521739130434782,included,
+zackmorris,Zack Morris,zack,solana,86,2024-11-11,2025-02-04,86,1.0,0.4883720930232558,0.0,0.0,included,
+zazu2,Zazu,zazu,solana,86,2024-11-11,2025-02-04,86,1.0,0.6627906976744186,0.0,0.0,included,
+zenith3,Zenith,zen,solana,60,2024-12-07,2025-02-04,60,1.0,0.6,0.0,0.8,included,
+zerebrotokenoftransformation,Zerebro Token Of Transformation,gaycoin,solana,40,2024-12-27,2025-02-04,40,1.0,0.875,0.0,0.0,included,
+zoomer,Zoomer,zoomer,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.6627906976744186,0.0,0.0,included,
+zoomersol,Zoomer,zoomer,solana,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0,0.0,included,
+zyncoin2,ZynCoin,zyn,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,0.9767441860465116,0.0,included,
+achi,achi,achi,solana,79,2024-11-18,2025-02-04,79,1.0,0.5063291139240507,0.0,0.0,included,
+ai16z,ai16z,ai16z,solana,86,2024-11-11,2025-02-04,86,1.0,0.1395348837209302,0.0,0.0,included,
+ai16zeliza,ai16zeliza,eliza,solana,46,2024-12-21,2025-02-04,46,1.0,1.0,0.0,0.0,included,
+analos,analoS,analos,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,1.0,0.0,included,
+auraonsol,aura,aura,solana,86,2024-11-11,2025-02-04,86,1.0,0.7790697674418605,0.0,0.0,included,
+autism2,autism,autism,solana,86,2024-11-11,2025-02-04,86,1.0,0.0581395348837209,0.0,0.0348837209302325,included,
+believeinsomething2,believe in something,dtf,solana,83,2024-11-15,2025-02-04,83,1.0,0.9397590361445785,0.7108433734939759,0.0,included,
+blinkdotfun,blinkdotfun,blink,solana,48,2024-12-19,2025-02-04,48,1.0,0.7708333333333334,0.0,0.0,included,
+brainrot,brainrot,rot,solana,86,2024-11-11,2025-02-04,86,1.0,0.4418604651162791,0.6395348837209303,0.9069767441860463,included,
+catgirl,cat girl,catgf,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.0116279069767441,included,
+catownkimono,catownkimono,cok,solana,86,2024-11-11,2025-02-04,86,1.0,0.8953488372093024,0.0,0.0,included,
+catwifbag,catwifbag,bag,solana,86,2024-11-11,2025-02-04,86,1.0,0.8837209302325582,0.0,0.0116279069767441,included,
+catwifhat2,catwifhat,$cwif,solana,86,2024-11-11,2025-02-04,86,1.0,0.8372093023255814,0.686046511627907,0.0,included,
+chaosanddisorder,chaos and disorder,chaos,solana,70,2024-11-27,2025-02-04,70,1.0,0.9142857142857144,0.0,0.0,included,
+coby,coby,coby,solana,86,2024-11-11,2025-02-04,86,1.0,0.686046511627907,0.0,0.313953488372093,included,
+crowwithknife,crow with knife,caw,polygon-pos,84,2024-11-13,2025-02-04,84,1.0,0.6071428571428571,0.8571428571428571,0.4404761904761904,included,
+dancingtriangle2,dancing triangle,triangle,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.0,0.0,included,
+darksun,darksun,binary,solana,57,2024-12-10,2025-02-04,57,1.0,1.0,0.0,0.543859649122807,included,
+dogwithappleinmouth,dog with apple in mouth,apple,solana,54,2024-12-13,2025-02-04,54,1.0,0.7962962962962963,0.0185185185185185,0.0,included,
+dogecast2,dogecast,dogecast,solana,74,2024-11-23,2025-02-04,74,1.0,0.081081081081081,0.0,0.0,included,
+doginthpool,doginthpool,dip,solana,86,2024-11-11,2025-02-04,86,1.0,0.9534883720930232,0.0,0.0,included,
+earl,earl,earl,solana,86,2024-11-11,2025-02-04,86,1.0,0.5232558139534884,0.0,0.4186046511627907,included,
+elgato,el gato,elgato,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.3837209302325581,included,
+firstreply,first reply,sirius,solana,86,2024-11-11,2025-02-04,86,1.0,0.4302325581395348,0.0,0.0813953488372093,included,
+fug2,fug,fug,solana,83,2024-11-15,2025-02-04,83,1.0,0.6024096385542169,0.0,0.2771084337349397,included,
+gemxbt,gemxbt,gemxbt,solana,50,2024-12-17,2025-02-04,50,1.0,0.94,0.48,0.0,included,
+h2w6gm6jz,h2w6gm6jz,h2w6gm6jz,solana,46,2024-12-21,2025-02-04,46,1.0,0.0434782608695652,0.0,0.0,included,
+hehecat,hehe,hehe,solana,86,2024-11-11,2025-02-04,86,1.0,0.8488372093023255,0.0,0.0,included,
+iiiilovvvyouuuu,iiii lovvvv youuuu,ily,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.9418604651162792,0.0,included,
+imnotwrongimearly,imnotwrongimearly,early,solana,78,2024-11-19,2025-02-04,78,1.0,1.0,0.6538461538461539,0.0,included,
+infinitebackrooms,infinite backrooms,ib,solana,86,2024-11-11,2025-02-04,86,1.0,0.3255813953488372,0.2325581395348837,0.0,included,
+jamcat,jam cat,jam,solana,83,2024-11-15,2025-02-04,83,1.0,0.0843373493975903,0.0,0.0,included,
+justbuy1worthofthiscoin,just buy $1 worth of this coin,$1,solana,68,2024-11-29,2025-02-04,68,1.0,0.4852941176470588,0.0,0.0,included,
+khaokheowzoo,khaokheowzoo,kheowzoo,solana,68,2024-11-29,2025-02-04,68,1.0,0.0,0.2647058823529412,0.0,included,
+kwantxbt,kwantxbt,kwant,solana,53,2024-12-14,2025-02-04,53,1.0,1.0,0.0,0.0,included,
+lifedog,lifedog,lfdog,ethereum,62,2024-12-05,2025-02-04,62,1.0,0.2258064516129032,0.967741935483871,0.0,included,
+littlemanyu,littlemanyu,manyu,solana,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0,0.0,included,
+lmeow2,lmeow,lmeow,ethereum,86,2024-11-11,2025-02-04,86,1.0,0.9883720930232558,1.0,0.0,included,
+loner,loner,loner,solana,54,2024-12-13,2025-02-04,54,1.0,0.8888888888888888,0.0185185185185185,0.0,included,
+markkacy,markkacy,kacy,solana,73,2024-11-24,2025-02-04,73,1.0,0.863013698630137,0.4794520547945205,0.0273972602739726,included,
+meowmeowmeowmeow,meow meow meow meow,meow,solana,50,2024-12-17,2025-02-04,50,1.0,1.0,0.0,0.04,included,
+michicoin,michi,$michi,solana,35,2025-01-01,2025-02-04,35,1.0,0.8285714285714286,0.0,0.0,included,
+minimini,mini,mini,solana,84,2024-11-13,2025-02-04,84,1.0,0.5119047619047619,0.0,0.0,included,
+monkeysolinu,monkey sol inu,msi,solana,45,2024-12-22,2025-02-04,45,1.0,0.7555555555555555,0.0,0.0,included,
+monkeyhaircut,monkeyhaircut,monk,solana,86,2024-11-11,2025-02-04,86,1.0,0.8023255813953488,0.0,0.0,included,
+neversol,neversol,never,solana,86,2024-11-11,2025-02-04,86,1.0,0.8255813953488372,0.3372093023255814,0.0,included,
+nomnom,nomnom,nomnom,solana,86,2024-11-11,2025-02-04,86,1.0,0.9767441860465116,0.0,0.0,included,
+oneunchillgal,one unchill gal,gal,solana,70,2024-11-27,2025-02-04,70,1.0,0.8285714285714286,0.0,0.0,included,
+peanie,peanie,peanie,solana,86,2024-11-11,2025-02-04,86,1.0,0.7558139534883721,0.0,0.0,included,
+pepeinamemesworld,pepe in a memes world,pew,ethereum,81,2024-11-15,2025-02-04,81,1.0,0.0,0.0,0.0,included,
+pepeai2,pepeAI,pepeai,solana,74,2024-11-23,2025-02-04,74,1.0,0.0,0.8783783783783784,0.0,included,
+pippin,pippin,pippin,solana,79,2024-11-18,2025-02-04,79,1.0,1.0,0.0,0.0126582278481012,included,
+rsnoofi,r/snoofi,r/snoofi,solana,86,2024-11-11,2025-02-04,86,1.0,0.0,0.0,0.8372093023255814,included,
+real2,real.,real,solana,86,2024-11-11,2025-02-04,86,1.0,0.2209302325581395,0.0,0.5,included,
+scihub,sci-hub,scihub,solana,76,2024-11-21,2025-02-04,76,1.0,0.986842105263158,0.0394736842105263,0.1447368421052631,included,
+sqrfund,sqrFUND,sqr,solana,50,2024-12-17,2025-02-04,50,1.0,0.8,0.34,0.0,included,
+staringrobot,staring robot,sonny,solana,85,2024-11-12,2025-02-04,85,1.0,0.9176470588235294,0.0,0.0,included,
+supercyclereal,supercycle(real),supercycle,solana,86,2024-11-11,2025-02-04,86,1.0,0.9069767441860463,0.0,0.0,included,
+suwi,suwi,suwi,solana,86,2024-11-11,2025-02-04,86,1.0,0.9186046511627908,0.0232558139534883,0.1627906976744186,included,
+thesoldog,the Soldog,laika,solana,86,2024-11-11,2025-02-04,86,1.0,0.9651162790697676,0.8255813953488372,0.0,included,
+theydontloveyoulikeiloveyou,theydontloveyoulikeiloveyou,wait,solana,76,2024-11-21,2025-02-04,76,1.0,0.6710526315789473,0.0131578947368421,0.0,included,
+tobi,tobi,tobi,solana,86,2024-11-11,2025-02-04,86,1.0,0.872093023255814,0.0232558139534883,0.0,included,
+todd,todd,todd,solana,85,2024-11-12,2025-02-04,85,1.0,0.0,0.0,0.0,included,
+tookerkurlson,tooker kurlson,tooker,solana,86,2024-11-11,2025-02-04,86,1.0,0.686046511627907,0.0,0.0,included,
+tuki,tuki,tuki,solana,86,2024-11-11,2025-02-04,86,1.0,0.6162790697674418,0.0,0.0,included,
+upsidedowncat2,upsidedowncat,usdcat,solana,83,2024-11-15,2025-02-04,83,1.0,0.2891566265060241,0.0120481927710843,0.0,included,
+waterbear,waterbear,waterbear,solana,74,2024-11-23,2025-02-04,74,1.0,0.945945945945946,0.7837837837837838,0.0,included,
+would,would,would,solana,61,2024-12-06,2025-02-04,61,1.0,0.4262295081967213,0.0,0.9508196721311476,included,
+yap,yap,yap,solana,86,2024-11-11,2025-02-04,86,1.0,0.6976744186046512,0.0,0.2674418604651162,included,
+yne,yesnoerror,yne,solana,33,2025-01-03,2025-02-04,33,1.0,0.8484848484848485,0.0,0.0,included,

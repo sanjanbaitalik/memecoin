@@ -1,0 +1,3 @@
+metric: mae
+correction: holm
+alpha: 0.05

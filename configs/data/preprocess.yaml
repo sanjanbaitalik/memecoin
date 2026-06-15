@@ -1,0 +1,4 @@
+forecast_horizon_days: 3
+lookback_days: 14
+train_ratio: 0.8
+sentiment_mode: raw  # raw|rolling_mean|rolling_median

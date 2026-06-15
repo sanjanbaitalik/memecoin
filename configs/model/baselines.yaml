@@ -1,0 +1,3 @@
+train_ratio: 0.8
+seed: 42
+max_tokens_for_modeling: 200

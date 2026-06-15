@@ -1,0 +1,3 @@
+min_rows: 30
+min_price_coverage: 0.70
+require_any_sentiment: false

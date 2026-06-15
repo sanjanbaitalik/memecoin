@@ -1,0 +1,2 @@
+train_ratios: [0.7, 0.8, 0.9]
+lookback_windows: [7, 14, 21]

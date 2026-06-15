@@ -1,0 +1,4 @@
+left,right,metric,n_pairs,wilcoxon_stat,p_value,effect_rank_biserial,left_mean,right_mean,metric_direction,favored_model,p_value_holm,significant_0_05,comparison_group
+V0,V1,mae,1800,487386.0,1.6251289183035042e-13,0.214590282813633,4.053921788083445,0.6981421745835081,lower_better,right_better,1.6251289183035042e-13,True,ablation
+V1,V2,mae,1800,408495.0,3.2407416838032654e-74,0.4959652045160096,0.6981421745835082,0.3005106638302783,lower_better,right_better,9.722225051409796e-74,True,ablation
+V2,V3,mae,1800,502881.0,3.336456207183817e-44,0.3795039792707755,0.3005106638302783,0.1230582388787006,lower_better,right_better,6.672912414367634e-44,True,ablation

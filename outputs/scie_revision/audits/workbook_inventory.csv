@@ -1,0 +1,1274 @@
+sheet_name,rows,token,ticker,first_date,last_date,valid_schema,missing_required_columns,valid_date_count,date_parse_rate
+1guy,86,1GUY,1guy,2024-11-11T00:00:00,2025-02-02T00:00:00,True,,86,1.0
+1squirrel,70,#1 Squirrel,peanut,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+360noscope420blazeit,86,360noscope420blazeit,mlg,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+5,76,??,??,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+6,55,"""　""","""　""",2024-12-12T00:00:00,2025-02-04T00:00:00,True,,55,1.0
+888token,86,888,888,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+a16gems,9,a16gems,a16g,2025-01-27T00:00:00,2025-02-04T00:00:00,True,,9,1.0
+aaacat,86,aaacat,,,,True,,0,0.0
+aavegotchi,23,Aavegotchi,ghst,2025-01-13T00:00:00,2025-02-04T00:00:00,True,,23,1.0
+abi,86,Abi,abi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+achi,79,achi,achi,2024-11-18T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+acidtoad,86,Acid Toad,toad,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+actual,2,actual,,,,True,,0,0.0
+adillo,43,Adillo,adillo,2024-12-24T00:00:00,2025-02-04T00:00:00,True,,43,1.0
+aerobud,83,aerobud,,,,True,,0,0.0
+aethernet,16,aethernet,,,,True,,0,0.0
+agenda47,4,AGENDA 47,a47,2025-02-01T00:00:00,2025-02-04T00:00:00,True,,4,1.0
+agentaigo,62,AgentAIgo,agent,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,0.7419354838709677
+agents,40,agents,,,,True,,0,0.0
+agenttank,53,AgentTank,tank,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+agentzero,77,agentzero,,,,True,,0,0.0
+ahatoken,81,ahatoken,,,,True,,0,0.0
+ai16z,86,ai16z,ai16z,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ai16zeliza,46,ai16zeliza,eliza,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+aicrostrategy,38,aicrostrategy,,,,True,,0,0.0
+aicrystalnode,86,AI Crystal Node,aicrynode,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+aida,25,aida,,,,True,,0,0.0
+aiinu,86,AI INU,aiinu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+aimerica,45,AIMERICA,uai,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+aimonicabrands,56,Aimonica Brands,aimonica,2024-12-11T00:00:00,2025-02-04T00:00:00,True,,56,1.0
+aintivirus2,7,AIntivirus,ainti,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+airene,84,airene,,,,True,,0,0.0
+aishellnova,36,AI Shell NOVA,nova,2024-12-31T00:00:00,2025-02-04T00:00:00,True,,36,1.0
+aitraderagent,33,AI Trader Agent,ait,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+aiwarpertoken,70,AIWarper Token,warper,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+aiwithdaddyissues,86,Aiwithdaddyissues,shegen,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+aiws,21,aiws,,,,True,,0,0.0
+akiprotocol,86,Aki Network,aki,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+akitabsc,43,AKITA-BSC,akita,2024-12-24T00:00:00,2025-02-04T00:00:00,True,,43,1.0
+akumainu,67,akumainu,,,,True,,0,0.0
+alaska,83,Alaska,alaska,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+alchemistai,62,Alchemist AI,alch,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+allwillretire,13,All Will Retire,awr,2025-01-23T00:00:00,2025-02-04T00:00:00,True,,13,1.0
+allyourbase2,86,allyourbase2,,,,True,,0,0.0
+alp,83,ALP,alp,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+alpaca2,78,Alpaca,alpaca,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+alpha3,86,Alpha,alpha,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+amaterasuomikami,86,AMATERASU OMIKAMI,omikami,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+americancoin,86,American Coin,usa,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+americapac,84,America Pac,pac,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+amocucinare,65,amocucinare,,,,True,,0,0.0
+analos,86,analoS,analos,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+andy4,28,ANDY,andy,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+andy70b,45,ANDY70B,andy70b,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+andyerc,86,andyerc,,,,True,,0,0.0
+andyman,86,Andyman,andyman,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+andyonbase,86,andyonbase,,,,True,,0,0.0
+anitamaxwynn,83,Anita Max Wynn,wynn,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+antitoken,33,Antitoken,anti,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+anyinu,86,Any Inu,ai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+aped,71,Aped,aped,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+aquarius2,76,Aquarius,aquarius,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+aquathecoin,85,Aquathecoin,aqua,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+arbdogeai,54,ArbDoge AI,aidoge,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+arbidoge,83,ArbiDoge,adoge,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+aries,76,Aries,aries,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+ariethesealion,77,Arie The Sealion,arie,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+army,27,ARMY,army,2025-01-09T00:00:00,2025-02-04T00:00:00,True,,27,1.0
+army3,32,army3,,,,True,,0,0.0
+assai,28,ASSAI,assai,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+astheria,45,Astheria,heria,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+astropepex,86,AstroPepeX,apx,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+atabyvirtuals,28,atabyvirtuals,,,,True,,0,0.0
+atehun,50,atehun,,,,True,,0,0.0
+auraonsol,86,aura,aura,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+auroraterminal,77,Aurora,aurora,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+autism2,86,autism,autism,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+autist,53,autist,,,,True,,0,0.0
+autonomousvirtualbeings,86,Autonomous Virtual Beings,avb,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+avaai,69,Ava AI,ava,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+avachiangmainightsafariava,70,AVA Chiang Mai Night Safari (AVA),ava,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+avaxhasnochill,86,AVAX HAS NO CHILL,nochill,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+avocato,78,Avocato,ato,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+axi,46,AXI,axi,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+axol,86,axol,,,,True,,0,0.0
+babybitcoin2,83,Baby BitCoin,babybtc,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+babybnb,86,Baby BNB,babybnb,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+babybonk,86,BabyBonk,babybonk,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+babydragonx,86,Baby DragonX,bdx,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+babyfwog,26,Baby Fwog,babyfwog,2025-01-10T00:00:00,2025-02-04T00:00:00,True,,26,1.0
+babygrok,86,Baby Grok,babygrok,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+babyneiro2,86,Baby Neiro,babyneiro,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+babyneirotoken,86,Baby Neiro Token,babyneiro,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+babypengu,0,babypengu,,,,True,,0,0.0
+babypepe3,45,Baby Pepe,babypepe,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+babypnut2,71,Baby Pnut,babypnut,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+babysharkmeme,22,Baby Shark Meme,babyshark,2025-01-14T00:00:00,2025-02-04T00:00:00,True,,22,1.0
+babyshironeko,64,Baby Shiro Neko,babyshiro,2024-12-03T00:00:00,2025-02-04T00:00:00,True,,64,1.0
+babytiger,71,babytiger,,,,True,,0,0.0
+babywen,86,Baby Wen,bwen,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+badcatsol,78,BADCATsol,$badcat,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+badideaai,86,Bad Idea AI,bad,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ballsoffate,86,Balls of Fate,bof,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bambooonbase,86,bambooonbase,,,,True,,0,0.0
+bananacat,86,BananaCat,bcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bananaforscale,70,Banana for Scale,banana,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+bananaforscale2,61,Banana For Scale,banana,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+bananatapewall,86,Banana Tape Wall,btw,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+banano,86,banano,,,,True,,0,0.0
+bangkit,5,bangkit,,,,True,,0,0.0
+barbiecrashbandicootrfk88,86,BarbieCrashBandicootRFK88,solana,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+based,86,BASED,based,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+basedbario,53,basedbario,,,,True,,0,0.0
+basedbutthole,17,basedbutthole,,,,True,,0,0.0
+basedchad,74,basedchad,,,,True,,0,0.0
+basedfartcoin,36,basedfartcoin,,,,True,,0,0.0
+basedfwog,50,basedfwog,,,,True,,0,0.0
+basedhoppy,18,basedhoppy,,,,True,,0,0.0
+basedinternetpandarunes,86,basedinternetpandarunes,,,,True,,0,0.0
+basedpepe,86,basedpepe,,,,True,,0,0.0
+basedturbo,0,basedturbo,,,,True,,0,0.0
+basegod,86,basegod,,,,True,,0,0.0
+basenji,86,basenji,,,,True,,0,0.0
+basktfun,73,Baskt.Fun,baskt,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+beamcat,86,beamcat,,,,True,,0,0.0
+beatsonbase,51,beatsonbase,,,,True,,0,0.0
+beebase,86,beebase,,,,True,,0,0.0
+beegbluewhale,74,beegbluewhale,,,,True,,0,0.0
+beenz,9,BEENZ,beenz,2025-01-27T00:00:00,2025-02-04T00:00:00,True,,9,1.0
+beercoin2,86,Beercoin,beer,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+believeinsomething,86,Believe In Something,bis,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+believeinsomething2,83,believe in something,dtf,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+belikeblob,75,Blob,blob,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+bellscoin,28,bellscoin,,,,True,,0,0.0
+beni,81,beni,,,,True,,0,0.0
+benthedog,86,Ben the Dog,bendog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bertramthepomeranian,84,Bertram The Pomeranian,bert,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+beth,40,Beth,$beth,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+betmore,86,Bet more,bet,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+biaoonsol,62,BIAO on SOL,biao,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+biaoqing,86,Biaoqing,biao,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+big,57,BIG,big,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+bigcheungus,75,Big Cheungus,$cheungus,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+bigdogfink,78,Big Dog Fink,bink,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+bigjim,39,BIG JIM,bigjim,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+bigpharmai,49,Big Pharmai,drugs,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+bigtony,2,bigtony,,,,True,,0,0.0
+billiondollarcatrunes,46,BILLION•DOLLAR•CAT (Runes),bdc,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+billy,86,Billy,billy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bingusthecat,86,Bingus The Cat,bingus,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+birddog,86,Bird Dog,birddog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+birdsping,86,birdsping,,,,True,,0,0.0
+bitbonk,86,BitBonk,bbonk,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bitcat2,86,BitCat,btcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bitcat3,78,Bitcat,bitcat,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+bitcoinact,78,BITCOIN Act,btcact,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+bitcoinbrobearrunes,83,bitcoinbrobearrunes,,,,True,,0,0.0
+bitcoinonbase,0,bitcoinonbase,,,,True,,0,0.0
+blackagnus,64,Black Agnus,ftw,2024-12-02T00:00:00,2025-02-04T00:00:00,True,,64,1.0
+blackdragon,86,blackdragon,,,,True,,0,0.0
+blackrack,27,BlackRack,racks,2025-01-09T00:00:00,2025-02-04T00:00:00,True,,27,1.0
+blackunicorncorp,33,Black Unicorn Corp.,moon,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+blepsupermeme,42,blepsupermeme,,,,True,,0,0.0
+blinkdotfun,48,blinkdotfun,blink,2024-12-19T00:00:00,2025-02-04T00:00:00,True,,48,1.0
+blinksgg,86,Blinks.gg,bgg1,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+blk2100,86,BLK2100,$blk,2024-11-11T00:00:00,2025-02-02T00:00:00,True,,86,1.0
+blobanapet,76,Blobana pet,blob,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+bloomspergterminal,75,Bloomsperg Terminal,sperg,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+blub,86,blub,,,,True,,0,0.0
+bmoneyakabrett,57,bmoneyakabrett,,,,True,,0,0.0
+bob3,86,bob3,,,,True,,0,0.0
+bobacat,86,BobaCat,psps,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bobaoppa,86,Boba Oppa,bobaoppa,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+boblles,66,Boblles,bobls,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,1.0
+bobocoin,38,BOBO Coin,bobo,2024-12-29T00:00:00,2025-02-04T00:00:00,True,,38,1.0
+bobthesnek,84,Bob the Snek,bob,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+bobtoken,86,BOB Token,bob,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bog,86,Bog,bog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bogus,85,BOGUS,bogus,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+bongocat,86,BONGO CAT,bongo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bonkey,77,bonkey,,,,True,,0,0.0
+bonsaitoken,73,Bonsai Token,bonsai,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+booji,40,BOOJI,booji,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+boomer,86,boomer,,,,True,,0,0.0
+boop2,86,Boop,boop,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+boop3,81,BOOP,boop,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,81,1.0
+booshi,86,booshi,,,,True,,0,0.0
+bopcat,85,Bop Cat,bop,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+bored2,86,bored2,,,,True,,0,0.0
+boysclub,18,Boys Club,boys,2025-01-18T00:00:00,2025-02-04T00:00:00,True,,18,1.0
+bozohybrid,86,Bozo Benk,bozo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+brainlet2,86,Brainlet,brainlet,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+brainrot,86,brainrot,rot,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+breakoutbrobyvirtuals,38,breakoutbrobyvirtuals,,,,True,,0,0.0
+brettmemecoin,62,Brett (ETH),brett,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+brian,46,brian,,,,True,,0,0.0
+britto2,22,britto2,,,,True,,0,0.0
+brot,58,BROT,brot,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+brothecat,86,Bro the cat,bro,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+bsop,1,bsop,,,,True,,0,0.0
+bubbles2,85,bubbles2,,,,True,,0,0.0
+bueno,78,Bueno,bueno,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+buildonbnb,74,Build On BNB,bob,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+bulla2,28,bulla2,,,,True,,0,0.0
+bulldogito,19,BullDogito,bdogito,2025-01-17T00:00:00,2025-02-04T00:00:00,True,,19,1.0
+burnedfi,86,BurnedFi,burn,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+burt,86,burt,,,,True,,0,0.0
+buttcoin3,21,BUTTCOIN,buttcoin,2025-01-15T00:00:00,2025-02-04T00:00:00,True,,21,1.0
+buttholecoin,35,Butthole Coin,butthole,2025-01-01T00:00:00,2025-02-04T00:00:00,True,,35,1.0
+buttholes,29,Buttholes,bhole,2025-01-07T00:00:00,2025-02-04T00:00:00,True,,29,1.0
+buu,86,BUU,buu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+byte,86,Byte,byte,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+calvininthecabal,21,Calvin in the Cabal,calvin,2025-01-15T00:00:00,2025-02-04T00:00:00,True,,21,1.0
+cameldad,18,Camel Dad,camel,2025-01-18T00:00:00,2025-02-04T00:00:00,True,,18,1.0
+cancer,76,Cancer,cancer,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+capricorn2,76,Capricorn,capricorn,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+carlo,53,carlo,,,,True,,0,0.0
+carloacutis,70,Carlo Acutis,saint,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+cas9,33,Cas9,crispr,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+catalorian,86,Catalorian,catalorian,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catana,86,Catana,catana,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catbal,86,catbal,,,,True,,0,0.0
+catcoin,86,catcoin,,,,True,,0,0.0
+catcoincash,86,Catcoin,cat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catdog,86,Cat-Dog,catdog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catecoin,86,CateCoin,cate,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catex,86,CATEX,catex,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catgirl,86,cat girl,catgf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catownkimono,86,catownkimono,cok,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catslap,58,CatSlap,slap,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+catwifbag,86,catwifbag,bag,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+catwifhat,17,Cat Wif Hat,cwh,2025-01-19T00:00:00,2025-02-04T00:00:00,True,,17,1.0
+catwifhat2,86,catwifhat,$cwif,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cctv,86,CCTV,cctv,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+centience,77,Centience,cents,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+chadcat,71,CHAD CAT,chadcat,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+chadcoin,86,Chad Coin,chad,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+chaisavings,25,CHAISavings,chai,2025-01-11T00:00:00,2025-02-04T00:00:00,True,,25,1.0
+chaosanddisorder,70,chaos and disorder,chaos,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+charlesthechad,63,charlesthechad,,,,True,,0,0.0
+chartreuxcat,86,Chartreux Cat,chart,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+chatgptsmascot,78,ChatGPT's Mascot,chatty,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+chatoshi,20,ChAtoshI,chatoshi,2025-01-16T00:00:00,2025-02-04T00:00:00,True,,20,1.0
+cheems,86,Cheems,cheems,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cheese2,86,Cheese,cheese,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cheese3,77,Cheese,cheese,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+cheeseball,86,Cheeseball,cb,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+chelon,15,CHELON,chelon,2025-01-21T00:00:00,2025-02-04T00:00:00,True,,15,1.0
+cheshiregrin,67,Cheshire Grin,grin,2024-11-30T00:00:00,2025-02-04T00:00:00,True,,67,1.0
+cheyenne,77,Cheyenne,cheyenne,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+chibawan,85,Chiba Wan,chib,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+chihuahuatoken,86,chihuahuatoken,,,,True,,0,0.0
+chillgirl,71,Chill Girl,chillgirl,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+chillguy,1,Just a chill guy,chillguy,2025-02-04T00:00:00,2025-02-04T00:00:00,True,,1,1.0
+chinesedogewow,63,chinesedogewow,,,,True,,0,0.0
+choccymilkcat,79,Choccy Milk Cat,choccy,2024-11-17T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+chompcoin,86,ChompCoin,chomp,2024-12-20T00:00:00,2025-02-04T00:00:00,True,,47,0.5465116279069767
+chonky,86,CHONKY,chonky,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+chudjak,86,Chudjak,chud,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+clankfun,53,clankfun,,,,True,,0,0.0
+clapcat,86,CLAPCAT,$clap,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+claude,35,Claude,claude,2025-01-01T00:00:00,2025-02-04T00:00:00,True,,35,1.0
+clayton,19,clayton,,,,True,,0,0.0
+coal2,86,COAL,coal,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+coby,86,coby,coby,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cococoin,83,COCO COIN,coco,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+codergf,39,Coder GF,codergf,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+codetoken,75,Code Token,code,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+coffee2,76,coffee2,,,,True,,0,0.0
+coin6900,85,coin6900,,,,True,,0,0.0
+coinyewest,7,coinyewest,,,,True,,0,0.0
+comedian,48,Comedian,ban,2024-12-19T00:00:00,2025-02-04T00:00:00,True,,48,1.0
+condo,86,condo,,,,True,,0,0.0
+convo,51,Convo,convo,2024-12-16T00:00:00,2025-02-04T00:00:00,True,,51,1.0
+coqai,27,COQ AI,coqai,2025-01-09T00:00:00,2025-02-04T00:00:00,True,,27,1.0
+corgiinu2,36,Corgi Inu,corgi,2024-12-31T00:00:00,2025-02-04T00:00:00,True,,36,1.0
+corn2,86,Corn,corn,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+costcohotdog,86,Cost Hot Dog,cost,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+crab,55,CRAB,crab,2024-12-12T00:00:00,2025-02-04T00:00:00,True,,55,1.0
+crashonbase,86,crashonbase,,,,True,,0,0.0
+crashout,86,Crashout,crashout,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+craze,43,Craze,craze,2024-12-24T00:00:00,2025-02-04T00:00:00,True,,43,1.0
+crowwithknife,84,crow with knife,caw,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+cryptoboomcoinofficial,86,CryptoBoomCoin Official,cbc,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cryptobro,1,Crypto Bro,larry,2025-02-04T00:00:00,2025-02-04T00:00:00,True,,1,1.0
+cryptoczar,69,Crypto Czar,czar,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+csi888,86,CSI888,csi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cultofpepe,84,Cult of Pepe,cope,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+cumrocket,86,CumRocket,cummies,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+cupsey,85,CUPSEY,cupsey,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+curtis,86,curtis,,,,True,,0,0.0
+cuteasiangirl,11,cuteasiangirl,,,,True,,0,0.0
+cyberdog,45,cyberdog,,,,True,,0,0.0
+cyberdoge3,85,Cyberdoge,cdoge,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+cyphergenesisrunes,62,cyphergenesisrunes,,,,True,,0,0.0
+cyphomancer,29,Cyphomancer,42,2025-01-07T00:00:00,2025-02-04T00:00:00,True,,29,1.0
+daddychill,66,Daddy Chill,daddychill,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,1.0
+daddytate,78,Daddy Tate,daddy,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+dancingtriangle2,86,dancing triangle,triangle,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+darkmaga,86,Dark MAGA,dmaga,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+darksun,57,darksun,binary,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+dasha,86,Dasha,vvaifu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+deepworm,86,Deep Worm,worm,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+defrogs,68,DeFrogs,defrogs,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+degencapitalbyvirtuals,54,degencapitalbyvirtuals,,,,True,,0,0.0
+degenerativesitcom,29,degenerative SITCOM,$sitcom,2025-01-07T00:00:00,2025-02-04T00:00:00,True,,29,1.0
+degeneratorproject,25,Degenerator Project,gnrt,2025-01-11T00:00:00,2025-02-04T00:00:00,True,,25,1.0
+degenspartanai,86,Degen Spartan AI,degenai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dejitarutsuka,86,Dejitaru Tsuka,tsuka,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+departmentofgovefficiency,83,Department of Gov Efficiency,doge,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+departmentofgovernmentefficiency,7,Department Of Government Efficiency,doge,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+departmentofgovernmentefficiency3,84,Department Of Government Efficiency,d.o.g.e,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+derdaku,36,Der Daku,daku,2024-12-31T00:00:00,2025-02-04T00:00:00,True,,36,1.0
+devinonsolana,86,Devin,devin,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dickbutt,29,dickbutt,,,,True,,0,0.0
+dingocoin,64,Dingocoin,dingo,2024-12-03T00:00:00,2025-02-04T00:00:00,True,,64,1.0
+dino2,22,dino2,,,,True,,0,0.0
+dinolfg,86,DinoLFG,dino,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+divinelyprotected,73,Divinely Protected,dp,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+dna,67,DNA,dna,2024-11-30T00:00:00,2025-02-04T00:00:00,True,,67,1.0
+dogaiwtf,85,DOGAI,dogai,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+dogami,70,Dogami,doga,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+dogc,63,DOGC,dogc,2024-12-04T00:00:00,2025-02-04T00:00:00,True,,63,1.0
+dogcoin2,7,Dogcoin,dcoin,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+doge,80,@DOGE,@doge,2024-11-16T00:00:00,2025-02-04T00:00:00,True,,80,1.0
+dogeai2,11,DOGEai,$dogeai,2025-01-25T00:00:00,2025-02-04T00:00:00,True,,11,1.0
+dogebonk,86,DogeBonk,dobo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dogecast,76,Dogecast,dogecast,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+dogecast2,74,dogecast,dogecast,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+dogeeatdoge,86,dogeeatdoge,,,,True,,0,0.0
+dogefather2,73,Dogefather,dogefather,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+dogefather3,34,DogeFather,the dogefather,2025-01-02T00:00:00,2025-02-04T00:00:00,True,,34,1.0
+dogegf,86,DogeGF,dogegf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dogeinu,84,dogeinu,,,,True,,0,0.0
+dogejonesindustrialaverage,85,Doge Jones Industrial Average,dji,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+dogelink,19,DOGELINK,doger,2025-01-17T00:00:00,2025-02-04T00:00:00,True,,19,1.0
+dogemascotshibu,86,Doge Mascot Shibu,shibu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dogemojionsolana,86,Dog Emoji On Solana,?,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dogeonsolana,86,DOGE on Solana,sdoge,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dogfoodtoken,86,Dog Food Token,oishii,2024-11-11T00:00:00,2025-01-30T00:00:00,True,,86,1.0
+doggo3,86,Doggo,doggo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+doggoinu,86,Doggo Inu,doggo,2024-11-11T00:00:00,2025-02-03T00:00:00,True,,86,1.0
+dogi,86,dogi,,,,True,,0,0.0
+doginhood,86,DoginHood,dogin,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+doginme,0,doginme,,,,True,,0,0.0
+doginthpool,86,doginthpool,dip,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dogk,0,dogk,,,,True,,0,0.0
+doglibre,49,DogLibre,dogl,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+dogshitgoingnowhere,2,Dog shit going nowhere,dogshit2,2025-02-03T00:00:00,2025-02-04T00:00:00,True,,2,1.0
+dogwifnuchucks,77,Dog Wif Nunchucks,ninja,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,0.948051948051948
+dogwithappleinmouth,54,dog with apple in mouth,apple,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+dolanduck,85,Dolan Duck,dolan,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+dollarmoon2,86,DollarMoon,dmoon,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dolosthebully,78,Dolos The Bully,bully,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+donaldtremp,86,Doland Tremp,tremp,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dontbuyinu,86,Don't Buy Inu,dbi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dontdie,70,Don't Die,dontdie,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+doom,35,DOOM,doom,2025-01-01T00:00:00,2025-02-04T00:00:00,True,,35,1.0
+dorklord2,86,Dork Lord,dorky,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dotcom,70,Dotcom,y2k,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+draggycto,86,Draggy CTO,draggy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+dream2,70,dream2,,,,True,,0,0.0
+drip,86,DRIP,$drip,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+drop2,33,drop2,,,,True,,0,0.0
+drpepeai,39,DrPepe.ai,bryan,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+duckai,66,Duck AI,duckai,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,1.0
+duckthedoug,86,Doug the Duck,doug,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ducky,86,Ducky,ducky,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+duko,86,DUKO,duko,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+eagleoftruth,86,Eagle of Truth,egl,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+earl,86,earl,earl,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+effectiveaccelerationism,86,Effective accelerationism,e/acc,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+eggdog,86,Eggdog,egg,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+elgato,86,el gato,elgato,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+eliza,74,Eliza,eliza,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+elon,86,Elon,$elon,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+elon4afd,9,Elon4AfD,elon4afd,2025-01-27T00:00:00,2025-02-04T00:00:00,True,,9,1.0
+eloniatrump,74,Elonia Trump,elonia,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+elonrwa,86,ElonRWA,elonrwa,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,0.9651162790697675
+elonspetsnail,77,Elons Pet Snail,gary,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+elontrumpfart,28,Elon Trump Fart,etf500,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+elsapopepe,45,El Sapo Pepe,pepe,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+endfederalreserve,74,End Federal Reserve,efr,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+enkrypto,86,EnKrypto,krypt,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+estee,86,Estee,estee,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ethbull,40,ETH BULL,bull,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+ethereumisgood,86,ETHEREUM IS GOOD,ebull,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+evan2,70,Evan,evan,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+expert_money,71,EXPERT_MONEY,expert,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+eyeearn,86,Smilek,smilek,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fafo,2,FAFO,fafo,2025-02-03T00:00:00,2025-02-04T00:00:00,True,,2,1.0
+fairfun,86,Fairfun,fair,2024-11-11T00:00:00,2025-01-25T00:00:00,True,,86,1.0
+faml,74,FAML,faml,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+farm2,48,farm2,,,,True,,0,0.0
+fartboy,10,Fartboy,$fartboy,2025-01-26T00:00:00,2025-02-04T00:00:00,True,,10,1.0
+fatcat2,28,FATCAT,$fatcat,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+fatgf,86,FATGF,fatgf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+feces,86,FECES,feces,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fefeoneth,86,Fefe,fefe,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fegtoken2,86,FEED EVERY GORILLA,feg,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+feistydogenft,86,Feisty Doge NFT,nfd,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fight,17,FIGHT,fight,2025-01-19T00:00:00,2025-02-04T00:00:00,True,,17,1.0
+fighttomaga,86,Fight to MAGA,fight,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fijiexe,81,FIJI.EXE,fiji,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,81,1.0
+fine2,84,FINE,fine,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+firstconvictedraccon,54,First Convicted RACCON,fred,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+firstreply,86,first reply,sirius,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fishkoin,86,Fishkoin,koin,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fisttrumppump,86,Fisttrumppump,ftp,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+flatearth,86,flatearth,,,,True,,0,0.0
+flatearthcoin,78,Flat Earth Coin,flat,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+flaviaisonline,86,Flavia Is Online,flavia,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fleabone,78,FLEABONE,bone,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+flockerz,4,Flockerz,flock,2025-02-01T00:00:00,2025-02-04T00:00:00,True,,4,1.0
+floofnoodles,74,Floofnoodles,floof,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+floos,86,Floos,fls,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+floppacat,86,Floppa Cat,floppa,2024-11-14T00:00:00,2025-02-04T00:00:00,True,,83,0.9651162790697675
+florkcto,37,FLORK CTO,flork,2024-12-30T00:00:00,2025-02-04T00:00:00,True,,37,1.0
+flowerai,70,FlowerAI,flower,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+fofar,86,Fofar,fofar,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fofar2,85,fofar2,,,,True,,0,0.0
+fomo3d,54,FOMO 3D,fomo3d.fun,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+fomoradioai,33,FOMO RADIO AI,radio,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+forest,86,FOREST,forest,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+forgivemefather,78,forgivemefather,,,,True,,0,0.0
+forky2,33,Forky,forky,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+foxy,86,foxy,,,,True,,0,0.0
+fpibank,1,fpibank,,,,True,,0,0.0
+freeshaynecoplan,77,FREE Shayne Coplan,eagle,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+freespeech2,36,Free Speech,x,2024-12-31T00:00:00,2025-02-04T00:00:00,True,,36,1.0
+frensofelon,58,Frens of Elon,frens,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+freysaai,62,freysaai,,,,True,,0,0.0
+fric,54,FRIC,fric,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+frodothevirtualsamurai,50,Frodo the Virtual Samurai,frog,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+frog3,84,Frog,frog,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+frogevip,54,Froge,froge,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+frox,74,Frox,frox,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+fu,86,FU,fu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+fudthepug,86,fudthepug,,,,True,,0,0.0
+fug,86,FUG,fug,2024-11-11T00:00:00,2025-02-02T00:00:00,True,,86,1.0
+fug2,83,fug,fug,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+fuku2,74,Fuku,fuku,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+furnancialadvisor,78,Fur-nancial advisor,fur,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+fwogtakes,36,fwogtakes,,,,True,,0,0.0
+fxn,62,FXN,fxn,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+gamestop,86,GME (Ethereum),gme,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gameswift,86,GameSwift,gswift,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gdog,86,GDOG,gdog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gegagedigedagedago,74,Gegagedigedagedago,nugget,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+gekobase,50,gekobase,,,,True,,0,0.0
+gemini2,83,Gemini,gemini,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+gemxbt,50,gemxbt,gemxbt,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+generationalwealth3,84,Generational Wealth,wealth,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+genzquant,76,Gen Z Quant,quant,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+gertrudedatapig,33,gertrudedatapig,,,,True,,0,0.0
+ghffb47yii2rteeyy10op,69,ghffb47yii2rteeyy10op,,,,True,,0,0.0
+ghoad,86,ghoad,,,,True,,0,0.0
+gikocat,86,Giko Cat,giko,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gingergang,19,GINGER GANG,ginger,2025-01-17T00:00:00,2025-02-04T00:00:00,True,,19,1.0
+ginnan,67,Ginnan,ginnan,2024-11-30T00:00:00,2025-02-03T00:00:00,True,,67,1.0
+ginnanthecat,86,Ginnan The Cat,ginnan,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gizmoimaginarykittenrunes,86,gizmoimaginarykittenrunes,,,,True,,0,0.0
+glorp,78,Glorp,glorp,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+glp1,70,GLP1,glp1,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+gluteusmaximusbyvirtuals,39,Gluteus Maximus by Virtuals,gluteu,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+gme,86,GME,gme,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gmika,86,GMika,gmika,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+goatbased,8,goatbased,,,,True,,0,0.0
+goats2,54,goats2,,,,True,,0,0.0
+goatseusactii,83,Goatseus Act II,goatseus,2024-11-15T00:00:00,2025-01-23T00:00:00,True,,83,1.0
+gobi,70,GOBI,gobi,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+gobisgobisgob,18,gobisgobisgob,,,,True,,0,0.0
+goggles,86,goggles,,,,True,,0,0.0
+gondola,86,Gondola,gondola,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gooby,86,Gooby,gooby,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+goodboy,42,GoodBoy,goodboy,2024-12-25T00:00:00,2025-02-04T00:00:00,True,,42,1.0
+goodmorning3,82,Good Morning!,gm,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+goofy2,31,GOOFY,goofy,2025-01-05T00:00:00,2025-02-04T00:00:00,True,,31,1.0
+googles,1,googles,,,,True,,0,0.0
+gottitoken,86,Gotti Token,gotti,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gou,86,Gou,gou,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+gout,74,GOUT,gout,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+gpuairich,49,GPU ai Rich,rich,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+grass3,49,grass3,,,,True,,0,0.0
+griffainnewhedgefund,41,Griffain New Hedge Fund,citadail,2024-12-26T00:00:00,2025-02-04T00:00:00,True,,41,1.0
+groggobymattfurie,86,Groggo By Matt Furie,groggo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+grok2,85,Grok,$grok,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+groyper,86,Groyper,groyper,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+grumpycatcoin,74,Grumpy Cat Coin,grumpy,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+gua,71,GUA,gua,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+guacamole,86,Guacamole,guac,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+guanciale,74,guanciale,,,,True,,0,0.0
+guiinu,86,guiinu,,,,True,,0,0.0
+gummy,86,GUMMY,gummy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+h2w6gm6jz,46,h2w6gm6jz,h2w6gm6jz,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+habibisol,86,Habibi (Sol),habibi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hahayes,85,HahaYes,rizo,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+halforangedrinkinglemonade,86,Half Orange Drinking Lemonade,hodl,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+halloflegends,2,Hall of Legends,hol,2025-02-03T00:00:00,2025-02-04T00:00:00,True,,2,1.0
+hami,86,HAMI,$hami,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hana,86,Hana,hana,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hanbao,83,Hanbao,hanbao,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+happycat2,70,Happy Cat,happy,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+harambe2,80,Harambe on Solana,harambe,2024-11-16T00:00:00,2025-02-04T00:00:00,True,,80,1.0
+harold,86,Harold,harold,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+haroldonsol,74,Harold,harold,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+harrypottertrumphomersimpson777inu,86,HarryPotterTrumpHomerSimpson777Inu,ethereum,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hasbullascat,82,Hasbulla's Cat,barsik,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+hathor,86,hathor,,,,True,,0,0.0
+hatom,84,hatom,,,,True,,0,0.0
+hawk2,86,Hawk,hawk,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hedgewaterdao,1,hedgewaterdao,,,,True,,0,0.0
+hedgythehedgehog,70,hedgythehedgehog,,,,True,,0,0.0
+heeeheee,86,HeeeHeee,heehee,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hege,86,Hege,$hege,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hehecat,86,hehe,hehe,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hemule,86,Hemule,hemule,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+henlo,77,Henlo,henlo,2024-11-20T00:00:00,2024-12-03T00:00:00,True,,77,1.0
+henlo2,60,henlo2,,,,True,,0,0.0
+hermythestallion,57,Hermy The Stallion,hermy,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+highaf,67,High AF,ath,2024-11-30T00:00:00,2025-02-04T00:00:00,True,,67,1.0
+higher,86,higher,,,,True,,0,0.0
+hisnamegort,78,His name gort,gort,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+historyofpepe,86,History of Pepe,hope,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hogefinance,86,Hoge Finance,hoge,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+honk,86,Honk,honk,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hopcat,24,hop cat,hop,2025-01-12T00:00:00,2025-02-04T00:00:00,True,,24,1.0
+hoppymeme,63,Hoppy,hoppy,2024-12-04T00:00:00,2025-02-04T00:00:00,True,,63,1.0
+horny,55,$horny,$horny,2024-12-12T00:00:00,2025-02-04T00:00:00,True,,55,1.0
+hotdoge2,50,Hot Doge,hotdoge,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+hovercat,12,hovercat,,,,True,,0,0.0
+huahua,68,HUA HUA,huahua,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+hug,71,hug,,,,True,,0,0.0
+hund,86,Hund,hund,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+huskyavax,86,Husky Avax,husky,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+hyena,36,hyena,,,,True,,0,0.0
+ifscience,13,IF Science,ifsci,2025-01-23T00:00:00,2025-02-04T00:00:00,True,,13,1.0
+iiiilovvvyouuuu,86,iiii lovvvv youuuu,ily,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ilence,70,$ilence,$ilence,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+illuminaticoin,86,IlluminatiCoin,nati,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ilovepuppies,86,I love puppies,puppies,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+imnotwrongimearly,78,imnotwrongimearly,early,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+indi,38,indi,,,,True,,0,0.0
+inferno2,86,INFERNO,inf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+infinitebackrooms,86,infinite backrooms,ib,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+intern,74,Intern,intern,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+internationalmemefund,54,International Meme Fund,imf,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+internetdoge,63,internetdoge,,,,True,,0,0.0
+internosaur,57,Internosaur,$intern,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+inthememetime,10,In The MEME Time,itmt,2025-01-26T00:00:00,2025-02-04T00:00:00,True,,10,1.0
+inusol,86,INU,inu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+investzone,86,investzone,,,,True,,0,0.0
+ionabyvirtuals,0,ionabyvirtuals,,,,True,,0,0.0
+iq50,86,IQ50,iq50,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+iq6900,51,IQ6900,iq,2024-12-16T00:00:00,2025-02-04T00:00:00,True,,51,1.0
+ito,86,ITO,$ito,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ivy2,7,ivy2,,,,True,,0,0.0
+jaihoz,21,jaihoz,,,,True,,0,0.0
+jailbreakme,53,JailbreakMe,jail,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+jak,66,JAK,jak,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,1.0
+jamcat,83,jam cat,jam,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+janrotherat,63,Janro The Rat,janro,2024-12-04T00:00:00,2025-02-04T00:00:00,True,,63,1.0
+jeff3,86,jeff3,,,,True,,0,0.0
+jenhsunhuang,86,JHH,jhh,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+jeoboden,86,Jeo Boden,boden,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+jesuscoin,86,Jesus Coin,jesus,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+jewelsdagoat,77,Jewels Da Goat,jewels,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+jiffpom,70,Jiffpom,jiff,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+jinx,85,JINX,jinx,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+joecoin,83,Joe Coin,joe,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+johnmcaifee,78,John McAIfee,mcaifee,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+johnthecoin,86,John the Coin,john,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+joi,77,Joi,joi,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+jorkin,78,Jorkin,jorkin,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+justachillguy,64,Just a chill guy (ETH),chillguy,2024-12-03T00:00:00,2025-02-04T00:00:00,True,,64,1.0
+justalotto,15,Just a LOTTO,$lotto,2025-01-21T00:00:00,2025-02-04T00:00:00,True,,15,1.0
+justbuy1worthofthiscoin,68,just buy $1 worth of this coin,$1,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+justiceforpeanut,53,JUSTICE FOR PEANUT,jfp,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+justiceforpnutandfred,70,Justice for Pnut and Fred,justice,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+justiceforzachxbt,13,Justice for Zachxbt,zachxbt,2025-01-23T00:00:00,2025-02-04T00:00:00,True,,13,1.0
+justkira,20,JUST KIRA,kirai,2025-01-16T00:00:00,2025-02-04T00:00:00,True,,20,1.0
+k9financedao,86,K9 Finance DAO,knine,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+k9killedinshootout,77,K-9 Killed in Shootout,titan,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+kaiken,86,Kai Ken,kai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kandoai,42,KANDO AI,kando,2024-12-25T00:00:00,2025-02-04T00:00:00,True,,42,1.0
+kango,86,kango,,,,True,,0,0.0
+kappy,61,Kappy,kappy,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+kapsel,11,KAPSEL,kapsel,2025-01-25T00:00:00,2025-02-04T00:00:00,True,,11,1.0
+kasper,86,kasper,,,,True,,0,0.0
+kaspy,71,kaspy,,,,True,,0,0.0
+katanainu,86,Katana Inu,kata,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+keanu,74,Keanu,knu,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+keepgambling,58,Keep Gambling,gamble,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+kek3,21,Kek,kek,2025-01-15T00:00:00,2025-02-04T00:00:00,True,,21,1.0
+keke,78,keke,,,,True,,0,0.0
+keketerminal,68,KEKE Terminal,keke,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+kekistan,86,Kekistan,kek,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kekiusmaximus,47,Kekius Maximus,kekius,2024-12-20T00:00:00,2025-02-04T00:00:00,True,,47,1.0
+kekiusmaximus4,28,Kekius Maximus,km,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+kenduinu,85,Kendu Inu,kendu,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+kenduinu2,86,kenduinu2,,,,True,,0,0.0
+keyboardcat,83,Keyboard Cat,keycat,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+keyboardcatbase,52,keyboardcatbase,,,,True,,0,0.0
+khaokheowzoo,68,khaokheowzoo,kheowzoo,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+kibainu,86,Kiba Inu,kiba,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kiboshib,86,KiboShib,kibshi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kiki2,44,KIKI,kiki,2024-12-23T00:00:00,2025-02-04T00:00:00,True,,44,1.0
+kimbo,86,Kimbo,kimbo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kira3,70,KIRA,kira,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+kirakuru,51,KiraKuru,kra,2024-12-16T00:00:00,2025-02-04T00:00:00,True,,51,1.0
+kiratheinjectivecat,86,kiratheinjectivecat,,,,True,,0,0.0
+kishuinu,84,Kishu Inu,kishu,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+kittekoin,86,Kittekoin,koin,2024-11-11T00:00:00,2025-02-03T00:00:00,True,,86,1.0
+kittenhaimer,86,Kitten Haimer,khai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kizuna,86,Kizuna,kizuna,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+klaus,86,KLAUS,klaus,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+knotdiffiehellman,56,Knot Diffie-Hellman,knot,2024-12-11T00:00:00,2025-02-04T00:00:00,True,,56,1.0
+knutfromzoo,42,Knut From Zoo,knut,2024-12-25T00:00:00,2025-02-04T00:00:00,True,,42,1.0
+koalaai,86,KOALA AI,koko,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+kokutheshikoku,7,kokutheshikoku,,,,True,,0,0.0
+kolin2,67,Kolin,kolin,2024-11-30T00:00:00,2025-02-04T00:00:00,True,,67,1.0
+komainu,86,Koma Inu,koma,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+konanofkaspa,83,konanofkaspa,,,,True,,0,0.0
+kotaro,76,Kotaro,kotaro,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+koto2,70,Koto,koto,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+kpopkpopfun,54,KPOP (kpop.fun),kpop,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+kwantxbt,53,kwantxbt,kwant,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+kween,50,KWEEN,kween,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+kyra,85,KYRA,kyra,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+lambosforvirgins,61,LambosForVirgins,virgin,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+landwolf2,70,Landwolf,wolf,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+landwolfbase,80,landwolfbase,,,,True,,0,0.0
+largelanguagemodel,24,Large Language Model,llm,2025-01-12T00:00:00,2025-02-04T00:00:00,True,,24,1.0
+larpdetectiveagency,43,Larp Detective Agency,$agency,2024-12-24T00:00:00,2025-02-04T00:00:00,True,,43,1.0
+leaai,71,LEA AI,lea,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+leash,86,Doge Killer,leash,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ledogdog,86,LEDOG (DOG),dog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+legend,60,LEGEND,legend,2024-12-07T00:00:00,2025-02-04T00:00:00,True,,60,1.0
+legit,17,LEGIT,legit,2025-01-19T00:00:00,2025-02-04T00:00:00,True,,17,1.0
+leo2,76,Leo,leo,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+leopold,69,leopold,,,,True,,0,0.0
+leper,82,LEPER,leper,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+lethimcook,86,Let Him Cook,$cook,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+letsfarty,33,Let's Farty,farty,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+letsgetthisbread,50,Lets Get This Bread,lgtb,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+letthatsinkin,82,Let that sink in,sink,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+lfgo,86,LFGO,lfgo,2024-11-11T00:00:00,2024-11-17T00:00:00,True,,8,0.09302325581395349
+libra4,76,Libra,libra,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+lifechangingpill,2,life changing pill,pill,2025-02-03T00:00:00,2025-02-04T00:00:00,True,,2,1.0
+lifedog,62,lifedog,lfdog,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+lilbrett,68,lilbrett,,,,True,,0,0.0
+lilloai,1,Lillo AI,$lillo,2025-02-04T00:00:00,2025-02-04T00:00:00,True,,1,1.0
+lilyscoin,86,Lily's Coin,lily,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+limbo,62,LIMBO,limbo,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+limitless,21,LIMITLESS,limitless,2025-01-15T00:00:00,2025-02-04T00:00:00,True,,21,1.0
+lingyan,83,Lingyan,lingyan,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+linkonsol,77,Link on Sol,link,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+lioncat,86,Lion Cat,lcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+liquina,62,liquina,,,,True,,0,0.0
+liquor,86,liquor,,,,True,,0,0.0
+litecoinmascot,77,Litecoin Mascot,lester,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+literallyme,86,Literally Me,me,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+littlemanyu,86,littlemanyu,manyu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+lmeow2,86,lmeow,lmeow,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+loafcat,86,LOAFCAT,loafcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+lockin,77,LOCK IN,lockin,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+lockinonbase,33,lockinonbase,,,,True,,0,0.0
+lofi2,70,lofi2,,,,True,,0,0.0
+logosai,57,LOGOSAI,logos,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+lol3,86,LOL,lol,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+lola3,62,Lola,lola,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+lolcat2,86,Lolcat,lolcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+loner,54,loner,loner,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+long4,61,LONG,long,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+loobybystephenbliss,74,Looby by Stephen Bliss,looby,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+lookbro,86,Look bro,look,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+loopysui,86,loopysui,,,,True,,0,0.0
+lou,17,lou,lou,2025-01-19T00:00:00,2025-02-04T00:00:00,True,,17,1.0
+loulou,86,LOULOU,loulou,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+lovelyinufinance,86,Lovely Inu Finance,lovely,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+lowqualitycat,86,Low Quality Cat,lqc,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+lucedog,83,Luce Dog,santino,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+luci,86,LUCI,luci,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+luckycoin,86,luckycoin,,,,True,,0,0.0
+luckydog,86,Lucky Dog,lucky,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,0.8953488372093024
+luffyinu,54,Luffy,luffy,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+lumi3,58,LUMI,lumi,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+luminous,77,luminous,,,,True,,0,0.0
+lumoscoin,86,lumoscoin,,,,True,,0,0.0
+lunabyvirtuals,59,Luna by Virtuals,luna,2024-12-08T00:00:00,2025-02-04T00:00:00,True,,59,1.0
+m3m3,47,M3M3,m3m3,2024-12-20T00:00:00,2025-02-04T00:00:00,True,,47,1.0
+machi,86,machi,,,,True,,0,0.0
+mad2,86,MAD,mad,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+madeinamerica,7,Made In America,mia,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+madonnadelgatto,47,Madonna del gatto,gatto,2024-12-20T00:00:00,2025-02-01T00:00:00,True,,47,1.0
+maga,14,MAGA,trump,2025-01-22T00:00:00,2025-02-04T00:00:00,True,,14,1.0
+magaagain,86,MAGA Again,magaa,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+magafightfortrump,85,MAGA: Fight for Trump,trumpcoin,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+magahat,86,MAGA Hat,maga,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+magaverse,49,Magaverse,mvrs,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+magnet2,85,Magnet,magnet,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+maincharacter,77,Main Character,main,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+maincharacterenergy,76,Main Character Energy,mcen,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+majorfrog,86,Major Frog,major,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+make,86,MAKE,make,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+makeamericahealthyagain,84,Make America Healthy Again,maha,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+malakai,86,Malakai,malakai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+maneki,54,MANEKI,maneki,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+manifestonsol,86,Manifest,manifest,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+mao3,86,Mao,mao,2024-11-11T00:00:00,2025-02-03T00:00:00,True,,86,1.0
+marketdominance,86,Market Dominance,md,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+markkacy,73,markkacy,kacy,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+mars2,86,Mars,mars,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+marsotech,36,marsotech,,,,True,,0,0.0
+marvininu2,86,Marvin Inu,marvin,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+matt0x79,86,Matt Furie,matt,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+max2,61,MAX,max,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+maxoneth,57,Max on ETH,maxeth,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+maya,83,Maya,maya,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+mcdull,58,McDull (Meme),mcdull,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+medusa2,85,MEDUSA,medusa,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+mellowman,86,Mellow Man,mellow,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+melo,86,Melo,melo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+melondog,86,Melon Dog,melon,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+memdex100,20,MEMDEX100,memdex,2025-01-16T00:00:00,2025-02-04T00:00:00,True,,20,1.0
+memeanarchicnumismaticasset,53,Meme Anarchic Numismatic Asset,mana,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+memecoingirl,86,MemeCoinGirl,miko,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+memecoinmillionaire,86,Meme Coin Millionaire,$rich,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+memeerkat,53,memeerkat,,,,True,,0,0.0
+memefi2,73,memefi2,,,,True,,0,0.0
+mementomori,80,mementomori,,,,True,,0,0.0
+memesai,86,Memes AI,memesai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+men,86,MEN,men,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+meow,83,MEOW,meow,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+meow3,86,meow3,,,,True,,0,0.0
+meowmeowmeowmeow,50,meow meow meow meow,meow,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+metamonopoly,86,Meta Monopoly,monopoly,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+metformin,71,Metformin,met,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+mfercoin,86,mfercoin,,,,True,,0,0.0
+miaocoin,7,MIAOCoin,miao,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+michicoin,35,michi,$michi,2025-01-01T00:00:00,2025-02-04T00:00:00,True,,35,1.0
+miladymemecoin,20,Milady Meme Coin,ladys,2025-01-16T00:00:00,2025-02-04T00:00:00,True,,20,1.0
+miladywifhat,86,Milady Wif Hat,ladyf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+milkbag,86,MILKBAG,milkbag,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+millicoin,86,millicoin,,,,True,,0,0.0
+mimany,86,MIMANY,mimany,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+mindzero,62,Mind Zero,mind,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+minetardai,67,MineTard AI,mtard,2024-11-30T00:00:00,2025-02-04T00:00:00,True,,67,1.0
+minidoge3,49,Minidoge,minidoge,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+minimini,84,mini,mini,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+mist2,78,MIST,霞,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+mistermiggles,86,mistermiggles,,,,True,,0,0.0
+mistery,86,mistery,,,,True,,0,0.0
+mizuki,49,Mizuki,mizuki,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+moai,85,MOAI,moai,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+mobcat,11,Mobcat,mob,2025-01-25T00:00:00,2025-02-04T00:00:00,True,,11,1.0
+mochithecatcoin,86,mochithecatcoin,,,,True,,0,0.0
+moe4,62,MOE,moe,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+moew,74,MOEW,moew,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+monaarcane,55,Mona Arcane,mona,2024-12-12T00:00:00,2025-02-04T00:00:00,True,,55,1.0
+mongcoin,86,MongCoin,mong,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+monkeyhaircut,86,monkeyhaircut,monk,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+monkeypox,86,Monkey Pox,pox,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+monkeysolinu,45,monkey sol inu,msi,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+monko,1,monko,,,,True,,0,0.0
+moodeng2,86,MOO DENG,moodeng,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+moomoo,62,moomoo,,,,True,,0,0.0
+moonbag,86,MoonBag,mbag,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+moondogai,19,moondogai,,,,True,,0,0.0
+moonrabbits,59,moonrabbits,,,,True,,0,0.0
+moonscape2,86,MoonScape,moon,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+morris,82,MORRIS,morris,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+morud,86,Morud,morud,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+moss,40,MOSS,moss,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+moth2,86,Moth,moth,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+motheriggy,76,Mother Iggy,mother,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+mrmayonnaisethecat,82,Mr Mayonnaise the Cat,mayo,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+msqcycleburn,85,msqcycleburn,,,,True,,0,0.0
+mstr2100,85,MSTR2100,mstr,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+mumuthebull3,44,MUMU THE BULL,mumu,2024-12-23T00:00:00,2025-02-04T00:00:00,True,,44,1.0
+muncat,86,muncat,,,,True,,0,0.0
+muskit,54,Musk It,muskit,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+musmecoin,57,MusmeCoin,msm,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+mut,74,MUT,mut,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+myro,33,Myro,$myro,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+mystery2,53,Mystery,mystery,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+nachothekat,86,nachothekat,,,,True,,0,0.0
+nailong,86,Nailong,nailong,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+naitzsche,49,Naitzsche,nai,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+nakedjim,31,Naked Jim,$jim,2025-01-05T00:00:00,2025-02-04T00:00:00,True,,31,1.0
+nasdaq420,86,Nasdaq420,nasdaq420,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+navalai,78,NAVAL AI,naval ai,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+ndx6900,86,NDX6900,ndx,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+neirei,86,Neirei,neirei,2024-11-11T00:00:00,2025-02-03T00:00:00,True,,86,1.0
+neiro,86,Neiro,neiro,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+neiro2,86,Neiro,neiro,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+neirooneth,57,Neiro on ETH,neiro,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+neroboss,54,Neroboss,neroboss,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+neversol,86,neversol,never,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+newbabyelephanthoustonzoo,76,New Baby Elephant Houston Zoo,kirby,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+newbornhaggispygmyhippo,86,New Born Haggis Pygmy Hippo,haggis,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+nibbles,7,Nibbles,nibbles,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+nightfury,45,Night Fury,fury,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+nikitabyvirtuals,41,nikitabyvirtuals,,,,True,,0,0.0
+nikolai,70,nikolai,,,,True,,0,0.0
+ninjasquad,69,Ninja Squad Token,nst,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+nitro2,7,Nitro,nitro,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+no1tiktokcat,80,No1 tiktok cat,puff,2024-11-16T00:00:00,2025-02-04T00:00:00,True,,80,1.0
+nomansland,78,No Mans Land,nml,2024-11-19T00:00:00,2025-02-03T00:00:00,True,,78,1.0
+nomnom,86,nomnom,nomnom,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+nonja,78,nonja,,,,True,,0,0.0
+noods,83,Noods,noods,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+noooomeme,86,Noooomeme,noooo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+normie2,86,normie2,,,,True,,0,0.0
+normilio,61,normilio,,,,True,,0,0.0
+nothing3,86,nothing3,,,,True,,0,0.0
+nothing4,61,Nothing,void,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+novaonmars,61,Nova on Mars,nova,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+npconsolana,86,NPC On Solana,npcs,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+nullmatrix,86,NULL MATRIX,,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+number,35,NUMBER,$number,2025-01-01T00:00:00,2025-02-04T00:00:00,True,,35,1.0
+numogram,86,Numogram,gnon,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+nutcoinmeme,62,NutCoin,nut,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+nya,86,Nya,nya,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+nyanmemecoin,79,Nyan Meme Coin,nyan,2024-11-18T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+obipnutkenobi,85,Obi PNut Kenobi,opk,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+obot,78,OBOT,obot,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+offcialmascotoftheholyyear,47,Luce,luce,2024-12-20T00:00:00,2025-02-04T00:00:00,True,,47,1.0
+ogroaringkitty,86,Roaring Kitty,$roar,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ogsminem,86,OG SMINEM,ogsm,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+okane,78,OKANE,okane,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+okayeg,70,okayeg,,,,True,,0,0.0
+omega2,86,Omega,omega,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+omega3,86,omega3,,,,True,,0,0.0
+omnicat,86,OmniCat,omni,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+oneunchillgal,70,one unchill gal,gal,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+onyxarches,7,Onyx Arches,oxa,2025-01-28T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+optimusai,86,Optimus AI,opti,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+opus2,70,Opus,opus,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+opxlive,46,OPX LIVE,opxl,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+orbit3,54,ORBIT,grift,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+orc,86,ORC,orc,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+oscar,86,OSCAR,oscar,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+otto,53,otto,,,,True,,0,0.0
+pajamascat,86,Pajamas Cat,pajamas,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+paponinja,86,paponinja,,,,True,,0,0.0
+paradox3,78,paradox3,,,,True,,0,0.0
+party4,48,party4,,,,True,,0,0.0
+patriot,86,Patriot,patriot,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+patriotonbase,44,patriotonbase,,,,True,,0,0.0
+peanie,86,peanie,peanie,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+peanut2,86,Peanut,peanut,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+peanut3,86,Peanut,pnut,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+peepoeth,86,Peepo,pepo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+peezyeth,29,Peezy ETH,peezy,2025-01-07T00:00:00,2025-02-04T00:00:00,True,,29,1.0
+peipeicoinvip,82,PeiPei,peipei,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+peng,86,Peng,peng,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pepe0x69onbase,83,pepe0x69onbase,,,,True,,0,0.0
+pepe20,70,Pepe 2.0,pepe2.0,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+pepeai2,74,pepeAI,pepeai,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+pepebrc,0,pepebrc,,,,True,,0,0.0
+pepecoinnetwork,86,pepecoinnetwork,,,,True,,0,0.0
+pepefork,85,PepeFork,pork,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+pepeinamemesworld,81,pepe in a memes world,pew,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,81,1.0
+pepekrc20,86,pepekrc20,,,,True,,0,0.0
+pepesol,86,Pepe on SOL,pepe,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pepethekingprawn,57,Pepe the King Prawn,prawn,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+pepetrump,81,Pepe Trump,ptrump,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,81,1.0
+pepo,21,PEPO,pepo,2025-01-15T00:00:00,2025-02-04T00:00:00,True,,21,1.0
+pepoclown,86,Pepoclown,honk,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pestothebabykingpenguin,86,Pesto the Baby King Penguin,pesto,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+petunia,86,Petunia,petunia,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+phil,86,Phil,phil,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+phnix,38,phnix,,,,True,,0,0.0
+pigeontech,86,Pigeon Tech,govai,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+piggy2,45,piggy2,,,,True,,0,0.0
+pigu,86,pigu,,,,True,,0,0.0
+pikaboss,86,Pikaboss,pika,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pikatopiko,86,pikatopiko,,,,True,,0,0.0
+pillzumi,51,Pillzumi,pillzumi,2024-12-16T00:00:00,2025-02-04T00:00:00,True,,51,1.0
+pineapplecat2,55,pineapplecat2,,,,True,,0,0.0
+pingdog,86,Ping Dog,ping,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pino,86,PINO,pino,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pip3,86,pip3,,,,True,,0,0.0
+pippin,79,pippin,pippin,2024-11-18T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+pisces,82,Pisces,pisces,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+pizabrc,71,pizabrc,,,,True,,0,0.0
+planktoninpain,50,Plankton in Pain,aaahhm,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+pledge2,56,Pledge,pledge,2024-12-11T00:00:00,2025-02-04T00:00:00,True,,56,1.0
+pnutsforsquirrel,76,Pnuts for squirrel,pnuts,2024-11-21T00:00:00,2024-12-31T00:00:00,True,,76,1.0
+pnutssister,83,Pnut's Sister,chloe,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+pochita,86,Pochita,pochita,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+podflowaibyvirtuals,40,podflowaibyvirtuals,,,,True,,0,0.0
+points2,56,points2,,,,True,,0,0.0
+polydoge,86,PolyDoge,polydoge,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+poncho,86,poncho,,,,True,,0,0.0
+pongo2,22,pongo2,,,,True,,0,0.0
+ponk2,84,PONK,ponk,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+poochi,86,Poo Chi,$sir,2024-11-11T00:00:00,2025-01-30T00:00:00,True,,86,1.0
+popdog,86,POPDOG,popdog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+popo2,86,Popo,popo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+popothefrog,86,Popo The Frog,frop,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+poppy,31,Poppy,poppy,2025-01-05T00:00:00,2025-02-04T00:00:00,True,,31,1.0
+poppy2,24,Poppy,poppy,2025-01-12T00:00:00,2025-02-04T00:00:00,True,,24,1.0
+poupe,86,POUPE,poupe,2024-11-11T00:00:00,2025-01-24T00:00:00,True,,86,1.0
+poveldurev,86,poveldurev,,,,True,,0,0.0
+powsche,67,POWSCHE,powsche,2024-11-30T00:00:00,2025-02-04T00:00:00,True,,67,1.0
+pozocoin,55,pozocoin,,,,True,,0,0.0
+praist,69,Praist,praist,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+presidentexe,86,President.exe,aimaga,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+principalsnetwork,49,Principals Network,pnet,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+project89,86,Project89,project89,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+projectaeon,78,Project Aeon,aeon,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+prophetofethereum,86,Prophet of Ethereum,prophet,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pucca,29,PUCCA,$pucca,2025-01-07T00:00:00,2025-02-04T00:00:00,True,,29,1.0
+puffy,86,Puffy,puffy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pump2,78,PUMP,pump,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+pumpcorn,54,pumpcorn,,,,True,,0,0.0
+pumpkin4,1,Pumpkin,pkin,2025-02-04T00:00:00,2025-02-04T00:00:00,True,,1,1.0
+pundu,86,Pundu,pundu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+pupsordinals,86,PUPS (Ordinals) [OLD],pups,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+purplepepe,60,PURPLE PEPE,purpe,2024-12-07T00:00:00,2025-02-04T00:00:00,True,,60,1.0
+puss,86,puss,,,,True,,0,0.0
+pythia,28,PYTHIA,pythia,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+qstar,86,QSTAR,q*,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+quantifyai,53,QuantifyAI,qgg,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+quasar3,70,Quasar,quasar,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+queenpooie,21,queenpooie,,,,True,,0,0.0
+raincoin,14,Rain Coin,rain,2025-01-22T00:00:00,2025-02-04T00:00:00,True,,14,1.0
+ratescape,69,RAT Escape,rat,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+ratomilton,2,ratomilton,milton,2025-02-03T00:00:00,2025-02-04T00:00:00,True,,2,1.0
+rawr,86,Rawr,xd,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+real2,86,real.,real,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+realgoat,86,realgoat,,,,True,,0,0.0
+realisworlds,54,Realis Worlds,realis,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+realniggertate,10,RNT,rnt,2024-11-11T00:00:00,2024-11-20T00:00:00,True,,10,1.0
+realsmurfcat,86,Real Smurf Cat,smurfcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+realworldai,46,Real World AI,rwa,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+redactedgdupi,53,redactedgdupi,,,,True,,0,0.0
+redgenesis,35,Red Genesis,$r3d,2025-01-01T00:00:00,2025-02-04T00:00:00,True,,35,1.0
+redsiberianhusky,36,Red Siberian Husky,kovu,2024-12-31T00:00:00,2025-02-04T00:00:00,True,,36,1.0
+reflectionsofdissonanceai,77,Reflections of Dissonance AI,aika,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+regent,11,REGENT,regent,2025-01-25T00:00:00,2025-02-04T00:00:00,True,,11,1.0
+rekt4,71,Rekt,rekt,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+resistancedog,86,resistancedog,,,,True,,0,0.0
+retardio,44,RETARDIO,retardio,2024-12-23T00:00:00,2025-02-04T00:00:00,True,,44,1.0
+rex3,78,Rex,rex,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+ribbit2,86,RIBBIT,rbt,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+richquack,86,Rich Quack,quack,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+rifampicin,56,Rifampicin,$rif,2024-12-11T00:00:00,2025-02-04T00:00:00,True,,56,1.0
+riko,86,RIKO,riko,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+rizo,79,Rizo,rizo,2024-11-18T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+rizzmas,69,Rizzmas,rizzmas,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+rnttoken,76,RNT,rnt,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+roastmaster9000,64,Roastmaster9000,rm9000,2024-12-03T00:00:00,2025-02-04T00:00:00,True,,64,1.0
+rock3,86,ROCK,rock,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+rockytherock,86,Rocky,rocky,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+roflcopter,68,ROFLcopter,rofl,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+rondaonsui,84,rondaonsui,,,,True,,0,0.0
+ronnie,86,Ronnie,ronnie,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+ropirito,75,Ropirito,ropirito,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+rsnoofi,86,r/snoofi,r/snoofi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+runepups,17,Pups (Bitcoin),pups,2025-01-19T00:00:00,2025-02-04T00:00:00,True,,17,1.0
+runesxbitcoin,46,runesxbitcoin,,,,True,,0,0.0
+runneroneth,84,Runner on ETH,runner,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+ruritruthterminalscrush,76,Ruri - Truth Terminal's Crush,ruri,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+russell,86,russell,,,,True,,0,0.0
+ryujin,86,RyuJin,ryu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+s,16,S,s,2025-01-20T00:00:00,2025-02-04T00:00:00,True,,16,1.0
+saadboi,39,Saad Boi,saad,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+sacabam,86,sacabam,,,,True,,0,0.0
+sadant,61,SADANT,sadant,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+sadhamster,86,SAD HAMSTER,hammy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+safukekgigafundz888,84,Safu & Kek Gigafundz 888,skg888,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+sageuniverse,86,Sage Universe,sage,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sagittarius,76,Sagittarius,sagit,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+salute,7,salute,,,,True,,0,0.0
+salvatormundi,63,Salvator Mundi,mundi,2024-12-04T00:00:00,2025-02-04T00:00:00,True,,63,1.0
+samoyedcoin,86,Samoyedcoin,samo,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sanchan,3,San Chan,san,2025-02-02T00:00:00,2025-02-04T00:00:00,True,,3,1.0
+santa2,66,SANTA,santa,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,1.0
+santahat,66,SANTA HAT,santahat,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,1.0
+satoshai,25,satoshai,,,,True,,0,0.0
+satoshiaiagentbyvirtuals,62,satoshiaiagentbyvirtuals,,,,True,,0,0.0
+sbrsol,78,Strategic Bitcoin Reserve,sbr,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+schizoterminal,47,Schizo Terminal,schizo,2024-12-20T00:00:00,2025-02-04T00:00:00,True,,47,1.0
+scihub,76,sci-hub,scihub,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+scorpio,80,Scorpio,scorpio,2024-11-16T00:00:00,2025-02-04T00:00:00,True,,80,1.0
+scratch3,45,Scratch,$scratch,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+screaminghyrax,68,Screaming Hyrax,$mama,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+sealdog,76,sealdog,,,,True,,0,0.0
+sealsreadytocrackpengusice,44,Seals-Ready to Crack Pengu's Ice,seals,2024-12-23T00:00:00,2025-02-04T00:00:00,True,,44,1.0
+seamania,14,SEAMANIA,seamania,2025-01-22T00:00:00,2025-02-04T00:00:00,True,,14,1.0
+seiyan,86,seiyan,,,,True,,0,0.0
+selfiedogcoin,85,SelfieDogCoin,selfie,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+send2,79,Send,send,2024-11-18T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+sendor,73,Sendor,sendor,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+sensus,65,SENSUS,sensus,2024-12-02T00:00:00,2025-02-04T00:00:00,True,,65,1.0
+sentai2,22,SENTAI,sentai,2025-01-14T00:00:00,2025-02-04T00:00:00,True,,22,1.0
+sentientai,32,Sentient AI,setai,2025-01-04T00:00:00,2025-02-04T00:00:00,True,,32,1.0
+sentioprotocol,29,Sentio Protocol,sen,2025-01-07T00:00:00,2025-02-04T00:00:00,True,,29,1.0
+sharbi,86,Sharbi,$sharbi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sharkcat,86,Shark Cat,sc,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sharki,86,Sharki,sharki,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sherises,39,She Rises,aka,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+shibaclassic2,78,Shiba Classic,shibc,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+shibadoge,86,ShibaDoge,shibdoge,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shibainutreat,20,Shiba Inu Treat,treat,2025-01-16T00:00:00,2025-02-04T00:00:00,True,,20,1.0
+shibapredator,86,Shiba Predator,qom,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shibashootout,71,Shibashootout,$shibashoot,2024-11-26T00:00:00,2025-02-04T00:00:00,True,,71,1.0
+shibawing,86,Shiba Wing,wing,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shibwifhatcoin,86,Shibwifhatcoin,shib,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shifu,42,Shifu,shifu,2024-12-25T00:00:00,2025-02-04T00:00:00,True,,42,1.0
+shinainu,86,Shina Inu,shi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shironeko2,17,Shiro Neko,shiro,2025-01-19T00:00:00,2025-02-04T00:00:00,True,,17,1.0
+shishacoin,53,shishacoin,,,,True,,0,0.0
+shitcats,59,shitcats,,,,True,,0,0.0
+shitcoin3,46,SHITCOIN,shitcoin,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+shoggoth,86,Shoggoth,shoggoth,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shork,83,shork,,,,True,,0,0.0
+shrub,70,Shrub,shrub,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+shrub2,86,Shrub,$shrub,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+shytoshikusama,2,Shytoshi Kusama,shy,2025-02-03T00:00:00,2025-02-04T00:00:00,True,,2,1.0
+sigma,72,Sigma,sigma,2024-11-25T00:00:00,2025-02-04T00:00:00,True,,72,1.0
+sigma3,1,sigma3,,,,True,,0,0.0
+sillydragon,86,Silly Dragon,silly,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sillynubcat,86,Sillynubcat,nub,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+simmitoken,61,Simmi Token,simmi,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,0.8852459016393442
+simsai,41,SimsAI,simsai,2024-12-26T00:00:00,2025-02-04T00:00:00,True,,41,1.0
+singularry,57,Singularry,singularry,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+size,62,SIZE,size,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+skainet,62,SKAINET,skai,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+skibiditoilet2,80,Skibidi Toilet,skbdi,2024-11-16T00:00:00,2025-02-04T00:00:00,True,,80,1.0
+skimaskcat,62,skimaskcat,,,,True,,0,0.0
+skimaskdog,74,skimaskdog,,,,True,,0,0.0
+skimaskpepe,51,skimaskpepe,,,,True,,0,0.0
+skullofpepetoken,0,skullofpepetoken,,,,True,,0,0.0
+slop,86,Slop,slop,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+slopfather,50,Slopfather,fatha,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+slothana,86,Slothana,sloth,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+smilingdolphin,85,Smiling Dolphin,miharu,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+smokingchickenfish,79,Smoking Chicken Fish,scf,2024-11-18T00:00:00,2025-02-04T00:00:00,True,,79,1.0
+snailbrook,86,snailbrook,,,,True,,0,0.0
+snakewifhat,76,Snake wif Hat,sssss,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+snapkero,86,SNAP,$nap,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sofacat,82,SofaCat,sofac,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+solama,86,Solama,solama,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+solarisai,82,Solaris AI,solaris,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,82,1.0
+solcat,70,SOLCAT,solcat,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+solchat,86,Solchat,chat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+solnic,86,Solnic,solnic,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sonicsnipebot,60,sonicsnipebot,,,,True,,0,0.0
+spacebucks,0,spacebucks,,,,True,,0,0.0
+speedy2,86,Speedy,speedy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+spice2,67,spice2,,,,True,,0,0.0
+spikeoneth,86,Spike,spike,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+spinningcat,76,Spinning Cat,oiiaoiia,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+splashdog,59,Splash Dog,buster,2024-12-08T00:00:00,2025-02-04T00:00:00,True,,59,1.0
+spunkysdx,57,SpunkySDX,ssdx,2024-12-10T00:00:00,2025-02-04T00:00:00,True,,57,1.0
+spx690020,86,SPX6900 2.0,spx2.0,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sqrfund,50,sqrFUND,sqr,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+squidgrow2,86,SquidGrow,sqgrow,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sroomaidao,22,sroomaidao,,,,True,,0,0.0
+stardoge,69,StarDOGE,stardoge,2024-11-28T00:00:00,2025-02-04T00:00:00,True,,69,1.0
+starecat,83,StareCat,helia,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+staringrobot,85,staring robot,sonny,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+starknetbrother,82,starknetbrother,,,,True,,0,0.0
+stars2,39,STARS,stars,2024-12-28T00:00:00,2025-02-04T00:00:00,True,,39,1.0
+stashinu,86,Stash Inu,stash,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+stick,73,Stick,stick,2024-11-24T00:00:00,2025-02-04T00:00:00,True,,73,1.0
+stinkcoin,28,Stink Coin,stinkcoin,2025-01-08T00:00:00,2025-02-04T00:00:00,True,,28,1.0
+stonks4,43,Stonks,stnk,2024-12-24T00:00:00,2025-02-04T00:00:00,True,,43,1.0
+strategicbitcoinreserve,86,STRATEGIC BITCOIN RESERVE,sbr,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+strategichubforinnovationinblockchain,84,Strategic Hub for Innovation in Blockchain,shib,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+styrosteve,45,Styro Steve,ss,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+successkid,86,Success Kid,skid,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+sugarboy,69,sugarboy,,,,True,,0,0.0
+sugarbush,41,sugarbush,,,,True,,0,0.0
+suibainu,86,suibainu,,,,True,,0,0.0
+suicuneonsui,86,suicuneonsui,,,,True,,0,0.0
+suicytheseal,60,suicytheseal,,,,True,,0,0.0
+suidesciagents,14,SUI Desci Agents,desci,2025-01-22T00:00:00,2025-02-04T00:00:00,True,,14,1.0
+suijak,58,suijak,,,,True,,0,0.0
+suiman,0,suiman,,,,True,,0,0.0
+suinami,86,suinami,,,,True,,0,0.0
+sumi,82,sumi,,,,True,,0,0.0
+suncat,86,suncat,,,,True,,0,0.0
+sundog,0,sundog,,,,True,,0,0.0
+sunwukong,74,sunwukong,,,,True,,0,0.0
+superanon,68,superanon,,,,True,,0,0.0
+supercyclereal,86,supercycle(real),supercycle,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+supersuiyan,77,supersuiyan,,,,True,,0,0.0
+supertrump,86,Super Trump,strump,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+suwi,86,suwi,suwi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+swaggy,85,SWAGGY,swaggy,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+swarm2,78,Swarm,swarm,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+swarmnodeai,44,SwarmNode.ai,snai,2024-12-23T00:00:00,2025-02-04T00:00:00,True,,44,1.0
+sympsonai,19,sympsonai,,,,True,,0,0.0
+synthesizerdog,78,synthesizerdog,,,,True,,0,0.0
+tabman,86,TabMan,tab,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tadpole,77,tadpole,,,,True,,0,0.0
+taoinu,86,TAO INU,taonu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tardi,49,tardi,,,,True,,0,0.0
+tateterminal,86,Tate Terminal,tate,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+taurus2,76,Taurus,taurus,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+tay,19,TAY,tay,2025-01-17T00:00:00,2025-02-04T00:00:00,True,,19,1.0
+teddybear,70,teddybear,,,,True,,0,0.0
+tehepikduck,86,TEH EPIK DUCK,epik,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tema,68,Tema,tema,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+tensorium,70,Tensorium,tnsr,2024-12-01T00:00:00,2025-02-04T00:00:00,True,,66,0.9428571428571428
+terminus2,86,Terminus,terminus,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+terminus3,86,Terminus,terminus,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+terryinthetrenches,70,Terry In The Trenches,terry,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+tetsuocoin,46,Tetsuo Coin,tetsuo,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+thalesai,53,Thales AI,thales,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+theanthropicorder,62,The Anthropic Order,tao,2024-12-05T00:00:00,2025-02-04T00:00:00,True,,62,1.0
+thebalkandwarf,86,The Balkan Dwarf,$kekec,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+theblinkingaicatcatfather,30,The Blinking AI Cat - Catfather,catf,2025-01-06T00:00:00,2025-02-04T00:00:00,True,,30,1.0
+thecat,86,TheCat,thecat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+thedogenft,58,Own The Doge,dog,2024-12-09T00:00:00,2025-02-04T00:00:00,True,,58,1.0
+thedogeson,7,thedogeson,,,,True,,0,0.0
+thelastplay,86,The Last Play,retire,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+thelokiecabal,62,The Lokie Cabal,cabal,2024-12-05T00:00:00,2025-02-03T00:00:00,True,,62,1.0
+thenuttingprofessor,48,The Nutting Professor,pronut,2024-12-19T00:00:00,2025-02-04T00:00:00,True,,48,1.0
+thereallandwolf,86,LandWolf,wolf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+theresistancecat,74,theresistancecat,,,,True,,0,0.0
+therugcoon,86,The RugCoon,rugga,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+thesocietylibrary,75,The Society Library,sl,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+thesoldog,86,the Soldog,laika,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+thetickeriseth,86,The Ticker Is ETH,eth,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+theydontloveyoulikeiloveyou,76,theydontloveyoulikeiloveyou,wait,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+thisismyiguana,81,thisismyiguana,,,,True,,0,0.0
+tinyfren,44,tinyfren,,,,True,,0,0.0
+tism,78,tism,,,,True,,0,0.0
+tn100x,72,tn100x,,,,True,,0,0.0
+toadkiller,86,Toad Killer,$toad,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+toadsol,86,Toad (SOL),$toad,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tobi,86,tobi,tobi,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tobytoadgod,70,tobytoadgod,,,,True,,0,0.0
+toco,48,TOCO,toco,2024-12-19T00:00:00,2025-02-04T00:00:00,True,,48,1.0
+todd,85,todd,todd,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+toga,86,TOGA,toga,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tokenbot2,0,tokenbot2,,,,True,,0,0.0
+tokenmetricsai,57,tokenmetricsai,,,,True,,0,0.0
+toki2,45,Toki,toki,2024-12-22T00:00:00,2025-02-04T00:00:00,True,,45,1.0
+tomocat,64,Tomo Cat,tomo,2024-12-03T00:00:00,2025-02-04T00:00:00,True,,64,1.0
+toncat,86,toncat,,,,True,,0,0.0
+tonfishmemecoin,86,tonfishmemecoin,,,,True,,0,0.0
+tookerkurlson,86,tooker kurlson,tooker,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tophat,84,Top Hat,hat,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+topprotocol,85,TOP PROTOCOL,top,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+torithecat,86,Tori the Cat,tori,2024-11-11T00:00:00,2025-02-03T00:00:00,True,,86,1.0
+torsy,86,TORSY,torsy,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+toshi,38,toshi,,,,True,,0,0.0
+trackedbio,70,TrackedBio,trackedbio,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+trenchai,42,TrenchAI,trenchai,2024-12-25T00:00:00,2025-02-04T00:00:00,True,,42,1.0
+trisigma,65,Tri Sigma,trisig,2024-12-02T00:00:00,2025-02-04T00:00:00,True,,65,1.0
+trog,47,Trog,trog,2024-12-20T00:00:00,2025-02-04T00:00:00,True,,47,1.0
+troll,86,Troll,troll,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+tronbull,73,tronbull,,,,True,,0,0.0
+tronbullcoin,86,tronbullcoin,,,,True,,0,0.0
+tronkey,0,tronkey,,,,True,,0,0.0
+trumpderangementsyndrome,85,Trump Derangement Syndrome,tds,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+trumpiusmaximus,32,Trumpius Maximus,trumpius,2025-01-04T00:00:00,2025-02-04T00:00:00,True,,32,1.0
+trumpshuffle,76,Trump Shuffle,shuffle,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+trustmebrosbyvirtuals,29,trustmebrosbyvirtuals,,,,True,,0,0.0
+trusttheprocess,50,Trust The Process,trust,2024-12-17T00:00:00,2025-02-04T00:00:00,True,,50,1.0
+tsotchke,46,Tsotchke,tsotchke,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+tsuba,37,TSUBA,tsuba,2024-12-30T00:00:00,2025-02-04T00:00:00,True,,37,1.0
+tuki,86,tuki,tuki,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+twiskers,85,twiskers,,,,True,,0,0.0
+tyler,1,tyler,,,,True,,0,0.0
+uglydog,54,Ugly Dog,uglydog,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+unfk,77,UNFK,$unfk,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+uni,86,uni,,,,True,,0,0.0
+unicornfartdust,33,Unicorn Fart Dust,ufd,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+universalbasiccompute,68,Universal Basic Compute,ubc,2024-11-29T00:00:00,2025-02-04T00:00:00,True,,68,1.0
+universaloperatingsystem,34,Universal Operating System,$uos,2025-01-02T00:00:00,2025-02-04T00:00:00,True,,34,1.0
+upgrates,78,Upgrates,upg,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+upsidedowncat2,83,upsidedowncat,usdcat,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,83,1.0
+upsidedownmeme,86,upsidedownmeme,,,,True,,0,0.0
+uranus3,86,Uranus,urs,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+urolithina,76,Urolithin A,$uro,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+usacoin,16,USAcoin,usacoin,2025-01-20T00:00:00,2025-02-04T00:00:00,True,,16,1.0
+vaderaibyvirtuals,62,vaderaibyvirtuals,,,,True,,0,0.0
+valhallaindex,86,Valhalla Index,odin,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+vaticanmascot,83,Vatican Mascot,luce,2024-11-15T00:00:00,2025-02-03T00:00:00,True,,83,1.0
+vaultterminal,77,Vault Terminal,vault,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+velvetunicornbyvirtuals,62,velvetunicornbyvirtuals,,,,True,,0,0.0
+venko,86,VENKO,$venko,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+vibecat2,77,Vibe Cat,vibe,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+vibingcat,86,Vibing Cat,vcat,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+vikita,0,vikita,,,,True,,0,0.0
+virgo2,81,Virgo,virgo,2024-11-15T00:00:00,2025-02-04T00:00:00,True,,81,1.0
+vitai,61,VitAI,vitai,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+vitainu,86,Vita Inu,vinu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+voiceartificial,33,Voice Artificial,var,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+voltinu2,86,Volt Inu,volt,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+voyagerai,54,Voyager AI,voyage,2024-12-13T00:00:00,2025-02-04T00:00:00,True,,54,1.0
+waffles,86,Waffles,waffles,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wagmigame2,12,WAGMI Games,wagmigames,2025-01-24T00:00:00,2025-02-04T00:00:00,True,,12,1.0
+waicombinatorbyvirtuals,40,waicombinatorbyvirtuals,,,,True,,0,0.0
+wallstreetmemes,86,Wall Street Memes,wsm,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wally,84,Wally,wally,2024-11-13T00:00:00,2025-02-04T00:00:00,True,,84,1.0
+walterdogsolana,85,Walter,walter,2024-11-12T00:00:00,2025-02-04T00:00:00,True,,85,1.0
+warriorcoin,1,Warrior Coin,war,2025-02-04T00:00:00,2025-02-04T00:00:00,True,,1,1.0
+wassie,86,WASSIE,wassie,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wat,42,Wat,wat,2024-12-25T00:00:00,2025-02-04T00:00:00,True,,42,1.0
+watcoin,86,watcoin,,,,True,,0,0.0
+waterbear,74,waterbear,waterbear,2024-11-23T00:00:00,2025-02-04T00:00:00,True,,74,1.0
+watercoin,86,WATER Coin,water,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wawacat,86,WAWA CAT,wawa,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+weirdmedievalmemes,70,Weird Medieval Memes,wmm,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+weirdo2,86,weirdo2,,,,True,,0,0.0
+welovet,27,We Love Tits,tits,2025-01-09T00:00:00,2025-02-04T00:00:00,True,,27,1.0
+welshcorgicoin,0,welshcorgicoin,,,,True,,0,0.0
+wen4,34,Wen,wen,2025-01-02T00:00:00,2025-02-04T00:00:00,True,,34,1.0
+wen5,69,wen5,,,,True,,0,0.0
+whale2,16,Whale,whale,2025-01-20T00:00:00,2025-02-04T00:00:00,True,,16,1.0
+whatsupdog,86,What’s Updog?,$updog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+whinecoin,70,Whine Coin,whine,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+whiskey,86,WHISKEY,whiskey,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+why,86,WHY,why,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+whyyoutouzhele,33,Whyyoutouzhele,li,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+wibwob,78,WibWob,wibwob,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+wicked,86,Wicked,wicked,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wifejak,77,Wifejak,wife,2024-11-20T00:00:00,2025-02-04T00:00:00,True,,77,1.0
+wildgoatcoin2,78,Wild Goat Coin,wgc,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+winniethepoodle,86,Winnie the Poodle,winnie,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+winterarc,76,Winter Arc,winter,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+wojak,41,Wojak,wojak,2024-12-26T00:00:00,2025-02-04T00:00:00,True,,41,1.0
+wolfofwallstreet,86,Wolf of Wall Street,$wolf,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+womanyellingatcat,86,Woman Yelling At Cat,wyac,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wooftoken,72,WOOF,woof,2024-11-25T00:00:00,2025-02-04T00:00:00,True,,72,1.0
+work,53,WORK,work,2024-12-14T00:00:00,2025-02-04T00:00:00,True,,53,1.0
+would,61,would,would,2024-12-06T00:00:00,2025-02-04T00:00:00,True,,61,1.0
+wownero,86,wownero,,,,True,,0,0.0
+wrappedayeayecoin,86,Wrapped AyeAyeCoin,waac,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wrappeddog,86,Wrapped DOG,wdog,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+wryon,77,wryon,,,,True,,0,0.0
+wuffi,49,WUFFI,wuf,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+xcommunity,40,X Community,x,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+xenopuslaevis,49,Xenopus laevis,xeno,2024-12-18T00:00:00,2025-02-04T00:00:00,True,,49,1.0
+xingxing,76,Xing Xing,xing,2024-11-21T00:00:00,2025-02-04T00:00:00,True,,76,1.0
+xmoney,7,XMONEY,xmoney,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+yap,86,yap,yap,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+yawnsworld,86,Yawn's World,yawn,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+yeeti,86,yeeti,,,,True,,0,0.0
+yellowpepe,65,Yellow Pepe,yelpe,2024-12-02T00:00:00,2025-02-04T00:00:00,True,,65,1.0
+yeschad,78,Yes Chad,yes,2024-11-19T00:00:00,2025-02-04T00:00:00,True,,78,1.0
+yieldmachine,10,yieldmachine,,,,True,,0,0.0
+yne,33,yesnoerror,yne,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+youngpeezyakapepe,86,youngpeezyakapepe,,,,True,,0,0.0
+yousim,70,YouSim,yousim,2024-11-27T00:00:00,2025-02-04T00:00:00,True,,70,1.0
+yowie,82,YOWIE,yowie,2024-11-15T00:00:00,2025-02-03T00:00:00,True,,82,1.0
+yuko,66,yuko,,,,True,,0,0.0
+zackmorris,86,Zack Morris,zack,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+zaichxbt,7,ZaichXBT,zai,2025-01-29T00:00:00,2025-02-04T00:00:00,True,,7,1.0
+zapo,81,zapo,,,,True,,0,0.0
+zaraai,40,ZARA AI,zara,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+zazu2,86,Zazu,zazu,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+zeekcoin,86,zeekcoin,,,,True,,0,0.0
+zenai,12,Zen AI,zai,2025-01-24T00:00:00,2025-02-04T00:00:00,True,,12,1.0
+zenith3,60,Zenith,zen,2024-12-07T00:00:00,2025-02-04T00:00:00,True,,60,1.0
+zerebrotokenoftransformation,40,Zerebro Token Of Transformation,gaycoin,2024-12-27T00:00:00,2025-02-04T00:00:00,True,,40,1.0
+zerotech,86,MEOW,meow,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+zeus3,33,ZEUS,zeus,2025-01-03T00:00:00,2025-02-04T00:00:00,True,,33,1.0
+zoaai,75,ZOA AI,zoa,2024-11-22T00:00:00,2025-02-04T00:00:00,True,,75,1.0
+zods,46,ZODs,zods,2024-12-21T00:00:00,2025-02-04T00:00:00,True,,46,1.0
+zoomer,86,Zoomer,zoomer,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+zoomersol,86,Zoomer,zoomer,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0
+zooworld,4,Zoo World,zoo,2025-02-01T00:00:00,2025-02-04T00:00:00,True,,4,1.0
+zyncoin2,86,ZynCoin,zyn,2024-11-11T00:00:00,2025-02-04T00:00:00,True,,86,1.0

@@ -1,0 +1,1 @@
+PRISM outperforms several classical, tree-based, and recurrent neural baselines; however, Prophet and/or Persistence remain highly competitive under short-horizon MAE/RMSE, indicating strong local continuity in memecoin prices.
