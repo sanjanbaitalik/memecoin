@@ -1,8 +1,0 @@
-model_label,actual_backend,fallback_used,fallback_reason,library_version,random_seed
-persistence,naive_last_value,False,,n/a,42
-arima,statsmodels_arima,False,,0.14.6,42
-prophet,prophet,False,,1.3.0,42
-random_forest,sklearn_random_forest,False,,1.8.0,42
-xgboost,xgboost_xgbregressor,False,,3.2.0,42
-gru,sklearn_mlp_gru_surrogate,True,gru_fallback_mlp,1.8.0,42
-lstm,sklearn_mlp_lstm_surrogate,True,lstm_fallback_mlp,1.8.0,42

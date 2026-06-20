@@ -1,0 +1,9 @@
+left,right,metric,n_pairs,wilcoxon_stat,p_value,effect_rank_biserial,left_mean,right_mean,favored_model,p_value_holm,significant_0_05
+PRISM,Persistence,mae,0,,,,,,right_better,1.0,False
+PRISM,XGBoost,mae,0,,,,,,right_better,1.0,False
+PRISM,Random Forest,mae,0,,,,,,right_better,1.0,False
+PRISM,ARIMA,mae,0,,,,,,right_better,1.0,False
+PRISM,Prophet,mae,0,,,,,,right_better,1.0,False
+PRISM,BiLSTM,mae,0,,,,,,right_better,1.0,False
+PRISM,LSTM,mae,0,,,,,,right_better,1.0,False
+PRISM,GRU,mae,0,,,,,,right_better,1.0,False

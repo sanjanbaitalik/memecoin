@@ -1,0 +1,29 @@
+# RUN_SUMMARY
+
+- status: PASS
+- generated_tables:
+  - table_ablation.csv
+  - table_ablation_median_iqr.csv
+  - table_ablation_per_seed.csv
+  - table_complexity_analysis.csv
+  - table_dataset_transparency.csv
+  - table_graph_diversification.csv
+  - table_main_forecasting_comparison.csv
+  - table_risk_adjusted_evaluation.csv
+  - table_statistical_tests.csv
+  - table_token_selection_bias.csv
+- generated_figures:
+  - fig_ablation_error_reduction.png
+  - fig_graph_diversification.png
+  - fig_main_forecasting_comparison.png
+  - fig_risk_adjusted_metrics.png
+  - fig_token_history_distribution.png
+- leakage_audit_passed: True
+- prism_best_mae: False
+- prism_best_rmse: False
+- max_tokens_for_modeling: 50
+- selected_token_count: 50
+- n_candidate_sheets: 1273
+- n_eligible_sheets: 894
+- omitted_models:
+- recommended_claim: PRISM is not included in the main baseline comparison table. The best point forecaster on MAE is Persistence. PRISM's contribution is evaluated through the ablation study (V0-V3) and risk-aware diversification metrics.

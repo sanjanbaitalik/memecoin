@@ -1,0 +1,19 @@
+# Graph Diversification Statistics
+
+Calibrated graph and MIS metrics.
+
+| metric | value |
+| --- | --- |
+| number_of_nodes | 5.0000 |
+| number_of_edges | 10.0000 |
+| graph_density | 1.0000 |
+| average_degree | 4.0000 |
+| connected_components | 1.0000 |
+| selected_mis_size | 1.0000 |
+| selected_edge_count | 0.0000 |
+| average_pairwise_correlation_before_mis | 0.3526 |
+| average_pairwise_correlation_after_mis | nan |
+| redundancy_reduction_percentage | 0.0000 |
+| average_cvar_before_mis | -0.2613 |
+| average_cvar_after_mis | -0.0511 |
+| similarity_threshold_or_quantile | 0.5000 |

@@ -1,0 +1,26 @@
+field,value
+source_file_name,Output_database.xlsx
+data_source_name_or_provider,AUTHOR_TO_CONFIRM
+price_source,AUTHOR_TO_CONFIRM
+market_cap_source,AUTHOR_TO_CONFIRM
+volume_source,AUTHOR_TO_CONFIRM
+sentiment_source,AUTHOR_TO_CONFIRM
+social_platform_source,"Twitter/X, Reddit, Telegram"
+date_range_start,2024-11-11 00:00:00
+date_range_end,2025-02-01 00:00:00
+sampling_frequency,daily
+timezone_or_close_time,AUTHOR_TO_CONFIRM
+number_of_candidate_token_sheets,1273
+number_of_eligible_sheets,894
+number_of_selected_tokens,49
+number_of_evaluated_tokens,49
+max_tokens_configured,50
+processed_aligned_observations,3204
+mean_token_history_length,65.38775510204081
+median_token_history_length,74.0
+missing_value_policy,train-only scaling with zero-fill sentiment imputation and row-wise exclusion of invalid targets
+target_construction,3-day-ahead closing price target
+train_validation_test_split_policy,chronological split with validation subset from the training period only
+token_selection_rule,eligible included tokens ranked by row count and capped at the modeling maximum
+possible_survivorship_bias_risk,yes
+limitations_of_using_top_tokens_by_row_count,"may overrepresent longer-lived, more liquid tokens and underrepresent short-lived assets"

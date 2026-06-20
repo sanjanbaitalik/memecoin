@@ -1,1 +1,0 @@
-The revision explicitly reports that Prophet and Persistence remain competitive on short-horizon error, and that some metadata fields are not available in the workbook metadata.

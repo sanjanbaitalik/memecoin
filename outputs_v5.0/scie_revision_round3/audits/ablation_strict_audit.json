@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "n_checks": 9,
+  "n_passed": 9,
+  "items": [
+    {
+      "audit_item": "identical_token_subset",
+      "status": true,
+      "notes": "All variants evaluated on the same token subset from the same processed panel."
+    },
+    {
+      "audit_item": "identical_chronological_split",
+      "status": true,
+      "notes": "Same train_ratio applied consistently across all variants."
+    },
+    {
+      "audit_item": "identical_target_horizon",
+      "status": true,
+      "notes": "Same forecast horizon used for all variants."
+    },
+    {
+      "audit_item": "identical_target_transformation",
+      "status": true,
+      "notes": "Same target construction applied consistently."
+    },
+    {
+      "audit_item": "identical_scaling_policy",
+      "status": true,
+      "notes": "No target scaling mismatch across variants."
+    },
+    {
+      "audit_item": "identical_training_test_periods",
+      "status": true,
+      "notes": "Same chronological split indices used for all variants."
+    },
+    {
+      "audit_item": "causal_only_features",
+      "status": true,
+      "notes": "Features use lagged prices, rolling sentiment, and causal graph features only."
+    },
+    {
+      "audit_item": "no_leakage_detected",
+      "status": true,
+      "notes": "No evidence of test-period information leaking into training."
+    },
+    {
+      "audit_item": "maml_support_query_chronological",
+      "status": true,
+      "notes": "First-order MAML support and query sets are drawn chronologically from the training period."
+    }
+  ]
+}

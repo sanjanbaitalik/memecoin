@@ -1,0 +1,1 @@
+PRISM is not included in the main baseline comparison table. The best point forecaster on MAE is Persistence. PRISM's contribution is evaluated through the ablation study (V0-V3) and risk-aware diversification metrics.

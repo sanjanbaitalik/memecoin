@@ -1,8 +1,0 @@
-analysis_item,count_or_flag,mean_or_rate,median_or_detail
-distribution_of_row_counts_across_candidate_tokens,881,68.59364358683314,76.0
-row_counts_of_eligible_tokens,881,0.0,0.0
-row_counts_of_selected_200_tokens,0,0.0,0.0
-selected_tokens_have_longer_histories_than_non_selected_tokens,0,0.0,76.0
-missingness_rate_by_token_before_filtering,881,0.08319606860091047,0.0
-number_of_dead_or_short_history_tokens_excluded,377,0.0,0.0
-survivorship_bias_warning,1,0.0,0.0

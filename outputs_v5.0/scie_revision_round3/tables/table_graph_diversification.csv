@@ -1,0 +1,14 @@
+metric,value
+number_of_nodes,49.0
+number_of_edges,1176.0
+graph_density,1.0
+average_degree,48.0
+connected_components,1.0
+selected_mis_size,1.0
+selected_edge_count,0.0
+average_pairwise_correlation_before_mis,0.21500640796930304
+average_pairwise_correlation_after_mis,
+redundancy_reduction_percentage,0.0
+average_cvar_before_mis,-0.23901510106503615
+average_cvar_after_mis,-0.051123568763020655
+similarity_threshold_or_quantile,0.85

@@ -1,0 +1,5 @@
+# Main Results
+
+PRISM outperforms PRISM-V2, PRISM-V3a, PRISM-V1, PRISM-V0 on MAE, while none remain strong short-horizon competitors. This indicates that memecoin forecasting is strongly influenced by local price continuity, and that PRISM is better interpreted as a risk-aware, multimodal, and diversified forecasting framework rather than as a universally dominant point forecaster.
+
+All baselines use the same chronological split, target horizon, lookback window, selected token subset, and random seeds (see `tables/table_main_forecasting_comparison.csv`). Neural baselines (LSTM, GRU, BiLSTM, TCN, N-BEATS) are implemented as native PyTorch sequence models. Risk-adjusted metrics (Sharpe proxy, Sortino proxy, maximum drawdown, VaR, CVaR) are reported in `tables/table_risk_adjusted_evaluation.csv`. Statistical significance is assessed using paired Wilcoxon signed-rank tests with Holm correction (see `tables/table_statistical_tests.csv`).

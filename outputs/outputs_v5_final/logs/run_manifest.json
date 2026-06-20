@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "generated_tables": [
+    "processed_selected.csv",
+    "table_ablation.csv",
+    "table_ablation_per_seed.csv",
+    "table_ablation_raw.csv",
+    "table_graph_calibration.csv",
+    "table_graph_diversification.csv",
+    "table_main_forecasting_comparison.csv",
+    "table_risk_adjusted_evaluation.csv",
+    "table_statistical_tests.csv",
+    "token_universe_manifest.csv"
+  ],
+  "generated_figures": [
+    "fig_ablation_error_reduction.png",
+    "fig_graph_calibration.png",
+    "fig_graph_diversification.png",
+    "fig_main_forecasting_comparison.png",
+    "fig_mis_diversification.png",
+    "fig_risk_adjusted_metrics.png",
+    "fig_statistical_tests.png"
+  ],
+  "leakage_audit_passed": true,
+  "max_tokens_for_modeling": 5,
+  "selected_token_count": 5,
+  "n_candidate_sheets": 1273,
+  "n_eligible_sheets": 894,
+  "omitted_models": [],
+  "recommended_claim": "PRISM outperforms PRISM-V2, PRISM-V3a, PRISM-V1, PRISM-V0 on MAE, while none remain strong short-horizon competitors. This indicates that memecoin forecasting is strongly influenced by local price continuity, and that PRISM is better interpreted as a risk-aware, multimodal, and diversified forecasting framework rather than as a universally dominant point forecaster.",
+  "graph_threshold_calibrated": 0.5,
+  "graph_mis_size": 1,
+  "quality_gate_warnings": [
+    "selected_token_count=5 != 200 (expected for final paper run)",
+    "Graph density 1.0000 outside [0.05, 0.60]",
+    "MIS size <= 1 (needs >= 200 tokens for meaningful diversification)",
+    "Redundancy reduction <= 0"
+  ]
+}

@@ -1,0 +1,11 @@
+# Ablation Median/IQR
+
+Median and IQR summary for ablation variants.
+
+| variant | mae_median | mae_iqr | mae_mean | mae_std | rmse_median | rmse_iqr | smape_median | smape_iqr | mase_median | mase_iqr | directional_accuracy_median | n_tokens | n_seeds |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| V0 | 0.0075 | 0.0127 | 0.0118 | 0.0124 | 0.0075 | 0.0132 | 185.0489 | 67.0432 | nan | nan | 0.5000 | 5 | 3 |
+| V1 | 0.0069 | 0.0061 | 0.0078 | 0.0086 | 0.0075 | 0.0059 | 200.0000 | 11.9173 | nan | nan | 0.8182 | 5 | 3 |
+| V2 | 0.0005 | 0.0009 | 0.0034 | 0.0055 | 0.0005 | 0.0009 | 75.6427 | 53.5521 | nan | nan | 0.2308 | 5 | 3 |
+| V3a | 0.0004 | 0.0007 | 0.0034 | 0.0057 | 0.0005 | 0.0006 | 65.7846 | 42.0835 | nan | nan | 0.2308 | 5 | 3 |
+| V3b | 0.0004 | 0.0010 | 0.0033 | 0.0055 | 0.0004 | 0.0009 | 65.7846 | 53.5521 | nan | nan | 0.2308 | 5 | 3 |

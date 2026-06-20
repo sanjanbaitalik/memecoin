@@ -1,0 +1,15 @@
+# Strict Ablation Audit
+
+Audit confirming no leakage or scale mismatch in ablation variants.
+
+| audit_item | status | notes |
+| --- | --- | --- |
+| identical_token_subset | TRUE | All variants evaluated on the same token subset from the same processed panel. |
+| identical_chronological_split | TRUE | Same train_ratio applied consistently across all variants. |
+| identical_target_horizon | TRUE | Same forecast horizon used for all variants. |
+| identical_target_transformation | TRUE | Same target construction applied consistently. |
+| identical_scaling_policy | TRUE | No target scaling mismatch across variants. |
+| identical_training_test_periods | TRUE | Same chronological split indices used for all variants. |
+| causal_only_features | TRUE | Features use lagged prices, rolling sentiment, and causal graph features only. |
+| no_leakage_detected | TRUE | No evidence of test-period information leaking into training. |
+| maml_support_query_chronological | TRUE | First-order MAML support and query sets are drawn chronologically from the training period. |

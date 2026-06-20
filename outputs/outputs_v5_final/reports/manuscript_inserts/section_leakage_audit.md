@@ -1,0 +1,3 @@
+# Leakage Audit
+
+All 10 leakage audit items pass with no WARNING or FAIL status (see `audits/leakage_audit_report.csv`). Features at time t use only information available at or before t. Scaling parameters are fitted on training data only. Graph construction and MIS selection use training-period data only. PRISM V3 uses first-order MAML with support sets from the early training period and query sets from the later training period; the test set is fully held out and never used in meta-training, adaptation tuning, graph construction, scaling, or model selection.

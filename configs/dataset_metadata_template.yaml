@@ -1,0 +1,13 @@
+source_file_name: Output_database.xlsx
+data_source_name_or_provider: "AUTHOR_TO_CONFIRM"
+price_source: "AUTHOR_TO_CONFIRM"
+volume_source: "AUTHOR_TO_CONFIRM"
+market_cap_source: "AUTHOR_TO_CONFIRM"
+sentiment_source: "AUTHOR_TO_CONFIRM"
+social_platform_source:
+  - "Twitter/X"
+  - "Reddit"
+  - "Telegram"
+sampling_frequency: "daily"
+timezone_or_close_time: "AUTHOR_TO_CONFIRM"
+notes_on_sentiment_fields: "Pre-aligned platform-level sentiment columns are used; raw social-media text scraping is not performed inside this pipeline."

@@ -1,0 +1,3 @@
+# Limitations
+
+Several limitations should be noted: (1) Prophet and Persistence remain competitive on short-horizon error, indicating strong local price continuity in memecoin prices; (2) several dataset metadata fields are not available in the workbook and require author confirmation; (3) token selection by row count may introduce survivorship bias by overrepresenting longer-lived assets; (4) risk-adjusted metrics are computed as proxies based on forecast signals rather than executable trading with transaction costs; (5) the graph/MIS diversification framework assumes that pairwise similarity is a meaningful proxy for portfolio redundancy.

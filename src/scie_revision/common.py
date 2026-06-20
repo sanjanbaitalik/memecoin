@@ -13,23 +13,23 @@ SEEDS = [11, 17, 23]
 
 
 def scie_path(*parts: str) -> Path:
-    if len(parts) >= 2 and parts[0] == "outputs" and parts[1] == "scie_revision":
-        return output_path("outputs", *parts[2:])
+    if len(parts) >= 2 and parts[0] == "outputs" and parts[1] in ("scie_revision", "scie_revision_round3"):
+        return output_path("outputs", parts[1], *parts[2:])
     return output_path(*parts)
 
 
-def ensure_revision_dirs() -> None:
+def ensure_revision_dirs(output_name: str = "scie_revision_round3") -> None:
     for part in [
-        ("outputs", "scie_revision"),
-        ("outputs", "scie_revision", "tables"),
-        ("outputs", "scie_revision", "figures"),
-        ("outputs", "scie_revision", "reports"),
-        ("outputs", "scie_revision", "reports", "manuscript_inserts_round2"),
-        ("outputs", "scie_revision", "logs"),
-        ("outputs", "scie_revision", "predictions"),
-        ("outputs", "scie_revision", "audits"),
-        ("outputs", "scie_revision", "configs"),
-        ("outputs", "scie_revision", "results"),
+        ("outputs", output_name),
+        ("outputs", output_name, "tables"),
+        ("outputs", output_name, "figures"),
+        ("outputs", output_name, "reports"),
+        ("outputs", output_name, "reports", "manuscript_inserts"),
+        ("outputs", output_name, "logs"),
+        ("outputs", output_name, "predictions"),
+        ("outputs", output_name, "audits"),
+        ("outputs", output_name, "configs"),
+        ("outputs", output_name, "results"),
     ]:
         output_path(*part)
 
@@ -114,7 +114,7 @@ def mean_std(series: pd.Series) -> str:
         return ""
     mean = float(series.mean())
     std = float(series.std(ddof=0)) if len(series) > 1 else 0.0
-    return f"{mean:.4f} ± {std:.4f}"
+    return f"{mean:.4f} +/- {std:.4f}"
 
 
 def ensure_parent(path: Path) -> Path:

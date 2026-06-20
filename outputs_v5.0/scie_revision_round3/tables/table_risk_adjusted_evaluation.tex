@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+\centering
+\begin{tabular}{lllllllllll}
+\hline
+model & cum_return_proxy & mean_return_proxy & sharpe_ratio_proxy & sortino_ratio_proxy & max_drawdown_proxy & hit_rate & var_95 & cvar_95 & downside_deviation & volatility_of_returns \\
+\hline
+ARIMA & -8.8026 & -0.0611 & -0.5513 & -0.7949 & -1.0000 & 0.3542 & -0.2364 & -0.2514 & 0.0769 & 0.1109 \\
+BiLSTM & -2.4053 & -0.0167 & -0.1005 & -0.2165 & -0.9930 & 0.4653 & -0.2557 & -0.2579 & 0.0772 & 0.1662 \\
+GRU & -6.7956 & -0.0472 & -0.2906 & -0.5059 & -0.9999 & 0.4236 & -0.2597 & -0.3188 & 0.0933 & 0.1624 \\
+LSTM & -4.1939 & -0.0291 & -0.1759 & -0.3704 & -0.9989 & 0.4167 & -0.2557 & -0.2630 & 0.0786 & 0.1656 \\
+Persistence & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000 \\
+Prophet & -8.8026 & -0.0611 & -0.5513 & -0.7949 & -1.0000 & 0.3542 & -0.2364 & -0.2514 & 0.0769 & 0.1109 \\
+Random Forest & -6.5221 & -0.0453 & -0.4014 & -0.6062 & -0.9996 & 0.3542 & -0.2287 & -0.2420 & 0.0747 & 0.1128 \\
+XGBoost & -4.3059 & -0.0299 & -0.2576 & -0.3704 & -0.9964 & 0.4375 & -0.2287 & -0.2479 & 0.0807 & 0.1161 \\
+\hline
+\end{tabular}
+\caption{Risk and trading-proxy metrics across models.}
+\label{table_risk_adjusted_evaluation}
+\end{table}

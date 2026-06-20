@@ -39,8 +39,9 @@ def fit_predict(train: pd.DataFrame, val: pd.DataFrame, test: pd.DataFrame, feat
         metadata={
             "model_name": "gru",
             "backend": result["backend"],
-            "fallback_used": result.get("fallback_used", False),
             "best_params": {"hidden_size": result["hidden_size"], "num_layers": result["num_layers"], "lookback": result["lookback"]},
             "library_version": package_version("torch"),
+            "status": "failed" if "error" in result else "ok",
+            "error": result.get("error"),
         },
     )

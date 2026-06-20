@@ -1,0 +1,3 @@
+# Dataset Transparency and Limitations
+
+The dataset is derived from the workbook input used in this repository, but several provenance fields (price source, volume source, market-cap source, sentiment source) are not available in the current workbook metadata and are explicitly marked as AUTHOR_TO_CONFIRM (see `tables/table_dataset_transparency.csv` and `reports/AUTHOR_ACTION_REQUIRED_dataset_metadata.md`). The paper reports the exact workbook file name, token counts (200 selected modelling tokens from 881 eligible sheets), processed observation counts, split policy, target construction (3-day-ahead closing price), and the token-selection rule. This framing is transparent about survivorship-bias risk introduced by ranking tokens by row count.

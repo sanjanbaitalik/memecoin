@@ -33,33 +33,37 @@ def _compute_token_features(token_frame: pd.DataFrame) -> pd.DataFrame:
     features = pd.DataFrame(index=frame.index)
     features["return_1d"] = returns
     features["return_3d"] = pd.Series(returns).rolling(3, min_periods=1).mean().to_numpy()
+    features["return_7d"] = pd.Series(returns).rolling(7, min_periods=1).mean().to_numpy()
     features["volatility_7d"] = pd.Series(returns).rolling(7, min_periods=1).std().to_numpy()
     features["volatility_14d"] = pd.Series(returns).rolling(14, min_periods=1).std().to_numpy()
 
     if "volume" in frame.columns:
         vol = frame["volume"].to_numpy(dtype=float)
-        vol_safe = np.where(vol == 0, np.nan, vol)
-        features["log_volume"] = np.log1p(vol)
+        features["log_volume"] = np.log1p(np.abs(vol))
         features["volume_ma7"] = pd.Series(vol).rolling(7, min_periods=1).mean().to_numpy()
     else:
         features["log_volume"] = 0.0
         features["volume_ma7"] = 0.0
 
     for prefix in ["twitter_sentiments", "reddit_sentiment", "telegram_sentiment"]:
-        col = prefix if prefix in frame.columns else None
-        if col is not None:
-            features[f"{prefix}_mean"] = frame[col].rolling(7, min_periods=1).mean().to_numpy()
+        if prefix in frame.columns:
+            features[f"{prefix}_mean7"] = pd.Series(frame[prefix].to_numpy(dtype=float)).rolling(7, min_periods=1).mean().to_numpy()
         else:
-            features[f"{prefix}_mean"] = 0.0
+            features[f"{prefix}_mean7"] = 0.0
 
     features["price_level"] = np.log1p(np.abs(price))
-    features["drawdown"] = (price - np.maximum.accumulate(price)) / np.where(np.maximum.accumulate(price) == 0, np.nan, np.maximum.accumulate(price))
+    cum_max = np.maximum.accumulate(price)
+    features["drawdown"] = (price - cum_max) / np.where(cum_max == 0, np.nan, cum_max)
     features["drawdown"] = features["drawdown"].fillna(0.0)
+
+    neg_rets = returns[returns < 0]
+    cvar_95 = float(np.mean(neg_rets)) if len(neg_rets) > 0 else 0.0
+    features["cvar_95"] = cvar_95
 
     return features.fillna(0.0)
 
 
-def edge_score(left: pd.DataFrame, right: pd.DataFrame, threshold: float = 0.5) -> float:
+def edge_score(left: pd.DataFrame, right: pd.DataFrame) -> float:
     left_features = _compute_token_features(left)
     right_features = _compute_token_features(right)
 
@@ -80,7 +84,12 @@ def edge_score(left: pd.DataFrame, right: pd.DataFrame, threshold: float = 0.5) 
     return float(np.mean(corrs)) if corrs else 0.0
 
 
-def build_risk_aware_graph(panel: pd.DataFrame, threshold: float = 0.5, quantile_threshold: float | None = 0.85, k_neighbors: int | None = None) -> tuple[pd.DataFrame, pd.DataFrame]:
+def build_risk_aware_graph(
+    panel: pd.DataFrame,
+    threshold: float = 0.5,
+    quantile_threshold: float | None = 0.85,
+    k_neighbors: int | None = None,
+) -> tuple[pd.DataFrame, pd.DataFrame]:
     token_frames = {token: frame.sort_values("datetime") for token, frame in panel.groupby("sheet_name")}
     nodes = sorted(token_frames)
 
@@ -91,7 +100,7 @@ def build_risk_aware_graph(panel: pd.DataFrame, threshold: float = 0.5, quantile
     for left, right in combinations(nodes, 2):
         left_frame = token_frames[left]
         right_frame = token_frames[right]
-        score = edge_score(left_frame, right_frame, threshold=threshold)
+        score = edge_score(left_frame, right_frame)
         all_scores.append({"source": left, "target": right, "score": score, "abs_score": abs(score)})
 
     if not all_scores:
@@ -162,7 +171,12 @@ def connected_components(nodes: list[str], edges: pd.DataFrame) -> int:
     return components
 
 
-def graph_statistics(panel: pd.DataFrame, edges: pd.DataFrame, selected_tokens: list[str], threshold: float) -> pd.DataFrame:
+def graph_statistics(
+    panel: pd.DataFrame,
+    edges: pd.DataFrame,
+    selected_tokens: list[str],
+    threshold: float,
+) -> pd.DataFrame:
     nodes = sorted(panel["sheet_name"].astype(str).unique().tolist())
     selected_panel = panel[panel["sheet_name"].astype(str).isin(selected_tokens)].copy()
     full_corr = pairwise_correlation_mean(panel.pivot_table(index="datetime", columns="sheet_name", values="price", aggfunc="last").ffill().bfill())
@@ -176,6 +190,15 @@ def graph_statistics(panel: pd.DataFrame, edges: pd.DataFrame, selected_tokens: 
     avg_degree = float((2 * n_edges) / max(n_nodes, 1))
     selected_avg_degree = float((2 * selected_edge_count) / max(len(selected_tokens), 1))
     redundancy_reduction = float(100.0 * (1.0 - (selected_corr / full_corr))) if np.isfinite(full_corr) and full_corr not in (0.0,) and np.isfinite(selected_corr) else 0.0
+
+    full_prices = panel.pivot_table(index="datetime", columns="sheet_name", values="price", aggfunc="last").ffill().bfill()
+    full_returns = full_prices.pct_change().dropna()
+    full_cvar = float(full_returns.quantile(0.05).mean()) if not full_returns.empty else 0.0
+
+    sel_prices = selected_panel.pivot_table(index="datetime", columns="sheet_name", values="price", aggfunc="last").ffill().bfill()
+    sel_returns = sel_prices.pct_change().dropna()
+    sel_cvar = float(sel_returns.quantile(0.05).mean()) if not sel_returns.empty else 0.0
+
     return pd.DataFrame(
         [
             {"metric": "number_of_nodes", "value": n_nodes},
@@ -183,11 +206,70 @@ def graph_statistics(panel: pd.DataFrame, edges: pd.DataFrame, selected_tokens: 
             {"metric": "graph_density", "value": density},
             {"metric": "average_degree", "value": avg_degree},
             {"metric": "connected_components", "value": connected_components(nodes, edges)},
-            {"metric": "selected_mis_support_size", "value": len(selected_tokens)},
+            {"metric": "selected_mis_size", "value": len(selected_tokens)},
             {"metric": "selected_edge_count", "value": selected_edge_count},
             {"metric": "average_pairwise_correlation_before_mis", "value": full_corr},
             {"metric": "average_pairwise_correlation_after_mis", "value": selected_corr},
             {"metric": "redundancy_reduction_percentage", "value": redundancy_reduction},
+            {"metric": "average_cvar_before_mis", "value": full_cvar},
+            {"metric": "average_cvar_after_mis", "value": sel_cvar},
             {"metric": "similarity_threshold_or_quantile", "value": threshold},
         ]
     )
+
+
+def calibrate_threshold(
+    panel: pd.DataFrame,
+    candidate_thresholds: list[float] | None = None,
+    use_quantile: bool = False,
+    min_density: float = 0.05,
+    max_density: float = 0.60,
+) -> tuple[float, dict[str, float]]:
+    if candidate_thresholds is None:
+        candidate_thresholds = [0.50, 0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95]
+    if use_quantile:
+        candidate_thresholds = [0.50, 0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95]
+
+    best_score = -float("inf")
+    best_threshold = candidate_thresholds[0]
+    best_info: dict[str, float] = {}
+
+    for thresh in candidate_thresholds:
+        if use_quantile:
+            _, edges = build_risk_aware_graph(panel, quantile_threshold=thresh)
+        else:
+            _, edges = build_risk_aware_graph(panel, threshold=thresh)
+
+        params = {}
+        stat_df = graph_statistics(panel, edges, [], thresh)
+        params["threshold"] = thresh
+        params["density"] = float(stat_df[stat_df["metric"] == "graph_density"]["value"].iloc[0])
+        params["mis_size"] = 0
+        mis_size_total = len(panel["sheet_name"].unique())
+
+        if len(edges) > 0:
+            mis = greedy_maximal_independent_set(
+                sorted(panel["sheet_name"].astype(str).unique().tolist()),
+                edges,
+            )
+            params["mis_size"] = len(mis)
+
+        dens = params["density"]
+        mis_size = params["mis_size"]
+
+        if dens > 0 and mis_size > 0:
+            mis_size_norm = mis_size / max(mis_size_total, 1)
+            redundancy_norm = 1.0 - min(dens, 1.0)
+            density_penalty = abs(dens - 0.25)
+            score = mis_size_norm + redundancy_norm - density_penalty
+        else:
+            score = -float("inf")
+
+        params["score"] = score
+
+        if score > best_score:
+            best_score = score
+            best_threshold = thresh
+            best_info = params
+
+    return best_threshold, best_info

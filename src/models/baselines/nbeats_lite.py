@@ -3,14 +3,14 @@ from __future__ import annotations
 import pandas as pd
 
 from .common import BaselineRunResult, package_version
-from .sequence_models import _TCNModel, train_sequence_model
+from .sequence_models import _NBeatsLiteModel, train_sequence_model
 
 from prism.evaluation.metrics import evaluate_frame
 
 
 def fit_predict(train: pd.DataFrame, val: pd.DataFrame, test: pd.DataFrame, feature_cols: list[str], seed: int) -> BaselineRunResult:
     result = train_sequence_model(
-        model_class=_TCNModel,
+        model_class=_NBeatsLiteModel,
         model_name="torch_nbeats",
         train=train,
         val=val,
@@ -35,12 +35,13 @@ def fit_predict(train: pd.DataFrame, val: pd.DataFrame, test: pd.DataFrame, feat
 
     return BaselineRunResult(
         predictions=prediction_frame,
-        metrics=metrics,
+        metrics=metrics if not pred is None else {},
         metadata={
             "model_name": "nbeats_lite",
             "backend": result["backend"],
-            "fallback_used": result.get("fallback_used", False),
             "best_params": {"hidden_size": result["hidden_size"], "num_layers": result["num_layers"], "lookback": result["lookback"]},
             "library_version": package_version("torch"),
+            "status": "failed" if "error" in result else "ok",
+            "error": result.get("error"),
         },
     )

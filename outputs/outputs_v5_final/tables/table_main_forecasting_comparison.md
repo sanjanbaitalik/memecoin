@@ -1,0 +1,11 @@
+# Main Forecasting Comparison
+
+Mean and std across tokens and seeds
+
+| model | mae_mean | mae_std | rmse_mean | rmse_std | smape_mean | smape_std | model_display |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| PRISM-V3b | 0.0033 | 0.0062 | 0.0039 | 0.0075 | 71.7590 | 56.5817 | PRISM-V3b |
+| PRISM-V2 | 0.0034 | 0.0061 | 0.0040 | 0.0074 | 77.4725 | 63.3457 | PRISM-V2 |
+| PRISM-V3a | 0.0034 | 0.0064 | 0.0036 | 0.0069 | 70.5447 | 55.3686 | PRISM-V3a |
+| PRISM-V1 | 0.0078 | 0.0073 | 0.0085 | 0.0072 | 183.2389 | 25.5180 | PRISM-V1 |
+| PRISM-V0 | 0.0118 | 0.0106 | 0.0120 | 0.0109 | 161.4834 | 35.6541 | PRISM-V0 |

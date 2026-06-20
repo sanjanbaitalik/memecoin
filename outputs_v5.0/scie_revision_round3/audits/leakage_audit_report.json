@@ -1,0 +1,77 @@
+{
+  "passed": true,
+  "items": [
+    {
+      "audit_item": "All features at time t use only information available at or before t",
+      "status": "PASS",
+      "evidence_file_function": "src/scie_revision/common.py::chronological_train_val_test_split",
+      "notes": "Chronological split and lagged features only."
+    },
+    {
+      "audit_item": "The 3-day-ahead target is never used in feature scaling",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/data/preprocess.py::preprocess_dataset",
+      "notes": "Scaling is fit on the training subset only and excludes the target."
+    },
+    {
+      "audit_item": "Scaling parameters are fitted on training data only",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/data/preprocess.py::preprocess_dataset",
+      "notes": "Train-only means and standard deviations."
+    },
+    {
+      "audit_item": "Rolling volatility uses only past/current observations",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/data/preprocess.py::preprocess_dataset",
+      "notes": "Rolling features are built with lag/shift operations."
+    },
+    {
+      "audit_item": "Rolling sentiment aggregation uses only past/current sentiment values",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/data/preprocess.py::preprocess_dataset",
+      "notes": "Sentiment smoothing is causal within each token series."
+    },
+    {
+      "audit_item": "Graph construction is performed using training-period data only for each split",
+      "status": "PASS",
+      "evidence_file_function": "src/graph/risk_aware_graph.py::build_risk_aware_graph",
+      "notes": "Graph helper consumes the training panel only; features are causal."
+    },
+    {
+      "audit_item": "MIS selection is computed using training-period graph only",
+      "status": "PASS",
+      "evidence_file_function": "src/graph/risk_aware_graph.py::greedy_maximal_independent_set",
+      "notes": "Selected on the graph returned from training-period data."
+    },
+    {
+      "audit_item": "MAML support/query/test splits are chronological and non-overlapping",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/models/prism_variants.py::_train_maml",
+      "notes": "First-order MAML uses support set from early training period, query set from later training period. Test set is fully held out."
+    },
+    {
+      "audit_item": "Validation data are not used in meta-training updates except for tuning/early stopping",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/models/prism_variants.py::_train_maml",
+      "notes": "Validation used only for model selection and early stopping of meta-learning."
+    },
+    {
+      "audit_item": "Test data are never used for feature selection, token selection, graph construction, scaling, tuning, early stopping, or meta-training",
+      "status": "PASS",
+      "evidence_file_function": "src/scie_revision/common.py + src/prism/data/preprocess.py",
+      "notes": "Test rows are held out before tuning, scaling, and meta-training."
+    },
+    {
+      "audit_item": "All ablation variants use the same token subset, same split, same horizon, and same target transformation",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/models/prism_variants.py",
+      "notes": "Ablation variants are derived from the same processed panel with identical splits."
+    },
+    {
+      "audit_item": "Target normalization, if used, is inverted consistently for all models and variants",
+      "status": "PASS",
+      "evidence_file_function": "src/prism/models/prism_variants.py",
+      "notes": "No inverse scaling mismatch is introduced in the revision pipeline."
+    }
+  ]
+}

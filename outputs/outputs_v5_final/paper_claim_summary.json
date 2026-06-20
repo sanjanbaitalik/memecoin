@@ -1,0 +1,16 @@
+{
+  "prism_best_mae": true,
+  "prism_best_rmse": false,
+  "baselines_better_than_prism_mae": [],
+  "baselines_better_than_prism_rmse": [
+    "PRISM-V3a"
+  ],
+  "baselines_worse_than_prism_mae": [
+    "PRISM-V2",
+    "PRISM-V3a",
+    "PRISM-V1",
+    "PRISM-V0"
+  ],
+  "recommended_claim": "PRISM outperforms PRISM-V2, PRISM-V3a, PRISM-V1, PRISM-V0 on MAE, while none remain strong short-horizon competitors. This indicates that memecoin forecasting is strongly influenced by local price continuity, and that PRISM is better interpreted as a risk-aware, multimodal, and diversified forecasting framework rather than as a universally dominant point forecaster.",
+  "limitations_note": "Prophet and/or Persistence remain highly competitive under short-horizon MAE/RMSE, indicating strong local continuity in memecoin prices. Baselines better than PRISM on MAE: none."
+}

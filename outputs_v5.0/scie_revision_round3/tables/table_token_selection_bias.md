@@ -1,0 +1,20 @@
+# Token Selection Bias Table
+
+Token-selection and survivorship-bias analysis.
+
+| analysis_item | count_or_flag | mean_or_rate | median_or_detail |
+| --- | --- | --- | --- |
+| candidate_token_sheets | 1273.0000 | 0.0000 | 0.0000 |
+| valid_schema_sheets | 1273.0000 | 0.0000 | 0.0000 |
+| date_parse_valid_sheets | 993.0000 | 0.0000 | 0.0000 |
+| eligible_sheets | 894.0000 | 0.0000 | 0.0000 |
+| selected_modelling_tokens | 50.0000 | 0.0000 | 0.0000 |
+| evaluated_tokens | 50.0000 | 0.0000 | 0.0000 |
+| dead_short_history_invalid_date_excluded | 379.0000 | 0.0000 | 0.0000 |
+| mean_row_count_eligible_non_selected | 0.0000 | 0.0000 | 0.0000 |
+| mean_row_count_selected | 65.3878 | 0.0000 | 0.0000 |
+| median_row_count_eligible_non_selected | 0.0000 | 0.0000 | 0.0000 |
+| median_row_count_selected | 74.0000 | 0.0000 | 0.0000 |
+| selected_tokens_have_longer_histories | 0.0000 | 0.0000 | 0.0000 |
+| missingness_rate_before_filtering | 0.0000 | 0.0874 | 0.0000 |
+| survivorship_bias_warning | 1.0000 | 0.0000 | 0.0000 |

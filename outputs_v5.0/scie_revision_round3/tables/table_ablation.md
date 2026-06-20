@@ -1,0 +1,10 @@
+# Ablation Study
+
+Strict ablation comparison across PRISM variants.
+
+| variant | modules_included | mae_mean | mae_std | rmse_mean | rmse_std | smape_mean | smape_std | mase_mean | directional_accuracy_mean | n_tokens | n_seeds |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| V0 | Price-only LSTM | 0.0316 | 0.0867 | 0.0321 | 0.0879 | 159.3561 | 50.9636 | nan | 0.4121 | 48 | 3 |
+| V1 | V0 + sentiment fusion | 0.0276 | 0.0875 | 0.0302 | 0.0891 | 171.9635 | 46.4734 | nan | 0.5981 | 48 | 3 |
+| V2 | V1 + risk-aware graph + MIS support diversification | 0.0261 | 0.1046 | 0.0268 | 0.1055 | 77.9602 | 41.5445 | nan | 0.2937 | 48 | 3 |
+| V3 | Full PRISM + first-order MAML adaptation | 0.0313 | 0.1232 | 0.0340 | 0.1245 | 84.7171 | 37.7033 | nan | 0.3245 | 48 | 3 |

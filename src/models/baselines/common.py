@@ -220,17 +220,17 @@ def run_arima(train: pd.DataFrame, test: pd.DataFrame) -> BaselineRunResult:
         backend = "statsmodels_arima"
         lib = package_version("statsmodels")
     except Exception as exc:
-        pred = np.repeat(float(train["price"].iloc[-1]), len(test))
-        backend = f"arima_fallback_persistence:{type(exc).__name__}"
+        pred = np.full(len(test), np.nan)
+        backend = f"arima_failed:{type(exc).__name__}"
         lib = package_version("statsmodels")
 
     eval_df = test[["price", "target_t_plus_h"]].copy()
     eval_df["yhat"] = pred
-    metrics = evaluate_frame(eval_df, "yhat")
+    metrics = evaluate_frame(eval_df, "yhat") if not np.isnan(pred).all() else {}
     return BaselineRunResult(
         predictions=test[["sheet_name", "datetime", "price", "target_t_plus_h"]].assign(yhat=pred),
-        metrics=metrics,
-        metadata={"model_name": "arima", "backend": backend, "library_version": lib},
+        metrics={k: float("nan") for k in ["mae", "mse", "rmse", "mape", "smape", "mase", "r2"]} if np.isnan(pred).all() else metrics,
+        metadata={"model_name": "arima", "backend": backend, "library_version": lib, "status": "failed" if np.isnan(pred).all() else "ok"},
     )
 
 
@@ -241,18 +241,18 @@ def run_prophet(train: pd.DataFrame, test: pd.DataFrame) -> BaselineRunResult:
         m = Prophet()
         df = pd.DataFrame({"ds": train["datetime"], "y": train["target_t_plus_h"]})
         m.fit(df)
-        pred = m.predict(pd.DataFrame({"ds": test["datetime"]})) ["yhat"].to_numpy(dtype=float)
+        pred = m.predict(pd.DataFrame({"ds": test["datetime"]}))["yhat"].to_numpy(dtype=float)
         backend = "prophet"
         note = "ok"
     except Exception as exc:
-        pred = np.repeat(float(train["price"].iloc[-1]), len(test))
-        backend = f"prophet_compat_fallback:{type(exc).__name__}"
-        note = "fallback_persistence"
+        pred = np.full(len(test), np.nan)
+        backend = f"prophet_failed:{type(exc).__name__}"
+        note = f"failed:{type(exc).__name__}"
     eval_df = test[["price", "target_t_plus_h"]].copy()
     eval_df["yhat"] = pred
-    metrics = evaluate_frame(eval_df, "yhat")
+    metrics = evaluate_frame(eval_df, "yhat") if not np.isnan(pred).all() else {}
     return BaselineRunResult(
         predictions=test[["sheet_name", "datetime", "price", "target_t_plus_h"]].assign(yhat=pred),
-        metrics=metrics,
-        metadata={"model_name": "prophet", "backend": backend, "library_version": package_version("prophet"), "note": note},
+        metrics={k: float("nan") for k in ["mae", "mse", "rmse", "mape", "smape", "mase", "r2"]} if np.isnan(pred).all() else metrics,
+        metadata={"model_name": "prophet", "backend": backend, "library_version": package_version("prophet"), "note": note, "status": "failed" if np.isnan(pred).all() else "ok"},
     )

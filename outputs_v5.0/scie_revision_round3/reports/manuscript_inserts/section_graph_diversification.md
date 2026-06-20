@@ -1,0 +1,3 @@
+# Graph and MIS Diversification
+
+Tokens are represented as nodes in a similarity graph constructed from multi-factor features including rolling volatility, return trajectories, sentiment trajectories, and volume/liquidity patterns (see `tables/table_graph_diversification.csv`). Edges are determined using quantile-based thresholding (top 15% of pairwise similarities). A greedy maximal independent set is selected to reduce redundant token exposure before downstream sequence modeling (see `figures/fig_graph_diversification.png` and `reports/mis_diversification_interpretation.md`).

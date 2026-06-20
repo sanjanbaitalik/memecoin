@@ -1,1 +1,0 @@
-Selecting the top tokens by row count can overrepresent longer-lived assets and therefore introduce survivorship bias. The revision reports this explicitly, quantifies the row-count distribution, and keeps the limitation visible in the paper-facing summary.
